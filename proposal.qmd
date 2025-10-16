@@ -1,7 +1,6 @@
 ---
 title: "Media Bias and Democratic Backsliding: Evidence from U.S. Media Bias and Presidential Interventions"
 author: "Xingyuan Zhao"
-date: "October 16, 2025"
 format:
   pdf:
     documentclass: article
