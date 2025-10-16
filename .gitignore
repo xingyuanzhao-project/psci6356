@@ -28,3 +28,5 @@ Thumbs.db
 
 
 **/*.quarto_ipynb
+
+/.quarto/
