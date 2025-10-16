@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: .
+  render:
+    - index.qmd
+    - psci6356_proposal_presentation.qmd
+  
+website:
+  title: "PSCI 6356 Project"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Presentation"
+        href: psci6356_proposal_presentation.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    footer: "Xingyuan Zhao - PSCI 6356"
+
+execute:
+  echo: true
+  warning: false
+  message: false
+

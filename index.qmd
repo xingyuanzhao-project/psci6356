@@ -1,0 +1,10 @@
+---
+title: "PSCI 6356"
+author: "Xingyuan Zhao"
+format: html
+---
+
+## Presentations
+
+- [Media Bias and Democratic Backsliding - Proposal Presentation](epps6356_proposal_presentation.html)
+

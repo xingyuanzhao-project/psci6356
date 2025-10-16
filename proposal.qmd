@@ -1,0 +1,107 @@
+---
+title: "Media Independence/Rhetoric and Democratic Backsliding"
+subtitle: "Evidence from U.S. Partisan Media and Presidential Interventions"
+author: "Xingyuan Zhao"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: true
+    theme: cosmo
+  pdf:
+    toc: true
+    number-sections: true
+    geometry: 
+      - margin=1in
+    fontsize: 12pt
+abstract: |
+  This paper examines 
+keywords: [democratic backsliding, elite rhetoric, media bias, populism]
+bibliography: references.bib
+---
+
+## Motivation
+
+President Trump calling out cities for high crime rates and deploying national guard to those cities to combat crime.
+
+Republican social media coverage of crime in left-leaning cities.
+
+Right-wing legacy media coverage of crime in left-leaning cities.
+
+---
+
+## Discrepancy
+
+However, the actual crime rate tells a different story.
+
+FBI Crime Data Explorer:
+
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend
+
+---
+
+## Literature Review
+
+Although, it is already established that media bias exists
+
+Academic literature:
+
+But we need to answer how does this affect the support for democracy?
+
+---
+
+## test 1
+
+stage 1: Political leaders reduce media independence and increase media bias by creating biased narratives
+unit: state-time
+dv: bias
+intervention: trump tweets/truths social
+expected outcome: political leaders incite media bias to achieve their own goals
+
+---
+
+## literature review 2
+
+we know that non democratic leaders more likely to win elections when the voters are supporting disruptive changes. So the media bias from relatity will reduce support for democracy.
+But then, the questions is, how does the fabricated claims affect the support for democracy?
+
+---
+
+## main argument
+
+so there arer 3 things:
+democratic goals
+actual performance
+and perceived performance
+
+theoretically speaking, if the descrepency between the goals and the actual performance is large, then the people will support the political leader that promises drastic changes and leads to more democratic backsliding. However, I hypothesize the gap between the goals and perceived performance can be better predictor of democratic backsliding.
+
+---
+
+## test 2
+
+stage 2 test:
+unit: country
+dv: backsliding
+iv: bias, performance
+expected outcome: media bias leads to more democratic backsliding
+
+---
+
+## Methodology
+
+1. Use 
+
+
+
+---
+
+
+data:
+
+
+international media bias dataset:
+generated from 
+https://huggingface.co/datasets/newsmediabias/news-bias-full-data

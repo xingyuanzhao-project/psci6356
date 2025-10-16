@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "psci6356_proposal_presentation.html#motivation",
+    "href": "psci6356_proposal_presentation.html#motivation",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Motivation",
+    "text": "Motivation\nPresident Trump calling out cities for high crime rates and deploying national guard to those cities to combat crime."
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#discrepancy",
+    "href": "psci6356_proposal_presentation.html#discrepancy",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Discrepancy",
+    "text": "Discrepancy\nHowever, the actual crime rate tells a different story."
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#literature-review",
+    "href": "psci6356_proposal_presentation.html#literature-review",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Literature Review",
+    "text": "Literature Review\nIt is already established that media bias exists:\n\nStrong consensus on bias in “hard news” and politicized issues\nOlder research: less severe in “soft news” and objective topics\nPartisan consumption patterns persist across all news types"
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#test-1",
+    "href": "psci6356_proposal_presentation.html#test-1",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Test 1",
+    "text": "Test 1\nQuestion: Do political leaders reduce media independence and increase media bias by creating biased narratives?\n\nUnit of analysis: State-time\nDependent variable: Media bias: the difference between the actual crime rate and media coverage of the same crime type in a period of time\nIntervention: Trump Truth Social posts\nExpected outcome: Political leaders incite biased media coverage to achieve their own goals"
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#literature-review-cont.",
+    "href": "psci6356_proposal_presentation.html#literature-review-cont.",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Literature Review (cont.)",
+    "text": "Literature Review (cont.)\n\nQuestion: But how does the media bias from reality affect the support for democracy?\nBacksliding leaders win elections when voters embrace the promise of disruptive changes\nBetter socioeconomic performance indeed provides more stable regimes,\nBut evidence that lack of such performance causes democratic backsliding remains limited."
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#main-argument",
+    "href": "psci6356_proposal_presentation.html#main-argument",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Main Argument",
+    "text": "Main Argument\nPartisan media bias that distorts reality reduces perceived performance, enlarging the gap between perceived and actual performance, leading to more support for drastic changes, and hence creating more room for democratic backsliding."
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#test-2",
+    "href": "psci6356_proposal_presentation.html#test-2",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Test 2",
+    "text": "Test 2\n\nUnit of analysis: Country\nDV: Democratic Backsliding\nIV: Media Bias\nExpected outcome: Media bias distorting reality reduces support for democracy"
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#methodology",
+    "href": "psci6356_proposal_presentation.html#methodology",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Methodology",
+    "text": "Methodology\nTBD"
+  },
+  {
+    "objectID": "psci6356_proposal_presentation.html#data-sources",
+    "href": "psci6356_proposal_presentation.html#data-sources",
+    "title": "Media Bias and Democratic Backsliding",
+    "section": "Data Sources",
+    "text": "Data Sources\n\nCrime Rate: FBI Crime Data Explorer\nMedia Coverage: CNN and Fox News API\nMedia Bias: International media bias dataset from HuggingFace\nhttps://huggingface.co/datasets/newsmediabias/news-bias-full-data\nDemocratic Backsliding: V-Dem indices"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PSCI 6356",
+    "section": "",
+    "text": "Media Bias and Democratic Backsliding - Proposal Presentation"
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "PSCI 6356",
+    "section": "",
+    "text": "Media Bias and Democratic Backsliding - Proposal Presentation"
+  }
+]

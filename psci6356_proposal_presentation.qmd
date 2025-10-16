@@ -1,0 +1,95 @@
+---
+title: "Media Bias and Democratic Backsliding"
+subtitle: "Evidence from U.S. Media Bias and Presidential Interventions"
+author: "Xingyuan Zhao"
+date: today
+format: revealjs
+---
+
+## Motivation
+
+President Trump calling out cities for high crime rates and deploying national guard to those cities to combat crime.
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+  <img src="post1.png" style="width: 45%; height: auto;">
+  <img src="post2.png" style="width: 45%; height: auto;">
+</div>
+
+---
+
+## Discrepancy
+
+However, the actual crime rate tells a different story.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px; height: 80vh; justify-content: center;">
+  <img src="crime1.png" style="width: 100%; max-height: 38vh; object-fit: contain;">
+  <img src="crime2.png" style="width: 100%; max-height: 38vh; object-fit: contain;">
+</div>
+
+---
+
+## Literature Review
+
+It is already established that media bias exists:
+
+- Strong consensus on bias in "hard news" and politicized issues
+- Older research: less severe in "soft news" and objective topics
+- Partisan consumption patterns persist across all news types
+
+---
+
+## Test 1
+
+**Question:** Do political leaders reduce media independence and increase media bias by creating biased narratives?
+
+- **Unit of analysis:** State-time
+- **Dependent variable:** Media bias: the difference between the actual crime rate and media coverage of the same crime type in a period of time
+- **Intervention:** Trump Truth Social posts
+- **Expected outcome:** Political leaders incite biased media coverage to achieve their own goals
+
+---
+
+## Literature Review (cont.)
+
+- **Question:** But how does the media bias from reality affect the support for democracy?
+
+- Backsliding leaders win elections when voters embrace the promise of disruptive changes
+
+- Better socioeconomic performance indeed provides more stable regimes,
+
+- But evidence that lack of such performance causes democratic backsliding remains limited.
+
+---
+
+## Main Argument
+
+Partisan media bias that distorts reality reduces perceived performance, enlarging the gap between perceived and actual performance, leading to more support for drastic changes, and hence creating more room for democratic backsliding.
+
+---
+
+## Test 2
+
+- **Unit of analysis:** Country
+- **DV:** Democratic Backsliding
+- **IV:** Media Bias
+- **Expected outcome:** Media bias distorting reality reduces support for democracy
+
+---
+
+## Methodology
+
+TBD
+
+---
+
+## Data Sources
+
+- **Crime Rate:** FBI Crime Data Explorer
+- **Media Coverage:** CNN and Fox News API
+- **Media Bias:** International media bias dataset from HuggingFace  
+  https://huggingface.co/datasets/newsmediabias/news-bias-full-data
+- **Democratic Backsliding:** V-Dem indices
+
+---
+
+[Home](index.html)
