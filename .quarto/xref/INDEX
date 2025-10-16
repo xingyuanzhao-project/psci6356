@@ -1,0 +1,23 @@
+{
+  "epps6356_proposal_presentation.qmd": {
+    "epps6356_proposal_presentation.html": "e8a46f0d"
+  },
+  "op1_fetch_crime_rate.ipynb": {
+    "op1_fetch_crime_rate.html": "6bd4183d"
+  },
+  "op2_crime_rate_agg.ipynb": {
+    "op2_crime_rate_agg.html": "eeba83c6"
+  },
+  "idea.md": {
+    "idea.html": "2974f0b7"
+  },
+  "index.qmd": {
+    "index.html": "0801a2a7"
+  },
+  "proposal.qmd": {
+    "proposal.html": "bf687141"
+  },
+  "psci6356_proposal_presentation.qmd": {
+    "psci6356_proposal_presentation.html": "0427e745"
+  }
+}

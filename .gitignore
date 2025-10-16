@@ -1,9 +1,5 @@
-# Quarto
-/.quarto/
-_site/
-_output/
-*_files/
-*.html
+# Data
+data/
 
 # Jupyter
 .ipynb_checkpoints/
