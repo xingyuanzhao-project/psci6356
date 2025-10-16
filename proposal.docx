@@ -1,0 +1,82 @@
+Media Bias and Democratic Backsliding:
+Evidence from U.S. Media Bias and Presidential Interventions
+
+Xingyuan Zhao
+October 16, 2025
+
+ABSTRACT
+
+This paper examines the relationship between partisan media bias and democratic backsliding by investigating two key mechanisms. First, I explore whether political leaders actively reduce media independence by creating biased narratives through their public communications. Second, I assess how media bias that distorts reality affects public support for democracy. Using evidence from U.S. crime reporting, presidential social media interventions, and cross-national data, I argue that partisan media bias enlarges the gap between actual and perceived performance, creating conditions that allow support for drastic changes and favor democratic backsliding. This study contributes to understanding how elite rhetoric shapes media coverage and how distorted information environments undermine democratic stability.
+
+Keywords: democratic backsliding, elite rhetoric, media bias, populism, crime coverage
+
+
+MOTIVATION AND RESEARCH PROBLEM
+
+Recent events in the United States have highlighted a concerning pattern in the relationship between political leadership, media coverage, and public perception. President Trump has repeatedly called out cities for high crime rates and deployed the National Guard to combat crime in these areas. These interventions have been accompanied by extensive media coverage, particularly from partisan outlets, emphasizing crime problems in left-leaning cities. Republican social media and right-wing legacy media have consistently amplified narratives about rising crime in urban, Democratic-controlled areas.
+
+However, a critical discrepancy emerges when examining actual crime data. According to the FBI Crime Data Explorer, the actual crime rates in many of these cities tell a substantially different story than the narrative promoted by political leaders and echoed in partisan media coverage. This gap between reality and media representation raises fundamental questions about media independence, the role of political elites in shaping information environments, and the consequences for democratic governance.
+
+This research addresses two interrelated questions. First, do political leaders reduce media independence and increase media bias by creating biased narratives? Second, how does media bias that distorts reality affect public support for democracy and create conditions for democratic backsliding? Understanding these mechanisms is crucial for comprehending contemporary threats to democratic stability.
+
+
+LITERATURE REVIEW
+
+Media Bias and Partisan Coverage
+
+There is strong academic consensus that media bias exists in contemporary news coverage. Previous research has established that partisan bias is particularly pronounced in "hard news" coverage and politically charged issues. Earlier scholarship suggested that bias was less severe in "soft news" and coverage of supposedly objective topics like crime statistics. However, partisan consumption patterns persist across all news types, with audiences increasingly self-selecting into ideologically aligned news sources. Media outlets face incentives to cater to their audience's preferences, potentially amplifying bias over time.
+
+Despite this robust literature on media bias, less attention has been paid to how political elites actively shape and amplify media bias through their own communications, particularly on social media platforms. The role of elite rhetoric in creating biased narratives that media outlets subsequently amplify remains underexplored. This gap is particularly important given the rise of social media as a direct communication channel between political leaders and both the public and the media.
+
+Democratic Backsliding and Performance
+
+The literature on democratic backsliding has established that backsliding leaders are more likely to win elections when voters embrace promises of disruptive changes. Research shows that better socioeconomic performance generally provides more stable democratic regimes, creating a buffer against anti-democratic appeals. However, evidence that lack of actual performance directly causes democratic backsliding remains limited. The existing literature tends to focus on objective performance indicators without adequately considering the role of perception and information environments in shaping public attitudes toward democracy.
+
+This gap in the literature suggests a need to examine not just actual performance, but perceived performance and the role of information environments in shaping these perceptions. The question of how fabricated claims and distorted media coverage affect support for democracy remains largely unanswered, despite its clear relevance to understanding contemporary democratic erosion.
+
+
+THEORETICAL FRAMEWORK AND MAIN ARGUMENT
+
+I argue that partisan media bias that distorts reality operates through a specific mechanism to facilitate democratic backsliding. Democratic stability depends on three distinct factors: democratic goals and expectations, actual government performance, and perceived government performance. Traditional theories suggest that when the gap between democratic goals and actual performance is large, citizens become more willing to support political leaders who promise drastic changes, potentially leading to democratic backsliding.
+
+However, I hypothesize that the gap between democratic goals and perceived performance is a better predictor of democratic backsliding than the gap with actual performance. Partisan media bias that distorts reality reduces perceived performance relative to actual performance. This enlarges the gap between citizens' expectations and what they believe is being delivered, creating more support for drastic changes and hence more room for democratic backsliding—even when actual performance may be adequate or improving.
+
+Furthermore, I posit that political leaders strategically contribute to this process by generating biased narratives that media outlets then amplify. This creates a feedback loop between elite rhetoric and media coverage that further distorts public perception. Political leaders incite media bias to achieve their own goals, using biased narratives to shape the information environment in ways that benefit their political objectives.
+
+
+RESEARCH DESIGN
+
+Test 1: Do Political Leaders Increase Media Bias?
+
+The first test examines whether political leaders reduce media independence and increase media bias by creating biased narratives. The unit of analysis is state-time observations, allowing for systematic comparison across different contexts and periods. The dependent variable is media bias, operationalized as the difference between actual crime rates from FBI data and the intensity and tone of media coverage of crime in the same location and time period.
+
+The key independent variable is President Trump's Truth Social posts about crime in specific cities and states, which serve as interventions that can be precisely timed and measured. The analysis will control for baseline crime rates, state political composition, media market characteristics, and temporal trends. The expected outcome is that political leaders' strategic communications increase media bias by creating narratives that media outlets amplify, particularly when those narratives align with partisan media outlets' ideological orientation.
+
+Test 2: Does Media Bias Facilitate Democratic Backsliding?
+
+The second test examines whether media bias that distorts reality reduces support for democracy and facilitates democratic backsliding. The unit of analysis shifts to country-year observations, enabling cross-national comparison. The dependent variable is democratic backsliding, measured using V-Dem indices that capture various dimensions of democratic quality and erosion.
+
+The key independent variables include media bias measured as the difference between actual and reported performance indicators, actual socioeconomic performance, and perceived performance from surveys. The analysis will control for historical democratic stability, economic conditions, political institutions, and regional factors. The expected outcome is that media bias that distorts reality reduces support for democracy by enlarging the gap between expectations and perceived performance, even when actual performance remains stable or improves.
+
+
+DATA SOURCES
+
+This research utilizes multiple complementary data sources to test the theoretical framework. Crime rate data comes from the FBI Crime Data Explorer, which provides standardized crime statistics across U.S. cities and states and allows tracking of temporal trends in various crime categories. Media coverage data will be collected through CNN and Fox News APIs, enabling systematic collection of news coverage about crime and allowing comparison between outlets with different partisan orientations.
+
+Media bias measurement draws on the International News Media Bias Dataset, a comprehensive dataset available through HuggingFace that allows validation and extension of bias measures across different contexts. Presidential communications will be systematically collected from Truth Social posts, enabling precise measurement of elite intervention timing and content. Finally, democratic quality data comes from V-Dem indices, which provide cross-national measures of democratic backsliding with multiple indicators of democratic quality and institutional performance across time.
+
+
+METHODOLOGY
+
+The analysis will proceed in two stages corresponding to the two tests described above. The first stage employs panel analysis of state-level media bias using difference-in-differences or event study designs to identify the effect of presidential communications on media coverage bias. This approach allows for causal identification of the relationship between elite rhetoric and media bias by comparing changes in media coverage in states mentioned in presidential posts to those not mentioned, before and after the interventions.
+
+The second stage uses cross-national analysis with panel regression or multilevel models to assess the relationship between media bias, actual performance, perceived performance, and democratic backsliding. This stage will carefully distinguish between the effects of actual versus perceived performance gaps, testing whether information environment distortions have independent effects on democratic erosion. Specific methodological details, including precise model specifications, identification strategies, and robustness checks, will be developed through preliminary data exploration and consultation with the existing literature.
+
+
+EXPECTED CONTRIBUTIONS
+
+This research makes several important theoretical contributions. It clarifies the mechanism through which elite rhetoric shapes information environments, going beyond simple documentation of media bias to show how political leaders actively create and amplify distorted narratives. The framework distinguishes between actual and perceived performance in theories of democratic backsliding, showing that perception gaps may matter more than reality gaps. It also integrates elite behavior, media bias, and democratic erosion into a unified theoretical framework.
+
+Empirically, the research provides systematic evidence on how political leaders influence media coverage using novel identification strategies and multiple data sources. It quantifies the relationship between media bias and democratic backsliding across different contexts, using a combination of U.S. subnational data and cross-national evidence. This multi-level approach strengthens causal inference and generalizability of the findings.
+
+The research has significant policy relevance by identifying key vulnerabilities in democratic information environments. It highlights the importance of media independence for democratic stability and suggests potential interventions to maintain accurate public information. Understanding how elite rhetoric and media bias interact to undermine democracy is essential for developing effective safeguards against democratic backsliding.

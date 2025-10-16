@@ -38,47 +38,50 @@ It is already established that media bias exists:
 
 ---
 
-## Test 1
-
-**Question:** Do political leaders reduce media independence and increase media bias by creating biased narratives?
-
-- **Unit of analysis:** State-time
-- **Dependent variable:** Media bias: the difference between the actual crime rate and media coverage of the same crime type in a period of time
-- **Intervention:** Trump Truth Social posts
-- **Expected outcome:** Political leaders incite biased media coverage to achieve their own goals
-
----
-
 ## Literature Review (cont.)
 
-- **Question:** But how does the media bias from reality affect the support for democracy?
-
-- Backsliding leaders win elections when voters embrace the promise of disruptive changes
+- **Question:** But how exactly do political leaders generate biased narratives to enable democratic backsliding?
 
 - Better socioeconomic performance indeed provides more stable regimes,
 
 - But evidence that lack of such performance causes democratic backsliding remains limited.
 
+- Backsliding leaders win elections when voters embrace the promise of disruptive changes
+
 ---
 
 ## Main Argument
 
-Partisan media bias that distorts reality reduces perceived performance, enlarging the gap between perceived and actual performance, leading to more support for drastic changes, and hence creating more room for democratic backsliding.
+Political leaders social media posts -> biased media coverage -> perceived performance -> support for drastic changes -> democratic backsliding
+
+---
+
+## Hypotheses
+
+Hypothesis 1: Political leaders' strategic communications increase the gap between actual and perceived performance.
+
+Hypothesis 2: Media bias that distorts reality, creating more support for disruptive changes, enables democratic backsliding.
+
+---
+
+## Test 1
+
+- **Unit of analysis:** State-time
+- **Dependent variable:** Media bias: the difference between the actual crime rate and media coverage of the same crime type in a period of time
+- **Intervention:** Trump Truth Social posts
+- **Model:** Difference-in-differences with first treatment group dummy, relative time from the intervention, and state and temporal fixed effects.
+- **Expected outcome:** Political leaders incite biased media coverage to achieve their own goals
+
 
 ---
 
 ## Test 2
 
-- **Unit of analysis:** Country
+- **Unit of analysis:** Country-time
 - **DV:** Democratic Backsliding
-- **IV:** Media Bias
+- **IV:** Media Bias, from HuggingFace and UnBIAS Classification Bert
+- **Model:** Linear regression model
 - **Expected outcome:** Media bias distorting reality reduces support for democracy
-
----
-
-## Methodology
-
-TBD
 
 ---
 
@@ -86,8 +89,7 @@ TBD
 
 - **Crime Rate:** FBI Crime Data Explorer
 - **Media Coverage:** CNN and Fox News API
-- **Media Bias:** International media bias dataset from HuggingFace  
-  https://huggingface.co/datasets/newsmediabias/news-bias-full-data
+- **Media Bias:** Generated from HuggingFace and UnBIAS Classification Bert
 - **Democratic Backsliding:** V-Dem indices
 
 ---
