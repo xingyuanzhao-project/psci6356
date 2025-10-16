@@ -7,6 +7,7 @@ format:
     documentclass: article
     geometry: margin=1in
     fontsize: 12pt
+    linestretch: 2
 ---
 
 ## ABSTRACT
@@ -26,7 +27,7 @@ This research addresses this question: How do political leaders generate biased 
 
 ## EXPECTED CONTRIBUTIONS
 
-The discrepancy between actual crime rates and media narratives reveals a fundamental gap in our understanding of democratic backsliding. While existing literature establishes that media bias exists and that better performance provides more stable regimes, evidence that poor actual performance causes democratic backsliding remains limited. This research is expected to address this gap by showing that it is not actual performance but perceived performance that matters—partisan media bias enlarges the gap between perceived and actual performance, creating support for drastic changes that favor democratic backsliding. The research also intends to clarify the mechanism through which elite rhetoric shapes information environments, going beyond simple documentation of media bias to show how political leaders actively create and amplify distorted narratives that undermine democratic stability.
+The discrepancy between actual crime rates and media narratives reveals a fundamental gap in our understanding of democratic backsliding. While existing literature establishes that media bias exists and that better performance provides more stable regimes, evidence that poor actual performance causes democratic backsliding remains limited. This research is expected to address this gap by showing that it is not actual performance but perceived performance that matters. Partisan media bias enlarges the gap between perceived and actual performance, creating support for drastic changes that favor democratic backsliding. The research also intends to clarify the mechanism through which elite rhetoric shapes information environments, going beyond simple documentation of media bias to show how political leaders actively create and amplify distorted narratives that undermine democratic stability.
 
 ## LITERATURE REVIEW
 
@@ -36,7 +37,7 @@ There is strong academic consensus that media bias exists in contemporary news c
 
 Research has also examined media bias in specific coverage domains. Studies analyze news media's relationship with stereotyping in crime news coverage, examining linguistic patterns in reporting (Gorham 2006). More recent research extends analysis to partisan differences in coverage of specific events, including mass shootings in the United States (Shah 2021). Additionally, scholarship examines how news media partisanship shapes coverage of policy issues and technologies, finding that partisan orientation influences framing and emphasis in reporting (Shaikh and Moran 2024).
 
-While early research argued that objective news topics were not affected by partisan bias (Niven 1999; Niven 2001), subsequent work demonstrated that partisan selective exposure extends even to "soft" subjects such as crime (Iyengar and Hahn 2009). Recent developments, however, present a further evolution in this dynamic. Political elites now directly contest objective data through social media platforms, creating alternative narratives that contradict official statistics. Recent presidential communications about crime explicitly diverge from FBI data, with the White House claiming crime is "out of control" despite official statistics showing otherwise (The White House 2025). This represents a new phase: political leaders are not merely benefiting from existing media bias or selective exposure patterns, but may be actively generating competing factual claims about objective crime data that partisan media outlets follow suit.
+While early research argued that objective news topics were not affected by partisan bias (Niven 1999; Niven 2001), subsequent work demonstrated that partisan selective exposure extends even to "soft" subjects such as crime (Iyengar and Hahn 2009). However, recent developments present a further evolution in this dynamic. Political elites now directly contest objective data through social media platforms, creating alternative narratives that contradict official statistics. Recent presidential communications about crime explicitly diverge from FBI data, with the White House claiming crime is "out of control" despite official statistics showing otherwise (The White House 2025). This represents a new phase: political leaders are not merely benefiting from existing media bias or selective exposure patterns, but may be actively generating competing factual claims about objective crime data that partisan media outlets follow suit.
 
 ### Democratic Backsliding and Performance
 
