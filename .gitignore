@@ -1,6 +1,9 @@
 # Data
 data/
 
+# Course materials
+inclass_papers/
+
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
