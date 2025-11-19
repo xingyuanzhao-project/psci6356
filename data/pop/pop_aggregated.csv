@@ -1,0 +1,6276 @@
+population,state_code,state,date
+1754.0,MN,Minnesota,1900/01
+1805.0,MN,Minnesota,1901/01
+1862.0,MN,Minnesota,1902/01
+1901.0,MN,Minnesota,1903/01
+1945.0,MN,Minnesota,1904/01
+1981.0,MN,Minnesota,1905/01
+1987.0,MN,Minnesota,1906/01
+1995.0,MN,Minnesota,1907/01
+2020.0,MN,Minnesota,1908/01
+2051.0,MN,Minnesota,1909/01
+2086.0,MN,Minnesota,1910/01
+2119.0,MN,Minnesota,1911/01
+2147.0,MN,Minnesota,1912/01
+2190.0,MN,Minnesota,1913/01
+2234.0,MN,Minnesota,1914/01
+2273.0,MN,Minnesota,1915/01
+2308.0,MN,Minnesota,1916/01
+2329.0,MN,Minnesota,1917/01
+2291.0,MN,Minnesota,1918/01
+2346.0,MN,Minnesota,1919/01
+2403.0,MN,Minnesota,1920/01
+2434.0,MN,Minnesota,1921/01
+2451.0,MN,Minnesota,1922/01
+2487.0,MN,Minnesota,1923/01
+2521.0,MN,Minnesota,1924/01
+2540.0,MN,Minnesota,1925/01
+2560.0,MN,Minnesota,1926/01
+2588.0,MN,Minnesota,1927/01
+2592.0,MN,Minnesota,1928/01
+2572.0,MN,Minnesota,1929/01
+2576.0,MN,Minnesota,1930/01
+2614.0,MN,Minnesota,1931/01
+2646.0,MN,Minnesota,1932/01
+2673.0,MN,Minnesota,1933/01
+2695.0,MN,Minnesota,1934/01
+2717.0,MN,Minnesota,1935/01
+2734.0,MN,Minnesota,1936/01
+2746.0,MN,Minnesota,1937/01
+2753.0,MN,Minnesota,1938/01
+2771.0,MN,Minnesota,1939/01
+2790.0,MN,Minnesota,1940/01
+2718.0,MN,Minnesota,1941/01
+2662.0,MN,Minnesota,1942/01
+2577.0,MN,Minnesota,1943/01
+2526.0,MN,Minnesota,1944/01
+2537.0,MN,Minnesota,1945/01
+2734.0,MN,Minnesota,1946/01
+2796.0,MN,Minnesota,1947/01
+2868.0,MN,Minnesota,1948/01
+2935.0,MN,Minnesota,1949/01
+2997.0,MN,Minnesota,1950/01
+3010.0,MN,Minnesota,1951/01
+3030.0,MN,Minnesota,1952/01
+3050.0,MN,Minnesota,1953/01
+3113.0,MN,Minnesota,1954/01
+3172.0,MN,Minnesota,1955/01
+3240.0,MN,Minnesota,1956/01
+3274.0,MN,Minnesota,1957/01
+3313.0,MN,Minnesota,1958/01
+3366.0,MN,Minnesota,1959/01
+3425.0,MN,Minnesota,1960/01
+3470.0,MN,Minnesota,1961/01
+3513.0,MN,Minnesota,1962/01
+3531.0,MN,Minnesota,1963/01
+3558.0,MN,Minnesota,1964/01
+3592.0,MN,Minnesota,1965/01
+3617.0,MN,Minnesota,1966/01
+3659.0,MN,Minnesota,1967/01
+3703.0,MN,Minnesota,1968/01
+3758.0,MN,Minnesota,1969/01
+3806.103,MN,Minnesota,1970/01
+3853.486,MN,Minnesota,1971/01
+3869.747,MN,Minnesota,1972/01
+3889.332,MN,Minnesota,1973/01
+3903.925,MN,Minnesota,1974/01
+3932.515,MN,Minnesota,1975/01
+3964.68,MN,Minnesota,1976/01
+3989.364,MN,Minnesota,1977/01
+4015.341,MN,Minnesota,1978/01
+4050.316,MN,Minnesota,1979/01
+4085.017,MN,Minnesota,1980/01
+4111.728,MN,Minnesota,1981/01
+4131.45,MN,Minnesota,1982/01
+4141.456,MN,Minnesota,1983/01
+4157.706,MN,Minnesota,1984/01
+4184.302,MN,Minnesota,1985/01
+4205.212,MN,Minnesota,1986/01
+4235.136,MN,Minnesota,1987/01
+4296.166,MN,Minnesota,1988/01
+4338.057,MN,Minnesota,1989/01
+4387.283,MN,Minnesota,1990/01
+4427.429,MN,Minnesota,1991/01
+4471.503,MN,Minnesota,1992/01
+4521.709,MN,Minnesota,1993/01
+4566.028,MN,Minnesota,1994/01
+4605.445,MN,Minnesota,1995/01
+4647.723,MN,Minnesota,1996/01
+4687.726,MN,Minnesota,1997/01
+4726.411,MN,Minnesota,1998/01
+4775.508,MN,Minnesota,1999/01
+4933.692,MN,Minnesota,2000/01
+4982.796,MN,Minnesota,2001/01
+5018.935,MN,Minnesota,2002/01
+5053.572,MN,Minnesota,2003/01
+5087.713,MN,Minnesota,2004/01
+5119.598,MN,Minnesota,2005/01
+5163.555,MN,Minnesota,2006/01
+5207.203,MN,Minnesota,2007/01
+5247.018,MN,Minnesota,2008/01
+5281.203,MN,Minnesota,2009/01
+5310.934,MN,Minnesota,2010/01
+5346.62,MN,Minnesota,2011/01
+5377.5,MN,Minnesota,2012/01
+5414.722,MN,Minnesota,2013/01
+5452.665,MN,Minnesota,2014/01
+5484.002,MN,Minnesota,2015/01
+5525.36,MN,Minnesota,2016/01
+5569.283,MN,Minnesota,2017/01
+5608.762,MN,Minnesota,2018/01
+5640.053,MN,Minnesota,2019/01
+5710.735,MN,Minnesota,2020/01
+5718.66,MN,Minnesota,2021/01
+5721.621,MN,Minnesota,2022/01
+5753.048,MN,Minnesota,2023/01
+5793.151,MN,Minnesota,2024/01
+415.0,OR,Oregon,1900/01
+434.0,OR,Oregon,1901/01
+454.0,OR,Oregon,1902/01
+479.0,OR,Oregon,1903/01
+504.0,OR,Oregon,1904/01
+530.0,OR,Oregon,1905/01
+555.0,OR,Oregon,1906/01
+580.0,OR,Oregon,1907/01
+610.0,OR,Oregon,1908/01
+643.0,OR,Oregon,1909/01
+677.0,OR,Oregon,1910/01
+692.0,OR,Oregon,1911/01
+706.0,OR,Oregon,1912/01
+722.0,OR,Oregon,1913/01
+736.0,OR,Oregon,1914/01
+745.0,OR,Oregon,1915/01
+756.0,OR,Oregon,1916/01
+763.0,OR,Oregon,1917/01
+763.0,OR,Oregon,1918/01
+774.0,OR,Oregon,1919/01
+788.0,OR,Oregon,1920/01
+798.0,OR,Oregon,1921/01
+814.0,OR,Oregon,1922/01
+833.0,OR,Oregon,1923/01
+856.0,OR,Oregon,1924/01
+883.0,OR,Oregon,1925/01
+905.0,OR,Oregon,1926/01
+925.0,OR,Oregon,1927/01
+936.0,OR,Oregon,1928/01
+947.0,OR,Oregon,1929/01
+956.0,OR,Oregon,1930/01
+966.0,OR,Oregon,1931/01
+972.0,OR,Oregon,1932/01
+978.0,OR,Oregon,1933/01
+985.0,OR,Oregon,1934/01
+1001.0,OR,Oregon,1935/01
+1025.0,OR,Oregon,1936/01
+1048.0,OR,Oregon,1937/01
+1067.0,OR,Oregon,1938/01
+1081.0,OR,Oregon,1939/01
+1086.0,OR,Oregon,1940/01
+1071.0,OR,Oregon,1941/01
+1107.0,OR,Oregon,1942/01
+1221.0,OR,Oregon,1943/01
+1233.0,OR,Oregon,1944/01
+1250.0,OR,Oregon,1945/01
+1338.0,OR,Oregon,1946/01
+1361.0,OR,Oregon,1947/01
+1405.0,OR,Oregon,1948/01
+1431.0,OR,Oregon,1949/01
+1532.0,OR,Oregon,1950/01
+1556.0,OR,Oregon,1951/01
+1582.0,OR,Oregon,1952/01
+1601.0,OR,Oregon,1953/01
+1626.0,OR,Oregon,1954/01
+1659.0,OR,Oregon,1955/01
+1698.0,OR,Oregon,1956/01
+1712.0,OR,Oregon,1957/01
+1718.0,OR,Oregon,1958/01
+1746.0,OR,Oregon,1959/01
+1772.0,OR,Oregon,1960/01
+1787.0,OR,Oregon,1961/01
+1818.0,OR,Oregon,1962/01
+1853.0,OR,Oregon,1963/01
+1888.0,OR,Oregon,1964/01
+1937.0,OR,Oregon,1965/01
+1969.0,OR,Oregon,1966/01
+1979.0,OR,Oregon,1967/01
+2004.0,OR,Oregon,1968/01
+2062.0,OR,Oregon,1969/01
+2091.533,OR,Oregon,1970/01
+2151.022,OR,Oregon,1971/01
+2197.297,OR,Oregon,1972/01
+2241.932,OR,Oregon,1973/01
+2285.013,OR,Oregon,1974/01
+2329.661,OR,Oregon,1975/01
+2378.262,OR,Oregon,1976/01
+2446.673,OR,Oregon,1977/01
+2518.298,OR,Oregon,1978/01
+2588.012,OR,Oregon,1979/01
+2641.218,OR,Oregon,1980/01
+2667.982,OR,Oregon,1981/01
+2664.922,OR,Oregon,1982/01
+2653.066,OR,Oregon,1983/01
+2666.588,OR,Oregon,1984/01
+2672.652,OR,Oregon,1985/01
+2683.528,OR,Oregon,1986/01
+2700.991,OR,Oregon,1987/01
+2741.297,OR,Oregon,1988/01
+2790.575,OR,Oregon,1989/01
+2858.547,OR,Oregon,1990/01
+2918.745,OR,Oregon,1991/01
+2973.934,OR,Oregon,1992/01
+3034.49,OR,Oregon,1993/01
+3087.142,OR,Oregon,1994/01
+3141.421,OR,Oregon,1995/01
+3195.087,OR,Oregon,1996/01
+3243.254,OR,Oregon,1997/01
+3282.055,OR,Oregon,1998/01
+3316.154,OR,Oregon,1999/01
+3429.708,OR,Oregon,2000/01
+3467.937,OR,Oregon,2001/01
+3513.424,OR,Oregon,2002/01
+3547.376,OR,Oregon,2003/01
+3569.463,OR,Oregon,2004/01
+3613.202,OR,Oregon,2005/01
+3670.883,OR,Oregon,2006/01
+3722.417,OR,Oregon,2007/01
+3768.748,OR,Oregon,2008/01
+3808.6,OR,Oregon,2009/01
+3837.614,OR,Oregon,2010/01
+3872.672,OR,Oregon,2011/01
+3900.102,OR,Oregon,2012/01
+3924.11,OR,Oregon,2013/01
+3965.447,OR,Oregon,2014/01
+4018.542,OR,Oregon,2015/01
+4093.271,OR,Oregon,2016/01
+4147.294,OR,Oregon,2017/01
+4183.538,OR,Oregon,2018/01
+4216.116,OR,Oregon,2019/01
+4243.779,OR,Oregon,2020/01
+4254.28,OR,Oregon,2021/01
+4247.372,OR,Oregon,2022/01
+4253.653,OR,Oregon,2023/01
+4272.371,OR,Oregon,2024/01
+2148.0,KY,Kentucky,1900/01
+2162.0,KY,Kentucky,1901/01
+2177.0,KY,Kentucky,1902/01
+2191.0,KY,Kentucky,1903/01
+2205.0,KY,Kentucky,1904/01
+2220.0,KY,Kentucky,1905/01
+2234.0,KY,Kentucky,1906/01
+2249.0,KY,Kentucky,1907/01
+2263.0,KY,Kentucky,1908/01
+2278.0,KY,Kentucky,1909/01
+2299.0,KY,Kentucky,1910/01
+2324.0,KY,Kentucky,1911/01
+2347.0,KY,Kentucky,1912/01
+2374.0,KY,Kentucky,1913/01
+2395.0,KY,Kentucky,1914/01
+2401.0,KY,Kentucky,1915/01
+2411.0,KY,Kentucky,1916/01
+2421.0,KY,Kentucky,1917/01
+2425.0,KY,Kentucky,1918/01
+2413.0,KY,Kentucky,1919/01
+2421.0,KY,Kentucky,1920/01
+2436.0,KY,Kentucky,1921/01
+2450.0,KY,Kentucky,1922/01
+2480.0,KY,Kentucky,1923/01
+2531.0,KY,Kentucky,1924/01
+2520.0,KY,Kentucky,1925/01
+2545.0,KY,Kentucky,1926/01
+2551.0,KY,Kentucky,1927/01
+2567.0,KY,Kentucky,1928/01
+2606.0,KY,Kentucky,1929/01
+2623.0,KY,Kentucky,1930/01
+2652.0,KY,Kentucky,1931/01
+2676.0,KY,Kentucky,1932/01
+2698.0,KY,Kentucky,1933/01
+2722.0,KY,Kentucky,1934/01
+2748.0,KY,Kentucky,1935/01
+2768.0,KY,Kentucky,1936/01
+2784.0,KY,Kentucky,1937/01
+2800.0,KY,Kentucky,1938/01
+2825.0,KY,Kentucky,1939/01
+2859.0,KY,Kentucky,1940/01
+2824.0,KY,Kentucky,1941/01
+2797.0,KY,Kentucky,1942/01
+2693.0,KY,Kentucky,1943/01
+2631.0,KY,Kentucky,1944/01
+2597.0,KY,Kentucky,1945/01
+2761.0,KY,Kentucky,1946/01
+2803.0,KY,Kentucky,1947/01
+2817.0,KY,Kentucky,1948/01
+2849.0,KY,Kentucky,1949/01
+2936.0,KY,Kentucky,1950/01
+2941.0,KY,Kentucky,1951/01
+2920.0,KY,Kentucky,1952/01
+2903.0,KY,Kentucky,1953/01
+2902.0,KY,Kentucky,1954/01
+2910.0,KY,Kentucky,1955/01
+2898.0,KY,Kentucky,1956/01
+2928.0,KY,Kentucky,1957/01
+2961.0,KY,Kentucky,1958/01
+2999.0,KY,Kentucky,1959/01
+3041.0,KY,Kentucky,1960/01
+3054.0,KY,Kentucky,1961/01
+3079.0,KY,Kentucky,1962/01
+3096.0,KY,Kentucky,1963/01
+3129.0,KY,Kentucky,1964/01
+3140.0,KY,Kentucky,1965/01
+3147.0,KY,Kentucky,1966/01
+3172.0,KY,Kentucky,1967/01
+3195.0,KY,Kentucky,1968/01
+3198.0,KY,Kentucky,1969/01
+3220.711,KY,Kentucky,1970/01
+3298.053,KY,Kentucky,1971/01
+3335.728,KY,Kentucky,1972/01
+3371.024,KY,Kentucky,1973/01
+3416.315,KY,Kentucky,1974/01
+3467.769,KY,Kentucky,1975/01
+3529.257,KY,Kentucky,1976/01
+3573.693,KY,Kentucky,1977/01
+3609.976,KY,Kentucky,1978/01
+3641.804,KY,Kentucky,1979/01
+3664.221,KY,Kentucky,1980/01
+3670.394,KY,Kentucky,1981/01
+3683.445,KY,Kentucky,1982/01
+3694.484,KY,Kentucky,1983/01
+3695.453,KY,Kentucky,1984/01
+3694.826,KY,Kentucky,1985/01
+3687.809,KY,Kentucky,1986/01
+3683.329,KY,Kentucky,1987/01
+3679.999,KY,Kentucky,1988/01
+3677.306,KY,Kentucky,1989/01
+3692.584,KY,Kentucky,1990/01
+3714.686,KY,Kentucky,1991/01
+3756.358,KY,Kentucky,1992/01
+3792.288,KY,Kentucky,1993/01
+3823.215,KY,Kentucky,1994/01
+3855.248,KY,Kentucky,1995/01
+3881.051,KY,Kentucky,1996/01
+3907.816,KY,Kentucky,1997/01
+3934.31,KY,Kentucky,1998/01
+3960.825,KY,Kentucky,1999/01
+4049.021,KY,Kentucky,2000/01
+4068.132,KY,Kentucky,2001/01
+4089.875,KY,Kentucky,2002/01
+4117.17,KY,Kentucky,2003/01
+4146.101,KY,Kentucky,2004/01
+4182.742,KY,Kentucky,2005/01
+4219.239,KY,Kentucky,2006/01
+4256.672,KY,Kentucky,2007/01
+4289.878,KY,Kentucky,2008/01
+4317.074,KY,Kentucky,2009/01
+4348.464,KY,Kentucky,2010/01
+4370.817,KY,Kentucky,2011/01
+4387.865,KY,Kentucky,2012/01
+4406.906,KY,Kentucky,2013/01
+4416.992,KY,Kentucky,2014/01
+4429.126,KY,Kentucky,2015/01
+4440.306,KY,Kentucky,2016/01
+4455.59,KY,Kentucky,2017/01
+4464.273,KY,Kentucky,2018/01
+4472.345,KY,Kentucky,2019/01
+4508.318,KY,Kentucky,2020/01
+4507.583,KY,Kentucky,2021/01
+4519.233,KY,Kentucky,2022/01
+4550.595,KY,Kentucky,2023/01
+4588.372,KY,Kentucky,2024/01
+321.0,ND,North Dakota,1900/01
+346.0,ND,North Dakota,1901/01
+371.0,ND,North Dakota,1902/01
+396.0,ND,North Dakota,1903/01
+421.0,ND,North Dakota,1904/01
+446.0,ND,North Dakota,1905/01
+474.0,ND,North Dakota,1906/01
+501.0,ND,North Dakota,1907/01
+528.0,ND,North Dakota,1908/01
+555.0,ND,North Dakota,1909/01
+580.0,ND,North Dakota,1910/01
+584.0,ND,North Dakota,1911/01
+603.0,ND,North Dakota,1912/01
+609.0,ND,North Dakota,1913/01
+620.0,ND,North Dakota,1914/01
+641.0,ND,North Dakota,1915/01
+652.0,ND,North Dakota,1916/01
+661.0,ND,North Dakota,1917/01
+636.0,ND,North Dakota,1918/01
+648.0,ND,North Dakota,1919/01
+646.0,ND,North Dakota,1920/01
+646.0,ND,North Dakota,1921/01
+647.0,ND,North Dakota,1922/01
+648.0,ND,North Dakota,1923/01
+642.0,ND,North Dakota,1924/01
+643.0,ND,North Dakota,1925/01
+651.0,ND,North Dakota,1926/01
+657.0,ND,North Dakota,1927/01
+665.0,ND,North Dakota,1928/01
+674.0,ND,North Dakota,1929/01
+682.0,ND,North Dakota,1930/01
+680.0,ND,North Dakota,1931/01
+676.0,ND,North Dakota,1932/01
+674.0,ND,North Dakota,1933/01
+672.0,ND,North Dakota,1934/01
+670.0,ND,North Dakota,1935/01
+664.0,ND,North Dakota,1936/01
+655.0,ND,North Dakota,1937/01
+647.0,ND,North Dakota,1938/01
+644.0,ND,North Dakota,1939/01
+640.0,ND,North Dakota,1940/01
+615.0,ND,North Dakota,1941/01
+583.0,ND,North Dakota,1942/01
+546.0,ND,North Dakota,1943/01
+534.0,ND,North Dakota,1944/01
+546.0,ND,North Dakota,1945/01
+570.0,ND,North Dakota,1946/01
+578.0,ND,North Dakota,1947/01
+580.0,ND,North Dakota,1948/01
+597.0,ND,North Dakota,1949/01
+619.0,ND,North Dakota,1950/01
+604.0,ND,North Dakota,1951/01
+608.0,ND,North Dakota,1952/01
+609.0,ND,North Dakota,1953/01
+611.0,ND,North Dakota,1954/01
+615.0,ND,North Dakota,1955/01
+613.0,ND,North Dakota,1956/01
+612.0,ND,North Dakota,1957/01
+606.0,ND,North Dakota,1958/01
+618.0,ND,North Dakota,1959/01
+634.0,ND,North Dakota,1960/01
+641.0,ND,North Dakota,1961/01
+637.0,ND,North Dakota,1962/01
+644.0,ND,North Dakota,1963/01
+649.0,ND,North Dakota,1964/01
+649.0,ND,North Dakota,1965/01
+647.0,ND,North Dakota,1966/01
+626.0,ND,North Dakota,1967/01
+621.0,ND,North Dakota,1968/01
+621.0,ND,North Dakota,1969/01
+617.792,ND,North Dakota,1970/01
+626.76,ND,North Dakota,1971/01
+631.119,ND,North Dakota,1972/01
+632.675,ND,North Dakota,1973/01
+634.559,ND,North Dakota,1974/01
+638.886,ND,North Dakota,1975/01
+645.797,ND,North Dakota,1976/01
+649.769,ND,North Dakota,1977/01
+651.301,ND,North Dakota,1978/01
+652.896,ND,North Dakota,1979/01
+654.38,ND,North Dakota,1980/01
+659.505,ND,North Dakota,1981/01
+668.972,ND,North Dakota,1982/01
+676.688,ND,North Dakota,1983/01
+680.497,ND,North Dakota,1984/01
+676.98,ND,North Dakota,1985/01
+669.512,ND,North Dakota,1986/01
+661.136,ND,North Dakota,1987/01
+655.331,ND,North Dakota,1988/01
+646.351,ND,North Dakota,1989/01
+637.364,ND,North Dakota,1990/01
+634.199,ND,North Dakota,1991/01
+635.427,ND,North Dakota,1992/01
+637.229,ND,North Dakota,1993/01
+639.762,ND,North Dakota,1994/01
+641.548,ND,North Dakota,1995/01
+642.858,ND,North Dakota,1996/01
+640.945,ND,North Dakota,1997/01
+637.808,ND,North Dakota,1998/01
+633.666,ND,North Dakota,1999/01
+642.023,ND,North Dakota,2000/01
+639.062,ND,North Dakota,2001/01
+638.168,ND,North Dakota,2002/01
+638.817,ND,North Dakota,2003/01
+644.705,ND,North Dakota,2004/01
+646.089,ND,North Dakota,2005/01
+649.422,ND,North Dakota,2006/01
+652.822,ND,North Dakota,2007/01
+657.569,ND,North Dakota,2008/01
+664.968,ND,North Dakota,2009/01
+674.752,ND,North Dakota,2010/01
+685.526,ND,North Dakota,2011/01
+702.227,ND,North Dakota,2012/01
+723.149,ND,North Dakota,2013/01
+738.736,ND,North Dakota,2014/01
+755.537,ND,North Dakota,2015/01
+756.114,ND,North Dakota,2016/01
+756.755,ND,North Dakota,2017/01
+760.062,ND,North Dakota,2018/01
+763.724,ND,North Dakota,2019/01
+779.563,ND,North Dakota,2020/01
+777.966,ND,North Dakota,2021/01
+781.057,ND,North Dakota,2022/01
+789.047,ND,North Dakota,2023/01
+796.568,ND,North Dakota,2024/01
+412.0,NH,New Hampshire,1900/01
+412.0,NH,New Hampshire,1901/01
+409.0,NH,New Hampshire,1902/01
+394.0,NH,New Hampshire,1903/01
+407.0,NH,New Hampshire,1904/01
+423.0,NH,New Hampshire,1905/01
+415.0,NH,New Hampshire,1906/01
+423.0,NH,New Hampshire,1907/01
+428.0,NH,New Hampshire,1908/01
+431.0,NH,New Hampshire,1909/01
+431.0,NH,New Hampshire,1910/01
+432.0,NH,New Hampshire,1911/01
+434.0,NH,New Hampshire,1912/01
+439.0,NH,New Hampshire,1913/01
+442.0,NH,New Hampshire,1914/01
+443.0,NH,New Hampshire,1915/01
+445.0,NH,New Hampshire,1916/01
+447.0,NH,New Hampshire,1917/01
+440.0,NH,New Hampshire,1918/01
+443.0,NH,New Hampshire,1919/01
+444.0,NH,New Hampshire,1920/01
+449.0,NH,New Hampshire,1921/01
+451.0,NH,New Hampshire,1922/01
+453.0,NH,New Hampshire,1923/01
+457.0,NH,New Hampshire,1924/01
+459.0,NH,New Hampshire,1925/01
+463.0,NH,New Hampshire,1926/01
+466.0,NH,New Hampshire,1927/01
+468.0,NH,New Hampshire,1928/01
+467.0,NH,New Hampshire,1929/01
+466.0,NH,New Hampshire,1930/01
+470.0,NH,New Hampshire,1931/01
+474.0,NH,New Hampshire,1932/01
+477.0,NH,New Hampshire,1933/01
+480.0,NH,New Hampshire,1934/01
+481.0,NH,New Hampshire,1935/01
+481.0,NH,New Hampshire,1936/01
+481.0,NH,New Hampshire,1937/01
+485.0,NH,New Hampshire,1938/01
+490.0,NH,New Hampshire,1939/01
+492.0,NH,New Hampshire,1940/01
+490.0,NH,New Hampshire,1941/01
+481.0,NH,New Hampshire,1942/01
+462.0,NH,New Hampshire,1943/01
+456.0,NH,New Hampshire,1944/01
+459.0,NH,New Hampshire,1945/01
+494.0,NH,New Hampshire,1946/01
+507.0,NH,New Hampshire,1947/01
+520.0,NH,New Hampshire,1948/01
+533.0,NH,New Hampshire,1949/01
+532.0,NH,New Hampshire,1950/01
+529.0,NH,New Hampshire,1951/01
+535.0,NH,New Hampshire,1952/01
+547.0,NH,New Hampshire,1953/01
+554.0,NH,New Hampshire,1954/01
+557.0,NH,New Hampshire,1955/01
+566.0,NH,New Hampshire,1956/01
+572.0,NH,New Hampshire,1957/01
+581.0,NH,New Hampshire,1958/01
+596.0,NH,New Hampshire,1959/01
+609.0,NH,New Hampshire,1960/01
+618.0,NH,New Hampshire,1961/01
+632.0,NH,New Hampshire,1962/01
+649.0,NH,New Hampshire,1963/01
+663.0,NH,New Hampshire,1964/01
+676.0,NH,New Hampshire,1965/01
+681.0,NH,New Hampshire,1966/01
+697.0,NH,New Hampshire,1967/01
+709.0,NH,New Hampshire,1968/01
+724.0,NH,New Hampshire,1969/01
+737.681,NH,New Hampshire,1970/01
+761.851,NH,New Hampshire,1971/01
+781.107,NH,New Hampshire,1972/01
+800.951,NH,New Hampshire,1973/01
+815.914,NH,New Hampshire,1974/01
+828.555,NH,New Hampshire,1975/01
+845.248,NH,New Hampshire,1976/01
+869.763,NH,New Hampshire,1977/01
+891.52,NH,New Hampshire,1978/01
+909.074,NH,New Hampshire,1979/01
+924.25,NH,New Hampshire,1980/01
+936.621,NH,New Hampshire,1981/01
+947.719,NH,New Hampshire,1982/01
+958.134,NH,New Hampshire,1983/01
+976.864,NH,New Hampshire,1984/01
+996.753,NH,New Hampshire,1985/01
+1025.053,NH,New Hampshire,1986/01
+1054.289,NH,New Hampshire,1987/01
+1082.577,NH,New Hampshire,1988/01
+1104.522,NH,New Hampshire,1989/01
+1111.831,NH,New Hampshire,1990/01
+1107.055,NH,New Hampshire,1991/01
+1112.766,NH,New Hampshire,1992/01
+1122.191,NH,New Hampshire,1993/01
+1133.054,NH,New Hampshire,1994/01
+1145.604,NH,New Hampshire,1995/01
+1160.768,NH,New Hampshire,1996/01
+1173.239,NH,New Hampshire,1997/01
+1185.823,NH,New Hampshire,1998/01
+1201.134,NH,New Hampshire,1999/01
+1239.882,NH,New Hampshire,2000/01
+1255.517,NH,New Hampshire,2001/01
+1269.089,NH,New Hampshire,2002/01
+1279.84,NH,New Hampshire,2003/01
+1290.121,NH,New Hampshire,2004/01
+1298.492,NH,New Hampshire,2005/01
+1308.389,NH,New Hampshire,2006/01
+1312.54,NH,New Hampshire,2007/01
+1315.906,NH,New Hampshire,2008/01
+1316.102,NH,New Hampshire,2009/01
+1316.807,NH,New Hampshire,2010/01
+1320.444,NH,New Hampshire,2011/01
+1324.677,NH,New Hampshire,2012/01
+1327.272,NH,New Hampshire,2013/01
+1334.257,NH,New Hampshire,2014/01
+1337.48,NH,New Hampshire,2015/01
+1343.694,NH,New Hampshire,2016/01
+1350.395,NH,New Hampshire,2017/01
+1355.064,NH,New Hampshire,2018/01
+1360.783,NH,New Hampshire,2019/01
+1378.756,NH,New Hampshire,2020/01
+1387.677,NH,New Hampshire,2021/01
+1396.678,NH,New Hampshire,2022/01
+1402.199,NH,New Hampshire,2023/01
+1409.032,NH,New Hampshire,2024/01
+543.0,CO,Colorado,1900/01
+581.0,CO,Colorado,1901/01
+621.0,CO,Colorado,1902/01
+652.0,CO,Colorado,1903/01
+659.0,CO,Colorado,1904/01
+680.0,CO,Colorado,1905/01
+707.0,CO,Colorado,1906/01
+733.0,CO,Colorado,1907/01
+757.0,CO,Colorado,1908/01
+775.0,CO,Colorado,1909/01
+804.0,CO,Colorado,1910/01
+821.0,CO,Colorado,1911/01
+832.0,CO,Colorado,1912/01
+835.0,CO,Colorado,1913/01
+846.0,CO,Colorado,1914/01
+868.0,CO,Colorado,1915/01
+892.0,CO,Colorado,1916/01
+910.0,CO,Colorado,1917/01
+906.0,CO,Colorado,1918/01
+938.0,CO,Colorado,1919/01
+937.0,CO,Colorado,1920/01
+961.0,CO,Colorado,1921/01
+965.0,CO,Colorado,1922/01
+984.0,CO,Colorado,1923/01
+1014.0,CO,Colorado,1924/01
+1019.0,CO,Colorado,1925/01
+1016.0,CO,Colorado,1926/01
+1028.0,CO,Colorado,1927/01
+1014.0,CO,Colorado,1928/01
+1008.0,CO,Colorado,1929/01
+1040.0,CO,Colorado,1930/01
+1056.0,CO,Colorado,1931/01
+1066.0,CO,Colorado,1932/01
+1071.0,CO,Colorado,1933/01
+1075.0,CO,Colorado,1934/01
+1078.0,CO,Colorado,1935/01
+1090.0,CO,Colorado,1936/01
+1104.0,CO,Colorado,1937/01
+1112.0,CO,Colorado,1938/01
+1120.0,CO,Colorado,1939/01
+1130.0,CO,Colorado,1940/01
+1124.0,CO,Colorado,1941/01
+1113.0,CO,Colorado,1942/01
+1153.0,CO,Colorado,1943/01
+1137.0,CO,Colorado,1944/01
+1116.0,CO,Colorado,1945/01
+1203.0,CO,Colorado,1946/01
+1237.0,CO,Colorado,1947/01
+1263.0,CO,Colorado,1948/01
+1295.0,CO,Colorado,1949/01
+1325.0,CO,Colorado,1950/01
+1326.0,CO,Colorado,1951/01
+1365.0,CO,Colorado,1952/01
+1431.0,CO,Colorado,1953/01
+1493.0,CO,Colorado,1954/01
+1546.0,CO,Colorado,1955/01
+1625.0,CO,Colorado,1956/01
+1664.0,CO,Colorado,1957/01
+1667.0,CO,Colorado,1958/01
+1710.0,CO,Colorado,1959/01
+1769.0,CO,Colorado,1960/01
+1844.0,CO,Colorado,1961/01
+1899.0,CO,Colorado,1962/01
+1936.0,CO,Colorado,1963/01
+1970.0,CO,Colorado,1964/01
+1985.0,CO,Colorado,1965/01
+2007.0,CO,Colorado,1966/01
+2053.0,CO,Colorado,1967/01
+2120.0,CO,Colorado,1968/01
+2166.0,CO,Colorado,1969/01
+2209.596,CO,Colorado,1970/01
+2303.524,CO,Colorado,1971/01
+2404.619,CO,Colorado,1972/01
+2495.868,CO,Colorado,1973/01
+2541.406,CO,Colorado,1974/01
+2586.192,CO,Colorado,1975/01
+2632.306,CO,Colorado,1976/01
+2696.14,CO,Colorado,1977/01
+2766.748,CO,Colorado,1978/01
+2849.234,CO,Colorado,1979/01
+2908.803,CO,Colorado,1980/01
+2977.898,CO,Colorado,1981/01
+3061.564,CO,Colorado,1982/01
+3133.63,CO,Colorado,1983/01
+3169.992,CO,Colorado,1984/01
+3208.723,CO,Colorado,1985/01
+3237.45,CO,Colorado,1986/01
+3260.48,CO,Colorado,1987/01
+3262.281,CO,Colorado,1988/01
+3275.818,CO,Colorado,1989/01
+3303.862,CO,Colorado,1990/01
+3367.567,CO,Colorado,1991/01
+3459.995,CO,Colorado,1992/01
+3560.884,CO,Colorado,1993/01
+3653.91,CO,Colorado,1994/01
+3738.061,CO,Colorado,1995/01
+3812.716,CO,Colorado,1996/01
+3891.293,CO,Colorado,1997/01
+3968.967,CO,Colorado,1998/01
+4056.133,CO,Colorado,1999/01
+4326.921,CO,Colorado,2000/01
+4425.687,CO,Colorado,2001/01
+4490.406,CO,Colorado,2002/01
+4528.732,CO,Colorado,2003/01
+4575.013,CO,Colorado,2004/01
+4631.888,CO,Colorado,2005/01
+4720.423,CO,Colorado,2006/01
+4803.868,CO,Colorado,2007/01
+4889.73,CO,Colorado,2008/01
+4972.195,CO,Colorado,2009/01
+5047.539,CO,Colorado,2010/01
+5121.9,CO,Colorado,2011/01
+5193.66,CO,Colorado,2012/01
+5270.774,CO,Colorado,2013/01
+5352.637,CO,Colorado,2014/01
+5454.328,CO,Colorado,2015/01
+5543.844,CO,Colorado,2016/01
+5617.421,CO,Colorado,2017/01
+5697.155,CO,Colorado,2018/01
+5758.486,CO,Colorado,2019/01
+5787.129,CO,Colorado,2020/01
+5814.036,CO,Colorado,2021/01
+5850.935,CO,Colorado,2022/01
+5901.339,CO,Colorado,2023/01
+5957.493,CO,Colorado,2024/01
+523.0,WA,Washington,1900/01
+583.0,WA,Washington,1901/01
+651.0,WA,Washington,1902/01
+719.0,WA,Washington,1903/01
+782.0,WA,Washington,1904/01
+842.0,WA,Washington,1905/01
+904.0,WA,Washington,1906/01
+967.0,WA,Washington,1907/01
+1028.0,WA,Washington,1908/01
+1091.0,WA,Washington,1909/01
+1148.0,WA,Washington,1910/01
+1167.0,WA,Washington,1911/01
+1184.0,WA,Washington,1912/01
+1209.0,WA,Washington,1913/01
+1231.0,WA,Washington,1914/01
+1239.0,WA,Washington,1915/01
+1255.0,WA,Washington,1916/01
+1287.0,WA,Washington,1917/01
+1341.0,WA,Washington,1918/01
+1333.0,WA,Washington,1919/01
+1373.0,WA,Washington,1920/01
+1405.0,WA,Washington,1921/01
+1415.0,WA,Washington,1922/01
+1433.0,WA,Washington,1923/01
+1467.0,WA,Washington,1924/01
+1494.0,WA,Washington,1925/01
+1516.0,WA,Washington,1926/01
+1538.0,WA,Washington,1927/01
+1551.0,WA,Washington,1928/01
+1555.0,WA,Washington,1929/01
+1568.0,WA,Washington,1930/01
+1581.0,WA,Washington,1931/01
+1584.0,WA,Washington,1932/01
+1592.0,WA,Washington,1933/01
+1610.0,WA,Washington,1934/01
+1629.0,WA,Washington,1935/01
+1653.0,WA,Washington,1936/01
+1681.0,WA,Washington,1937/01
+1698.0,WA,Washington,1938/01
+1715.0,WA,Washington,1939/01
+1740.0,WA,Washington,1940/01
+1789.0,WA,Washington,1941/01
+1901.0,WA,Washington,1942/01
+2027.0,WA,Washington,1943/01
+2092.0,WA,Washington,1944/01
+2206.0,WA,Washington,1945/01
+2288.0,WA,Washington,1946/01
+2211.0,WA,Washington,1947/01
+2255.0,WA,Washington,1948/01
+2294.0,WA,Washington,1949/01
+2387.0,WA,Washington,1950/01
+2424.0,WA,Washington,1951/01
+2448.0,WA,Washington,1952/01
+2466.0,WA,Washington,1953/01
+2516.0,WA,Washington,1954/01
+2604.0,WA,Washington,1955/01
+2668.0,WA,Washington,1956/01
+2724.0,WA,Washington,1957/01
+2773.0,WA,Washington,1958/01
+2821.0,WA,Washington,1959/01
+2855.0,WA,Washington,1960/01
+2882.0,WA,Washington,1961/01
+2942.0,WA,Washington,1962/01
+2955.0,WA,Washington,1963/01
+2961.0,WA,Washington,1964/01
+2967.0,WA,Washington,1965/01
+3057.0,WA,Washington,1966/01
+3174.0,WA,Washington,1967/01
+3270.0,WA,Washington,1968/01
+3343.0,WA,Washington,1969/01
+3413.244,WA,Washington,1970/01
+3447.553,WA,Washington,1971/01
+3447.885,WA,Washington,1972/01
+3478.782,WA,Washington,1973/01
+3549.946,WA,Washington,1974/01
+3621.339,WA,Washington,1975/01
+3693.61,WA,Washington,1976/01
+3776.05,WA,Washington,1977/01
+3889.073,WA,Washington,1978/01
+4017.632,WA,Washington,1979/01
+4154.678,WA,Washington,1980/01
+4235.731,WA,Washington,1981/01
+4276.552,WA,Washington,1982/01
+4300.266,WA,Washington,1983/01
+4343.656,WA,Washington,1984/01
+4400.098,WA,Washington,1985/01
+4452.72,WA,Washington,1986/01
+4531.901,WA,Washington,1987/01
+4639.893,WA,Washington,1988/01
+4746.316,WA,Washington,1989/01
+4900.78,WA,Washington,1990/01
+5013.443,WA,Washington,1991/01
+5139.011,WA,Washington,1992/01
+5247.704,WA,Washington,1993/01
+5334.896,WA,Washington,1994/01
+5431.024,WA,Washington,1995/01
+5509.963,WA,Washington,1996/01
+5604.105,WA,Washington,1997/01
+5687.832,WA,Washington,1998/01
+5756.361,WA,Washington,1999/01
+5910.512,WA,Washington,2000/01
+5985.722,WA,Washington,2001/01
+6052.349,WA,Washington,2002/01
+6104.115,WA,Washington,2003/01
+6178.645,WA,Washington,2004/01
+6257.305,WA,Washington,2005/01
+6370.753,WA,Washington,2006/01
+6461.587,WA,Washington,2007/01
+6562.231,WA,Washington,2008/01
+6667.426,WA,Washington,2009/01
+6743.009,WA,Washington,2010/01
+6827.479,WA,Washington,2011/01
+6898.599,WA,Washington,2012/01
+6966.252,WA,Washington,2013/01
+7057.531,WA,Washington,2014/01
+7167.287,WA,Washington,2015/01
+7299.961,WA,Washington,2016/01
+7427.951,WA,Washington,2017/01
+7526.793,WA,Washington,2018/01
+7614.024,WA,Washington,2019/01
+7727.209,WA,Washington,2020/01
+7743.76,WA,Washington,2021/01
+7794.123,WA,Washington,2022/01
+7857.32,WA,Washington,2023/01
+7958.18,WA,Washington,2024/01
+93.0,WY,Wyoming,1900/01
+100.0,WY,Wyoming,1901/01
+105.0,WY,Wyoming,1902/01
+108.0,WY,Wyoming,1903/01
+111.0,WY,Wyoming,1904/01
+114.0,WY,Wyoming,1905/01
+118.0,WY,Wyoming,1906/01
+125.0,WY,Wyoming,1907/01
+133.0,WY,Wyoming,1908/01
+141.0,WY,Wyoming,1909/01
+147.0,WY,Wyoming,1910/01
+150.0,WY,Wyoming,1911/01
+153.0,WY,Wyoming,1912/01
+157.0,WY,Wyoming,1913/01
+163.0,WY,Wyoming,1914/01
+167.0,WY,Wyoming,1915/01
+174.0,WY,Wyoming,1916/01
+186.0,WY,Wyoming,1917/01
+181.0,WY,Wyoming,1918/01
+191.0,WY,Wyoming,1919/01
+197.0,WY,Wyoming,1920/01
+203.0,WY,Wyoming,1921/01
+208.0,WY,Wyoming,1922/01
+211.0,WY,Wyoming,1923/01
+215.0,WY,Wyoming,1924/01
+216.0,WY,Wyoming,1925/01
+217.0,WY,Wyoming,1926/01
+219.0,WY,Wyoming,1927/01
+220.0,WY,Wyoming,1928/01
+223.0,WY,Wyoming,1929/01
+226.0,WY,Wyoming,1930/01
+229.0,WY,Wyoming,1931/01
+230.0,WY,Wyoming,1932/01
+230.0,WY,Wyoming,1933/01
+233.0,WY,Wyoming,1934/01
+237.0,WY,Wyoming,1935/01
+240.0,WY,Wyoming,1936/01
+243.0,WY,Wyoming,1937/01
+246.0,WY,Wyoming,1938/01
+248.0,WY,Wyoming,1939/01
+250.0,WY,Wyoming,1940/01
+247.0,WY,Wyoming,1941/01
+251.0,WY,Wyoming,1942/01
+247.0,WY,Wyoming,1943/01
+242.0,WY,Wyoming,1944/01
+239.0,WY,Wyoming,1945/01
+254.0,WY,Wyoming,1946/01
+258.0,WY,Wyoming,1947/01
+269.0,WY,Wyoming,1948/01
+277.0,WY,Wyoming,1949/01
+290.0,WY,Wyoming,1950/01
+291.0,WY,Wyoming,1951/01
+293.0,WY,Wyoming,1952/01
+290.0,WY,Wyoming,1953/01
+293.0,WY,Wyoming,1954/01
+307.0,WY,Wyoming,1955/01
+312.0,WY,Wyoming,1956/01
+314.0,WY,Wyoming,1957/01
+315.0,WY,Wyoming,1958/01
+320.0,WY,Wyoming,1959/01
+331.0,WY,Wyoming,1960/01
+337.0,WY,Wyoming,1961/01
+333.0,WY,Wyoming,1962/01
+336.0,WY,Wyoming,1963/01
+339.0,WY,Wyoming,1964/01
+332.0,WY,Wyoming,1965/01
+323.0,WY,Wyoming,1966/01
+322.0,WY,Wyoming,1967/01
+324.0,WY,Wyoming,1968/01
+329.0,WY,Wyoming,1969/01
+332.416,WY,Wyoming,1970/01
+340.285,WY,Wyoming,1971/01
+347.345,WY,Wyoming,1972/01
+354.061,WY,Wyoming,1973/01
+365.501,WY,Wyoming,1974/01
+381.695,WY,Wyoming,1975/01
+396.952,WY,Wyoming,1976/01
+413.354,WY,Wyoming,1977/01
+432.88,WY,Wyoming,1978/01
+454.378,WY,Wyoming,1979/01
+474.185,WY,Wyoming,1980/01
+491.712,WY,Wyoming,1981/01
+506.4,WY,Wyoming,1982/01
+510.345,WY,Wyoming,1983/01
+504.896,WY,Wyoming,1984/01
+499.695,WY,Wyoming,1985/01
+495.633,WY,Wyoming,1986/01
+476.965,WY,Wyoming,1987/01
+465.101,WY,Wyoming,1988/01
+458.374,WY,Wyoming,1989/01
+453.401,WY,Wyoming,1990/01
+457.739,WY,Wyoming,1991/01
+463.491,WY,Wyoming,1992/01
+469.033,WY,Wyoming,1993/01
+474.982,WY,Wyoming,1994/01
+478.447,WY,Wyoming,1995/01
+480.085,WY,Wyoming,1996/01
+480.031,WY,Wyoming,1997/01
+480.045,WY,Wyoming,1998/01
+479.602,WY,Wyoming,1999/01
+494.3,WY,Wyoming,2000/01
+494.657,WY,Wyoming,2001/01
+500.017,WY,Wyoming,2002/01
+503.453,WY,Wyoming,2003/01
+509.106,WY,Wyoming,2004/01
+514.157,WY,Wyoming,2005/01
+522.667,WY,Wyoming,2006/01
+534.876,WY,Wyoming,2007/01
+546.043,WY,Wyoming,2008/01
+559.851,WY,Wyoming,2009/01
+564.531,WY,Wyoming,2010/01
+567.491,WY,Wyoming,2011/01
+576.656,WY,Wyoming,2012/01
+582.62,WY,Wyoming,2013/01
+583.159,WY,Wyoming,2014/01
+586.389,WY,Wyoming,2015/01
+585.243,WY,Wyoming,2016/01
+579.994,WY,Wyoming,2017/01
+579.054,WY,Wyoming,2018/01
+580.116,WY,Wyoming,2019/01
+577.681,WY,Wyoming,2020/01
+579.636,WY,Wyoming,2021/01
+581.978,WY,Wyoming,2022/01
+585.067,WY,Wyoming,2023/01
+587.618,WY,Wyoming,2024/01
+135.0,AK,Alaska,1950/01
+158.0,AK,Alaska,1951/01
+189.0,AK,Alaska,1952/01
+205.0,AK,Alaska,1953/01
+215.0,AK,Alaska,1954/01
+222.0,AK,Alaska,1955/01
+224.0,AK,Alaska,1956/01
+231.0,AK,Alaska,1957/01
+224.0,AK,Alaska,1958/01
+224.0,AK,Alaska,1959/01
+229.0,AK,Alaska,1960/01
+238.0,AK,Alaska,1961/01
+246.0,AK,Alaska,1962/01
+256.0,AK,Alaska,1963/01
+263.0,AK,Alaska,1964/01
+271.0,AK,Alaska,1965/01
+271.0,AK,Alaska,1966/01
+278.0,AK,Alaska,1967/01
+285.0,AK,Alaska,1968/01
+296.0,AK,Alaska,1969/01
+302.583,AK,Alaska,1970/01
+315.51,AK,Alaska,1971/01
+324.464,AK,Alaska,1972/01
+330.543,AK,Alaska,1973/01
+341.063,AK,Alaska,1974/01
+376.17,AK,Alaska,1975/01
+400.969,AK,Alaska,1976/01
+403.436,AK,Alaska,1977/01
+404.766,AK,Alaska,1978/01
+402.753,AK,Alaska,1979/01
+405.315,AK,Alaska,1980/01
+418.491,AK,Alaska,1981/01
+449.606,AK,Alaska,1982/01
+488.417,AK,Alaska,1983/01
+513.702,AK,Alaska,1984/01
+532.495,AK,Alaska,1985/01
+544.268,AK,Alaska,1986/01
+539.309,AK,Alaska,1987/01
+541.983,AK,Alaska,1988/01
+547.159,AK,Alaska,1989/01
+553.12,AK,Alaska,1990/01
+569.273,AK,Alaska,1991/01
+587.073,AK,Alaska,1992/01
+596.993,AK,Alaska,1993/01
+600.624,AK,Alaska,1994/01
+601.345,AK,Alaska,1995/01
+604.918,AK,Alaska,1996/01
+608.846,AK,Alaska,1997/01
+615.205,AK,Alaska,1998/01
+619.5,AK,Alaska,1999/01
+627.963,AK,Alaska,2000/01
+633.714,AK,Alaska,2001/01
+642.337,AK,Alaska,2002/01
+648.414,AK,Alaska,2003/01
+659.286,AK,Alaska,2004/01
+666.946,AK,Alaska,2005/01
+675.302,AK,Alaska,2006/01
+680.3,AK,Alaska,2007/01
+687.455,AK,Alaska,2008/01
+698.895,AK,Alaska,2009/01
+713.982,AK,Alaska,2010/01
+722.349,AK,Alaska,2011/01
+730.81,AK,Alaska,2012/01
+737.626,AK,Alaska,2013/01
+737.075,AK,Alaska,2014/01
+738.43,AK,Alaska,2015/01
+742.575,AK,Alaska,2016/01
+740.983,AK,Alaska,2017/01
+736.624,AK,Alaska,2018/01
+733.603,AK,Alaska,2019/01
+733.017,AK,Alaska,2020/01
+734.42,AK,Alaska,2021/01
+734.442,AK,Alaska,2022/01
+736.51,AK,Alaska,2023/01
+740.133,AK,Alaska,2024/01
+1490.0,CA,California,1900/01
+1550.0,CA,California,1901/01
+1623.0,CA,California,1902/01
+1702.0,CA,California,1903/01
+1792.0,CA,California,1904/01
+1893.0,CA,California,1905/01
+1976.0,CA,California,1906/01
+2054.0,CA,California,1907/01
+2161.0,CA,California,1908/01
+2282.0,CA,California,1909/01
+2406.0,CA,California,1910/01
+2534.0,CA,California,1911/01
+2668.0,CA,California,1912/01
+2811.0,CA,California,1913/01
+2934.0,CA,California,1914/01
+3008.0,CA,California,1915/01
+3071.0,CA,California,1916/01
+3171.0,CA,California,1917/01
+3262.0,CA,California,1918/01
+3339.0,CA,California,1919/01
+3554.0,CA,California,1920/01
+3795.0,CA,California,1921/01
+3991.0,CA,California,1922/01
+4270.0,CA,California,1923/01
+4541.0,CA,California,1924/01
+4730.0,CA,California,1925/01
+4929.0,CA,California,1926/01
+5147.0,CA,California,1927/01
+5344.0,CA,California,1928/01
+5531.0,CA,California,1929/01
+5711.0,CA,California,1930/01
+5824.0,CA,California,1931/01
+5894.0,CA,California,1932/01
+5963.0,CA,California,1933/01
+6060.0,CA,California,1934/01
+6175.0,CA,California,1935/01
+6341.0,CA,California,1936/01
+6528.0,CA,California,1937/01
+6656.0,CA,California,1938/01
+6785.0,CA,California,1939/01
+6950.0,CA,California,1940/01
+7237.0,CA,California,1941/01
+7735.0,CA,California,1942/01
+8506.0,CA,California,1943/01
+8945.0,CA,California,1944/01
+9344.0,CA,California,1945/01
+9559.0,CA,California,1946/01
+9832.0,CA,California,1947/01
+10064.0,CA,California,1948/01
+10337.0,CA,California,1949/01
+10677.0,CA,California,1950/01
+11134.0,CA,California,1951/01
+11635.0,CA,California,1952/01
+12251.0,CA,California,1953/01
+12746.0,CA,California,1954/01
+13133.0,CA,California,1955/01
+13713.0,CA,California,1956/01
+14264.0,CA,California,1957/01
+14880.0,CA,California,1958/01
+15467.0,CA,California,1959/01
+15870.0,CA,California,1960/01
+16497.0,CA,California,1961/01
+17072.0,CA,California,1962/01
+17668.0,CA,California,1963/01
+18151.0,CA,California,1964/01
+18585.0,CA,California,1965/01
+18858.0,CA,California,1966/01
+19176.0,CA,California,1967/01
+19394.0,CA,California,1968/01
+19711.0,CA,California,1969/01
+19971.069,CA,California,1970/01
+20345.939,CA,California,1971/01
+20585.469,CA,California,1972/01
+20868.728,CA,California,1973/01
+21173.865,CA,California,1974/01
+21537.849,CA,California,1975/01
+21935.909,CA,California,1976/01
+22352.396,CA,California,1977/01
+22835.958,CA,California,1978/01
+23256.88,CA,California,1979/01
+23800.8,CA,California,1980/01
+24285.933,CA,California,1981/01
+24820.009,CA,California,1982/01
+25360.026,CA,California,1983/01
+25844.393,CA,California,1984/01
+26441.109,CA,California,1985/01
+27102.237,CA,California,1986/01
+27777.158,CA,California,1987/01
+28464.249,CA,California,1988/01
+29218.164,CA,California,1989/01
+29950.111,CA,California,1990/01
+30414.114,CA,California,1991/01
+30875.92,CA,California,1992/01
+31147.208,CA,California,1993/01
+31317.179,CA,California,1994/01
+31493.525,CA,California,1995/01
+31780.829,CA,California,1996/01
+32217.708,CA,California,1997/01
+32682.794,CA,California,1998/01
+33145.121,CA,California,1999/01
+33987.977,CA,California,2000/01
+34479.458,CA,California,2001/01
+34871.843,CA,California,2002/01
+35253.159,CA,California,2003/01
+35574.576,CA,California,2004/01
+35827.943,CA,California,2005/01
+36021.202,CA,California,2006/01
+36250.311,CA,California,2007/01
+36604.337,CA,California,2008/01
+36961.229,CA,California,2009/01
+37319.55,CA,California,2010/01
+37636.311,CA,California,2011/01
+37944.551,CA,California,2012/01
+38253.768,CA,California,2013/01
+38586.706,CA,California,2014/01
+38904.296,CA,California,2015/01
+39149.186,CA,California,2016/01
+39337.785,CA,California,2017/01
+39437.463,CA,California,2018/01
+39437.61,CA,California,2019/01
+39521.958,CA,California,2020/01
+39142.565,CA,California,2021/01
+39142.414,CA,California,2022/01
+39198.693,CA,California,2023/01
+39431.263,CA,California,2024/01
+1858.0,VA,Virginia,1900/01
+1887.0,VA,Virginia,1901/01
+1894.0,VA,Virginia,1902/01
+1890.0,VA,Virginia,1903/01
+1889.0,VA,Virginia,1904/01
+1917.0,VA,Virginia,1905/01
+1942.0,VA,Virginia,1906/01
+1952.0,VA,Virginia,1907/01
+1994.0,VA,Virginia,1908/01
+2038.0,VA,Virginia,1909/01
+2071.0,VA,Virginia,1910/01
+2092.0,VA,Virginia,1911/01
+2122.0,VA,Virginia,1912/01
+2176.0,VA,Virginia,1913/01
+2241.0,VA,Virginia,1914/01
+2294.0,VA,Virginia,1915/01
+2316.0,VA,Virginia,1916/01
+2313.0,VA,Virginia,1917/01
+2359.0,VA,Virginia,1918/01
+2318.0,VA,Virginia,1919/01
+2347.0,VA,Virginia,1920/01
+2395.0,VA,Virginia,1921/01
+2412.0,VA,Virginia,1922/01
+2423.0,VA,Virginia,1923/01
+2426.0,VA,Virginia,1924/01
+2423.0,VA,Virginia,1925/01
+2419.0,VA,Virginia,1926/01
+2433.0,VA,Virginia,1927/01
+2435.0,VA,Virginia,1928/01
+2425.0,VA,Virginia,1929/01
+2427.0,VA,Virginia,1930/01
+2445.0,VA,Virginia,1931/01
+2452.0,VA,Virginia,1932/01
+2460.0,VA,Virginia,1933/01
+2485.0,VA,Virginia,1934/01
+2520.0,VA,Virginia,1935/01
+2552.0,VA,Virginia,1936/01
+2590.0,VA,Virginia,1937/01
+2638.0,VA,Virginia,1938/01
+2670.0,VA,Virginia,1939/01
+2720.0,VA,Virginia,1940/01
+2855.0,VA,Virginia,1941/01
+3038.0,VA,Virginia,1942/01
+3130.0,VA,Virginia,1943/01
+3248.0,VA,Virginia,1944/01
+3193.0,VA,Virginia,1945/01
+3212.0,VA,Virginia,1946/01
+3201.0,VA,Virginia,1947/01
+3207.0,VA,Virginia,1948/01
+3292.0,VA,Virginia,1949/01
+3315.0,VA,Virginia,1950/01
+3434.0,VA,Virginia,1951/01
+3504.0,VA,Virginia,1952/01
+3557.0,VA,Virginia,1953/01
+3555.0,VA,Virginia,1954/01
+3588.0,VA,Virginia,1955/01
+3722.0,VA,Virginia,1956/01
+3844.0,VA,Virginia,1957/01
+3914.0,VA,Virginia,1958/01
+3951.0,VA,Virginia,1959/01
+3986.0,VA,Virginia,1960/01
+4095.0,VA,Virginia,1961/01
+4180.0,VA,Virginia,1962/01
+4276.0,VA,Virginia,1963/01
+4357.0,VA,Virginia,1964/01
+4411.0,VA,Virginia,1965/01
+4456.0,VA,Virginia,1966/01
+4508.0,VA,Virginia,1967/01
+4558.0,VA,Virginia,1968/01
+4614.0,VA,Virginia,1969/01
+4651.448,VA,Virginia,1970/01
+4750.838,VA,Virginia,1971/01
+4824.472,VA,Virginia,1972/01
+4901.292,VA,Virginia,1973/01
+4971.069,VA,Virginia,1974/01
+5047.395,VA,Virginia,1975/01
+5121.863,VA,Virginia,1976/01
+5193.112,VA,Virginia,1977/01
+5270.24,VA,Virginia,1978/01
+5307.945,VA,Virginia,1979/01
+5368.334,VA,Virginia,1980/01
+5444.097,VA,Virginia,1981/01
+5492.783,VA,Virginia,1982/01
+5564.657,VA,Virginia,1983/01
+5643.87,VA,Virginia,1984/01
+5715.153,VA,Virginia,1985/01
+5811.7,VA,Virginia,1986/01
+5932.268,VA,Virginia,1987/01
+6036.909,VA,Virginia,1988/01
+6120.246,VA,Virginia,1989/01
+6213.526,VA,Virginia,1990/01
+6283.853,VA,Virginia,1991/01
+6383.315,VA,Virginia,1992/01
+6464.795,VA,Virginia,1993/01
+6536.771,VA,Virginia,1994/01
+6601.392,VA,Virginia,1995/01
+6665.491,VA,Virginia,1996/01
+6732.878,VA,Virginia,1997/01
+6789.225,VA,Virginia,1998/01
+6872.912,VA,Virginia,1999/01
+7105.817,VA,Virginia,2000/01
+7198.362,VA,Virginia,2001/01
+7286.873,VA,Virginia,2002/01
+7366.977,VA,Virginia,2003/01
+7475.575,VA,Virginia,2004/01
+7577.105,VA,Virginia,2005/01
+7673.725,VA,Virginia,2006/01
+7751.0,VA,Virginia,2007/01
+7833.496,VA,Virginia,2008/01
+7925.937,VA,Virginia,2009/01
+8024.004,VA,Virginia,2010/01
+8102.437,VA,Virginia,2011/01
+8187.456,VA,Virginia,2012/01
+8255.861,VA,Virginia,2013/01
+8315.43,VA,Virginia,2014/01
+8367.303,VA,Virginia,2015/01
+8417.651,VA,Virginia,2016/01
+8471.011,VA,Virginia,2017/01
+8510.92,VA,Virginia,2018/01
+8556.642,VA,Virginia,2019/01
+8637.615,VA,Virginia,2020/01
+8658.91,VA,Virginia,2021/01
+8683.414,VA,Virginia,2022/01
+8734.685,VA,Virginia,2023/01
+8811.195,VA,Virginia,2024/01
+403.0,SD,South Dakota,1900/01
+418.0,SD,South Dakota,1901/01
+431.0,SD,South Dakota,1902/01
+437.0,SD,South Dakota,1903/01
+452.0,SD,South Dakota,1904/01
+461.0,SD,South Dakota,1905/01
+477.0,SD,South Dakota,1906/01
+498.0,SD,South Dakota,1907/01
+527.0,SD,South Dakota,1908/01
+553.0,SD,South Dakota,1909/01
+590.0,SD,South Dakota,1910/01
+602.0,SD,South Dakota,1911/01
+592.0,SD,South Dakota,1912/01
+584.0,SD,South Dakota,1913/01
+581.0,SD,South Dakota,1914/01
+585.0,SD,South Dakota,1915/01
+595.0,SD,South Dakota,1916/01
+599.0,SD,South Dakota,1917/01
+570.0,SD,South Dakota,1918/01
+606.0,SD,South Dakota,1919/01
+640.0,SD,South Dakota,1920/01
+652.0,SD,South Dakota,1921/01
+660.0,SD,South Dakota,1922/01
+669.0,SD,South Dakota,1923/01
+673.0,SD,South Dakota,1924/01
+682.0,SD,South Dakota,1925/01
+683.0,SD,South Dakota,1926/01
+682.0,SD,South Dakota,1927/01
+685.0,SD,South Dakota,1928/01
+690.0,SD,South Dakota,1929/01
+693.0,SD,South Dakota,1930/01
+694.0,SD,South Dakota,1931/01
+692.0,SD,South Dakota,1932/01
+690.0,SD,South Dakota,1933/01
+682.0,SD,South Dakota,1934/01
+674.0,SD,South Dakota,1935/01
+666.0,SD,South Dakota,1936/01
+656.0,SD,South Dakota,1937/01
+649.0,SD,South Dakota,1938/01
+645.0,SD,South Dakota,1939/01
+641.0,SD,South Dakota,1940/01
+613.0,SD,South Dakota,1941/01
+589.0,SD,South Dakota,1942/01
+587.0,SD,South Dakota,1943/01
+565.0,SD,South Dakota,1944/01
+579.0,SD,South Dakota,1945/01
+588.0,SD,South Dakota,1946/01
+601.0,SD,South Dakota,1947/01
+612.0,SD,South Dakota,1948/01
+631.0,SD,South Dakota,1949/01
+655.0,SD,South Dakota,1950/01
+655.0,SD,South Dakota,1951/01
+651.0,SD,South Dakota,1952/01
+648.0,SD,South Dakota,1953/01
+655.0,SD,South Dakota,1954/01
+663.0,SD,South Dakota,1955/01
+670.0,SD,South Dakota,1956/01
+666.0,SD,South Dakota,1957/01
+656.0,SD,South Dakota,1958/01
+667.0,SD,South Dakota,1959/01
+683.0,SD,South Dakota,1960/01
+693.0,SD,South Dakota,1961/01
+705.0,SD,South Dakota,1962/01
+708.0,SD,South Dakota,1963/01
+701.0,SD,South Dakota,1964/01
+692.0,SD,South Dakota,1965/01
+683.0,SD,South Dakota,1966/01
+671.0,SD,South Dakota,1967/01
+669.0,SD,South Dakota,1968/01
+668.0,SD,South Dakota,1969/01
+666.257,SD,South Dakota,1970/01
+671.297,SD,South Dakota,1971/01
+677.234,SD,South Dakota,1972/01
+678.715,SD,South Dakota,1973/01
+679.585,SD,South Dakota,1974/01
+681.042,SD,South Dakota,1975/01
+686.39,SD,South Dakota,1976/01
+688.48,SD,South Dakota,1977/01
+688.58,SD,South Dakota,1978/01
+688.335,SD,South Dakota,1979/01
+690.851,SD,South Dakota,1980/01
+689.584,SD,South Dakota,1981/01
+690.597,SD,South Dakota,1982/01
+693.008,SD,South Dakota,1983/01
+697.249,SD,South Dakota,1984/01
+698.402,SD,South Dakota,1985/01
+696.034,SD,South Dakota,1986/01
+696.036,SD,South Dakota,1987/01
+698.165,SD,South Dakota,1988/01
+696.701,SD,South Dakota,1989/01
+696.667,SD,South Dakota,1990/01
+701.445,SD,South Dakota,1991/01
+708.698,SD,South Dakota,1992/01
+716.258,SD,South Dakota,1993/01
+723.038,SD,South Dakota,1994/01
+728.251,SD,South Dakota,1995/01
+730.699,SD,South Dakota,1996/01
+730.855,SD,South Dakota,1997/01
+730.789,SD,South Dakota,1998/01
+733.133,SD,South Dakota,1999/01
+755.844,SD,South Dakota,2000/01
+757.972,SD,South Dakota,2001/01
+760.02,SD,South Dakota,2002/01
+763.729,SD,South Dakota,2003/01
+770.396,SD,South Dakota,2004/01
+775.493,SD,South Dakota,2005/01
+783.033,SD,South Dakota,2006/01
+791.623,SD,South Dakota,2007/01
+799.124,SD,South Dakota,2008/01
+807.067,SD,South Dakota,2009/01
+816.193,SD,South Dakota,2010/01
+823.74,SD,South Dakota,2011/01
+833.859,SD,South Dakota,2012/01
+842.751,SD,South Dakota,2013/01
+849.67,SD,South Dakota,2014/01
+854.663,SD,South Dakota,2015/01
+863.693,SD,South Dakota,2016/01
+873.732,SD,South Dakota,2017/01
+879.386,SD,South Dakota,2018/01
+887.127,SD,South Dakota,2019/01
+887.948,SD,South Dakota,2020/01
+896.492,SD,South Dakota,2021/01
+909.723,SD,South Dakota,2022/01
+918.305,SD,South Dakota,2023/01
+924.669,SD,South Dakota,2024/01
+498.0,HI,Hawaii,1950/01
+514.0,HI,Hawaii,1951/01
+517.0,HI,Hawaii,1952/01
+510.0,HI,Hawaii,1953/01
+505.0,HI,Hawaii,1954/01
+539.0,HI,Hawaii,1955/01
+559.0,HI,Hawaii,1956/01
+584.0,HI,Hawaii,1957/01
+605.0,HI,Hawaii,1958/01
+622.0,HI,Hawaii,1959/01
+642.0,HI,Hawaii,1960/01
+659.0,HI,Hawaii,1961/01
+684.0,HI,Hawaii,1962/01
+682.0,HI,Hawaii,1963/01
+700.0,HI,Hawaii,1964/01
+704.0,HI,Hawaii,1965/01
+710.0,HI,Hawaii,1966/01
+723.0,HI,Hawaii,1967/01
+734.0,HI,Hawaii,1968/01
+750.0,HI,Hawaii,1969/01
+769.913,HI,Hawaii,1970/01
+801.644,HI,Hawaii,1971/01
+828.331,HI,Hawaii,1972/01
+851.595,HI,Hawaii,1973/01
+867.978,HI,Hawaii,1974/01
+886.16,HI,Hawaii,1975/01
+904.191,HI,Hawaii,1976/01
+918.259,HI,Hawaii,1977/01
+931.584,HI,Hawaii,1978/01
+953.306,HI,Hawaii,1979/01
+967.71,HI,Hawaii,1980/01
+978.195,HI,Hawaii,1981/01
+993.78,HI,Hawaii,1982/01
+1012.717,HI,Hawaii,1983/01
+1027.922,HI,Hawaii,1984/01
+1039.698,HI,Hawaii,1985/01
+1051.762,HI,Hawaii,1986/01
+1067.918,HI,Hawaii,1987/01
+1079.828,HI,Hawaii,1988/01
+1094.588,HI,Hawaii,1989/01
+1112.703,HI,Hawaii,1990/01
+1131.412,HI,Hawaii,1991/01
+1149.926,HI,Hawaii,1992/01
+1161.508,HI,Hawaii,1993/01
+1173.903,HI,Hawaii,1994/01
+1180.49,HI,Hawaii,1995/01
+1184.434,HI,Hawaii,1996/01
+1189.322,HI,Hawaii,1997/01
+1190.472,HI,Hawaii,1998/01
+1185.497,HI,Hawaii,1999/01
+1213.519,HI,Hawaii,2000/01
+1225.948,HI,Hawaii,2001/01
+1239.613,HI,Hawaii,2002/01
+1251.154,HI,Hawaii,2003/01
+1273.569,HI,Hawaii,2004/01
+1292.729,HI,Hawaii,2005/01
+1309.731,HI,Hawaii,2006/01
+1315.675,HI,Hawaii,2007/01
+1332.213,HI,Hawaii,2008/01
+1346.717,HI,Hawaii,2009/01
+1364.004,HI,Hawaii,2010/01
+1379.562,HI,Hawaii,2011/01
+1395.199,HI,Hawaii,2012/01
+1408.822,HI,Hawaii,2013/01
+1415.335,HI,Hawaii,2014/01
+1422.999,HI,Hawaii,2015/01
+1428.885,HI,Hawaii,2016/01
+1425.763,HI,Hawaii,2017/01
+1423.102,HI,Hawaii,2018/01
+1415.615,HI,Hawaii,2019/01
+1451.252,HI,Hawaii,2020/01
+1447.029,HI,Hawaii,2021/01
+1440.359,HI,Hawaii,2022/01
+1441.387,HI,Hawaii,2023/01
+1446.146,HI,Hawaii,2024/01
+1884.0,NJ,New Jersey,1900/01
+1889.0,NJ,New Jersey,1901/01
+1917.0,NJ,New Jersey,1902/01
+1969.0,NJ,New Jersey,1903/01
+2050.0,NJ,New Jersey,1904/01
+2151.0,NJ,New Jersey,1905/01
+2239.0,NJ,New Jersey,1906/01
+2314.0,NJ,New Jersey,1907/01
+2403.0,NJ,New Jersey,1908/01
+2487.0,NJ,New Jersey,1909/01
+2550.0,NJ,New Jersey,1910/01
+2610.0,NJ,New Jersey,1911/01
+2670.0,NJ,New Jersey,1912/01
+2729.0,NJ,New Jersey,1913/01
+2789.0,NJ,New Jersey,1914/01
+2850.0,NJ,New Jersey,1915/01
+2918.0,NJ,New Jersey,1916/01
+2976.0,NJ,New Jersey,1917/01
+3043.0,NJ,New Jersey,1918/01
+3136.0,NJ,New Jersey,1919/01
+3198.0,NJ,New Jersey,1920/01
+3297.0,NJ,New Jersey,1921/01
+3380.0,NJ,New Jersey,1922/01
+3472.0,NJ,New Jersey,1923/01
+3573.0,NJ,New Jersey,1924/01
+3664.0,NJ,New Jersey,1925/01
+3758.0,NJ,New Jersey,1926/01
+3891.0,NJ,New Jersey,1927/01
+3968.0,NJ,New Jersey,1928/01
+3989.0,NJ,New Jersey,1929/01
+4068.0,NJ,New Jersey,1930/01
+4120.0,NJ,New Jersey,1931/01
+4120.0,NJ,New Jersey,1932/01
+4107.0,NJ,New Jersey,1933/01
+4089.0,NJ,New Jersey,1934/01
+4085.0,NJ,New Jersey,1935/01
+4084.0,NJ,New Jersey,1936/01
+4088.0,NJ,New Jersey,1937/01
+4100.0,NJ,New Jersey,1938/01
+4129.0,NJ,New Jersey,1939/01
+4175.0,NJ,New Jersey,1940/01
+4254.0,NJ,New Jersey,1941/01
+4297.0,NJ,New Jersey,1942/01
+4226.0,NJ,New Jersey,1943/01
+4158.0,NJ,New Jersey,1944/01
+4108.0,NJ,New Jersey,1945/01
+4492.0,NJ,New Jersey,1946/01
+4618.0,NJ,New Jersey,1947/01
+4774.0,NJ,New Jersey,1948/01
+4889.0,NJ,New Jersey,1949/01
+4872.0,NJ,New Jersey,1950/01
+5006.0,NJ,New Jersey,1951/01
+5125.0,NJ,New Jersey,1952/01
+5229.0,NJ,New Jersey,1953/01
+5360.0,NJ,New Jersey,1954/01
+5502.0,NJ,New Jersey,1955/01
+5615.0,NJ,New Jersey,1956/01
+5737.0,NJ,New Jersey,1957/01
+5890.0,NJ,New Jersey,1958/01
+6015.0,NJ,New Jersey,1959/01
+6103.0,NJ,New Jersey,1960/01
+6265.0,NJ,New Jersey,1961/01
+6376.0,NJ,New Jersey,1962/01
+6531.0,NJ,New Jersey,1963/01
+6660.0,NJ,New Jersey,1964/01
+6767.0,NJ,New Jersey,1965/01
+6851.0,NJ,New Jersey,1966/01
+6928.0,NJ,New Jersey,1967/01
+7005.0,NJ,New Jersey,1968/01
+7095.0,NJ,New Jersey,1969/01
+7171.112,NJ,New Jersey,1970/01
+7281.107,NJ,New Jersey,1971/01
+7335.042,NJ,New Jersey,1972/01
+7333.083,NJ,New Jersey,1973/01
+7332.411,NJ,New Jersey,1974/01
+7337.765,NJ,New Jersey,1975/01
+7339.745,NJ,New Jersey,1976/01
+7337.169,NJ,New Jersey,1977/01
+7350.804,NJ,New Jersey,1978/01
+7366.512,NJ,New Jersey,1979/01
+7376.33,NJ,New Jersey,1980/01
+7407.472,NJ,New Jersey,1981/01
+7430.968,NJ,New Jersey,1982/01
+7467.785,NJ,New Jersey,1983/01
+7515.473,NJ,New Jersey,1984/01
+7565.528,NJ,New Jersey,1985/01
+7622.159,NJ,New Jersey,1986/01
+7670.742,NJ,New Jersey,1987/01
+7712.333,NJ,New Jersey,1988/01
+7726.089,NJ,New Jersey,1989/01
+7757.158,NJ,New Jersey,1990/01
+7784.269,NJ,New Jersey,1991/01
+7827.77,NJ,New Jersey,1992/01
+7874.891,NJ,New Jersey,1993/01
+7918.796,NJ,New Jersey,1994/01
+7965.523,NJ,New Jersey,1995/01
+8009.624,NJ,New Jersey,1996/01
+8054.178,NJ,New Jersey,1997/01
+8095.542,NJ,New Jersey,1998/01
+8143.412,NJ,New Jersey,1999/01
+8430.621,NJ,New Jersey,2000/01
+8492.671,NJ,New Jersey,2001/01
+8552.643,NJ,New Jersey,2002/01
+8601.402,NJ,New Jersey,2003/01
+8634.561,NJ,New Jersey,2004/01
+8651.974,NJ,New Jersey,2005/01
+8661.679,NJ,New Jersey,2006/01
+8677.885,NJ,New Jersey,2007/01
+8711.09,NJ,New Jersey,2008/01
+8755.602,NJ,New Jersey,2009/01
+8799.451,NJ,New Jersey,2010/01
+8828.552,NJ,New Jersey,2011/01
+8845.671,NJ,New Jersey,2012/01
+8857.821,NJ,New Jersey,2013/01
+8867.277,NJ,New Jersey,2014/01
+8870.312,NJ,New Jersey,2015/01
+8873.584,NJ,New Jersey,2016/01
+8888.147,NJ,New Jersey,2017/01
+8891.73,NJ,New Jersey,2018/01
+8891.258,NJ,New Jersey,2019/01
+9272.794,NJ,New Jersey,2020/01
+9270.541,NJ,New Jersey,2021/01
+9295.227,NJ,New Jersey,2022/01
+9379.642,NJ,New Jersey,2023/01
+9500.851,NJ,New Jersey,2024/01
+245.0,MT,Montana,1900/01
+261.0,MT,Montana,1901/01
+270.0,MT,Montana,1902/01
+282.0,MT,Montana,1903/01
+293.0,MT,Montana,1904/01
+305.0,MT,Montana,1905/01
+322.0,MT,Montana,1906/01
+332.0,MT,Montana,1907/01
+346.0,MT,Montana,1908/01
+363.0,MT,Montana,1909/01
+380.0,MT,Montana,1910/01
+397.0,MT,Montana,1911/01
+414.0,MT,Montana,1912/01
+433.0,MT,Montana,1913/01
+452.0,MT,Montana,1914/01
+469.0,MT,Montana,1915/01
+487.0,MT,Montana,1916/01
+505.0,MT,Montana,1917/01
+501.0,MT,Montana,1918/01
+534.0,MT,Montana,1919/01
+543.0,MT,Montana,1920/01
+546.0,MT,Montana,1921/01
+543.0,MT,Montana,1922/01
+538.0,MT,Montana,1923/01
+538.0,MT,Montana,1924/01
+535.0,MT,Montana,1925/01
+531.0,MT,Montana,1926/01
+527.0,MT,Montana,1927/01
+541.0,MT,Montana,1928/01
+524.0,MT,Montana,1929/01
+539.0,MT,Montana,1930/01
+540.0,MT,Montana,1931/01
+540.0,MT,Montana,1932/01
+541.0,MT,Montana,1933/01
+545.0,MT,Montana,1934/01
+550.0,MT,Montana,1935/01
+554.0,MT,Montana,1936/01
+554.0,MT,Montana,1937/01
+552.0,MT,Montana,1938/01
+555.0,MT,Montana,1939/01
+558.0,MT,Montana,1940/01
+543.0,MT,Montana,1941/01
+518.0,MT,Montana,1942/01
+485.0,MT,Montana,1943/01
+469.0,MT,Montana,1944/01
+477.0,MT,Montana,1945/01
+514.0,MT,Montana,1946/01
+531.0,MT,Montana,1947/01
+542.0,MT,Montana,1948/01
+569.0,MT,Montana,1949/01
+593.0,MT,Montana,1950/01
+596.0,MT,Montana,1951/01
+602.0,MT,Montana,1952/01
+616.0,MT,Montana,1953/01
+624.0,MT,Montana,1954/01
+636.0,MT,Montana,1955/01
+656.0,MT,Montana,1956/01
+667.0,MT,Montana,1957/01
+666.0,MT,Montana,1958/01
+669.0,MT,Montana,1959/01
+679.0,MT,Montana,1960/01
+696.0,MT,Montana,1961/01
+698.0,MT,Montana,1962/01
+703.0,MT,Montana,1963/01
+706.0,MT,Montana,1964/01
+706.0,MT,Montana,1965/01
+707.0,MT,Montana,1966/01
+701.0,MT,Montana,1967/01
+700.0,MT,Montana,1968/01
+694.0,MT,Montana,1969/01
+694.409,MT,Montana,1970/01
+710.814,MT,Montana,1971/01
+718.732,MT,Montana,1972/01
+726.798,MT,Montana,1973/01
+736.419,MT,Montana,1974/01
+748.208,MT,Montana,1975/01
+757.317,MT,Montana,1976/01
+769.953,MT,Montana,1977/01
+782.317,MT,Montana,1978/01
+787.305,MT,Montana,1979/01
+788.752,MT,Montana,1980/01
+795.328,MT,Montana,1981/01
+803.986,MT,Montana,1982/01
+814.031,MT,Montana,1983/01
+820.905,MT,Montana,1984/01
+822.32,MT,Montana,1985/01
+813.739,MT,Montana,1986/01
+805.063,MT,Montana,1987/01
+800.202,MT,Montana,1988/01
+799.636,MT,Montana,1989/01
+799.824,MT,Montana,1990/01
+807.837,MT,Montana,1991/01
+822.436,MT,Montana,1992/01
+839.876,MT,Montana,1993/01
+854.923,MT,Montana,1994/01
+868.522,MT,Montana,1995/01
+876.656,MT,Montana,1996/01
+878.706,MT,Montana,1997/01
+879.533,MT,Montana,1998/01
+882.779,MT,Montana,1999/01
+903.773,MT,Montana,2000/01
+906.961,MT,Montana,2001/01
+911.667,MT,Montana,2002/01
+919.63,MT,Montana,2003/01
+930.009,MT,Montana,2004/01
+940.102,MT,Montana,2005/01
+952.692,MT,Montana,2006/01
+964.706,MT,Montana,2007/01
+976.415,MT,Montana,2008/01
+983.982,MT,Montana,2009/01
+990.73,MT,Montana,2010/01
+997.518,MT,Montana,2011/01
+1004.168,MT,Montana,2012/01
+1014.158,MT,Montana,2013/01
+1022.657,MT,Montana,2014/01
+1031.495,MT,Montana,2015/01
+1042.137,MT,Montana,2016/01
+1053.862,MT,Montana,2017/01
+1061.818,MT,Montana,2018/01
+1070.123,MT,Montana,2019/01
+1087.23,MT,Montana,2020/01
+1106.522,MT,Montana,2021/01
+1122.095,MT,Montana,2022/01
+1131.302,MT,Montana,2023/01
+1137.233,MT,Montana,2024/01
+4161.0,OH,Ohio,1900/01
+4216.0,OH,Ohio,1901/01
+4322.0,OH,Ohio,1902/01
+4386.0,OH,Ohio,1903/01
+4458.0,OH,Ohio,1904/01
+4530.0,OH,Ohio,1905/01
+4587.0,OH,Ohio,1906/01
+4630.0,OH,Ohio,1907/01
+4677.0,OH,Ohio,1908/01
+4701.0,OH,Ohio,1909/01
+4786.0,OH,Ohio,1910/01
+4821.0,OH,Ohio,1911/01
+4893.0,OH,Ohio,1912/01
+4997.0,OH,Ohio,1913/01
+5109.0,OH,Ohio,1914/01
+5251.0,OH,Ohio,1915/01
+5366.0,OH,Ohio,1916/01
+5510.0,OH,Ohio,1917/01
+5547.0,OH,Ohio,1918/01
+5683.0,OH,Ohio,1919/01
+5799.0,OH,Ohio,1920/01
+5921.0,OH,Ohio,1921/01
+6054.0,OH,Ohio,1922/01
+6183.0,OH,Ohio,1923/01
+6319.0,OH,Ohio,1924/01
+6434.0,OH,Ohio,1925/01
+6504.0,OH,Ohio,1926/01
+6577.0,OH,Ohio,1927/01
+6608.0,OH,Ohio,1928/01
+6626.0,OH,Ohio,1929/01
+6662.0,OH,Ohio,1930/01
+6694.0,OH,Ohio,1931/01
+6717.0,OH,Ohio,1932/01
+6740.0,OH,Ohio,1933/01
+6751.0,OH,Ohio,1934/01
+6787.0,OH,Ohio,1935/01
+6801.0,OH,Ohio,1936/01
+6809.0,OH,Ohio,1937/01
+6837.0,OH,Ohio,1938/01
+6886.0,OH,Ohio,1939/01
+6929.0,OH,Ohio,1940/01
+6958.0,OH,Ohio,1941/01
+6969.0,OH,Ohio,1942/01
+6868.0,OH,Ohio,1943/01
+6918.0,OH,Ohio,1944/01
+6916.0,OH,Ohio,1945/01
+7512.0,OH,Ohio,1946/01
+7705.0,OH,Ohio,1947/01
+7876.0,OH,Ohio,1948/01
+7973.0,OH,Ohio,1949/01
+7980.0,OH,Ohio,1950/01
+8061.0,OH,Ohio,1951/01
+8275.0,OH,Ohio,1952/01
+8591.0,OH,Ohio,1953/01
+8873.0,OH,Ohio,1954/01
+9017.0,OH,Ohio,1955/01
+9207.0,OH,Ohio,1956/01
+9410.0,OH,Ohio,1957/01
+9599.0,OH,Ohio,1958/01
+9671.0,OH,Ohio,1959/01
+9734.0,OH,Ohio,1960/01
+9854.0,OH,Ohio,1961/01
+9929.0,OH,Ohio,1962/01
+9986.0,OH,Ohio,1963/01
+10080.0,OH,Ohio,1964/01
+10201.0,OH,Ohio,1965/01
+10330.0,OH,Ohio,1966/01
+10414.0,OH,Ohio,1967/01
+10516.0,OH,Ohio,1968/01
+10563.0,OH,Ohio,1969/01
+10657.423,OH,Ohio,1970/01
+10734.818,OH,Ohio,1971/01
+10746.993,OH,Ohio,1972/01
+10767.314,OH,Ohio,1973/01
+10765.759,OH,Ohio,1974/01
+10770.425,OH,Ohio,1975/01
+10752.662,OH,Ohio,1976/01
+10771.394,OH,Ohio,1977/01
+10795.581,OH,Ohio,1978/01
+10798.298,OH,Ohio,1979/01
+10800.65,OH,Ohio,1980/01
+10788.33,OH,Ohio,1981/01
+10757.087,OH,Ohio,1982/01
+10737.632,OH,Ohio,1983/01
+10737.746,OH,Ohio,1984/01
+10734.926,OH,Ohio,1985/01
+10730.268,OH,Ohio,1986/01
+10760.09,OH,Ohio,1987/01
+10798.552,OH,Ohio,1988/01
+10829.217,OH,Ohio,1989/01
+10861.837,OH,Ohio,1990/01
+10933.683,OH,Ohio,1991/01
+11007.609,OH,Ohio,1992/01
+11070.385,OH,Ohio,1993/01
+11111.451,OH,Ohio,1994/01
+11155.493,OH,Ohio,1995/01
+11187.032,OH,Ohio,1996/01
+11212.498,OH,Ohio,1997/01
+11237.752,OH,Ohio,1998/01
+11256.654,OH,Ohio,1999/01
+11363.543,OH,Ohio,2000/01
+11387.404,OH,Ohio,2001/01
+11407.889,OH,Ohio,2002/01
+11434.788,OH,Ohio,2003/01
+11452.251,OH,Ohio,2004/01
+11463.32,OH,Ohio,2005/01
+11481.213,OH,Ohio,2006/01
+11500.468,OH,Ohio,2007/01
+11515.391,OH,Ohio,2008/01
+11528.896,OH,Ohio,2009/01
+11539.449,OH,Ohio,2010/01
+11545.735,OH,Ohio,2011/01
+11550.971,OH,Ohio,2012/01
+11579.692,OH,Ohio,2013/01
+11606.573,OH,Ohio,2014/01
+11622.315,OH,Ohio,2015/01
+11640.06,OH,Ohio,2016/01
+11665.706,OH,Ohio,2017/01
+11680.892,OH,Ohio,2018/01
+11696.507,OH,Ohio,2019/01
+11798.905,OH,Ohio,2020/01
+11767.344,OH,Ohio,2021/01
+11777.874,OH,Ohio,2022/01
+11824.034,OH,Ohio,2023/01
+11883.304,OH,Ohio,2024/01
+530.0,FL,Florida,1900/01
+544.0,FL,Florida,1901/01
+565.0,FL,Florida,1902/01
+587.0,FL,Florida,1903/01
+599.0,FL,Florida,1904/01
+615.0,FL,Florida,1905/01
+628.0,FL,Florida,1906/01
+645.0,FL,Florida,1907/01
+684.0,FL,Florida,1908/01
+724.0,FL,Florida,1909/01
+756.0,FL,Florida,1910/01
+773.0,FL,Florida,1911/01
+801.0,FL,Florida,1912/01
+828.0,FL,Florida,1913/01
+871.0,FL,Florida,1914/01
+922.0,FL,Florida,1915/01
+924.0,FL,Florida,1916/01
+895.0,FL,Florida,1917/01
+865.0,FL,Florida,1918/01
+898.0,FL,Florida,1919/01
+962.0,FL,Florida,1920/01
+997.0,FL,Florida,1921/01
+1044.0,FL,Florida,1922/01
+1097.0,FL,Florida,1923/01
+1160.0,FL,Florida,1924/01
+1264.0,FL,Florida,1925/01
+1368.0,FL,Florida,1926/01
+1418.0,FL,Florida,1927/01
+1433.0,FL,Florida,1928/01
+1445.0,FL,Florida,1929/01
+1471.0,FL,Florida,1930/01
+1493.0,FL,Florida,1931/01
+1521.0,FL,Florida,1932/01
+1552.0,FL,Florida,1933/01
+1585.0,FL,Florida,1934/01
+1613.0,FL,Florida,1935/01
+1651.0,FL,Florida,1936/01
+1709.0,FL,Florida,1937/01
+1771.0,FL,Florida,1938/01
+1836.0,FL,Florida,1939/01
+1915.0,FL,Florida,1940/01
+2017.0,FL,Florida,1941/01
+2151.0,FL,Florida,1942/01
+2451.0,FL,Florida,1943/01
+2420.0,FL,Florida,1944/01
+2465.0,FL,Florida,1945/01
+2440.0,FL,Florida,1946/01
+2528.0,FL,Florida,1947/01
+2578.0,FL,Florida,1948/01
+2668.0,FL,Florida,1949/01
+2810.0,FL,Florida,1950/01
+2980.0,FL,Florida,1951/01
+3157.0,FL,Florida,1952/01
+3310.0,FL,Florida,1953/01
+3505.0,FL,Florida,1954/01
+3747.0,FL,Florida,1955/01
+4047.0,FL,Florida,1956/01
+4372.0,FL,Florida,1957/01
+4630.0,FL,Florida,1958/01
+4808.0,FL,Florida,1959/01
+5004.0,FL,Florida,1960/01
+5243.0,FL,Florida,1961/01
+5458.0,FL,Florida,1962/01
+5628.0,FL,Florida,1963/01
+5781.0,FL,Florida,1964/01
+5954.0,FL,Florida,1965/01
+6104.0,FL,Florida,1966/01
+6242.0,FL,Florida,1967/01
+6433.0,FL,Florida,1968/01
+6641.0,FL,Florida,1969/01
+6791.418,FL,Florida,1970/01
+7158.304,FL,Florida,1971/01
+7511.463,FL,Florida,1972/01
+7913.696,FL,Florida,1973/01
+8298.762,FL,Florida,1974/01
+8518.422,FL,Florida,1975/01
+8667.379,FL,Florida,1976/01
+8856.183,FL,Florida,1977/01
+9102.032,FL,Florida,1978/01
+9426.159,FL,Florida,1979/01
+9839.835,FL,Florida,1980/01
+10192.774,FL,Florida,1981/01
+10471.407,FL,Florida,1982/01
+10749.851,FL,Florida,1983/01
+11039.925,FL,Florida,1984/01
+11351.118,FL,Florida,1985/01
+11667.505,FL,Florida,1986/01
+11997.283,FL,Florida,1987/01
+12306.395,FL,Florida,1988/01
+12637.715,FL,Florida,1989/01
+13018.365,FL,Florida,1990/01
+13289.497,FL,Florida,1991/01
+13504.775,FL,Florida,1992/01
+13713.593,FL,Florida,1993/01
+13961.798,FL,Florida,1994/01
+14185.403,FL,Florida,1995/01
+14426.911,FL,Florida,1996/01
+14683.35,FL,Florida,1997/01
+14908.23,FL,Florida,1998/01
+15111.244,FL,Florida,1999/01
+16047.515,FL,Florida,2000/01
+16356.966,FL,Florida,2001/01
+16689.37,FL,Florida,2002/01
+17004.085,FL,Florida,2003/01
+17415.318,FL,Florida,2004/01
+17842.038,FL,Florida,2005/01
+18166.99,FL,Florida,2006/01
+18367.842,FL,Florida,2007/01
+18527.305,FL,Florida,2008/01
+18652.644,FL,Florida,2009/01
+18846.143,FL,Florida,2010/01
+19055.607,FL,Florida,2011/01
+19302.016,FL,Florida,2012/01
+19551.678,FL,Florida,2013/01
+19853.88,FL,Florida,2014/01
+20219.111,FL,Florida,2015/01
+20627.237,FL,Florida,2016/01
+20977.089,FL,Florida,2017/01
+21254.926,FL,Florida,2018/01
+21492.056,FL,Florida,2019/01
+21592.035,FL,Florida,2020/01
+21831.949,FL,Florida,2021/01
+22379.312,FL,Florida,2022/01
+22904.868,FL,Florida,2023/01
+23372.215,FL,Florida,2024/01
+1473.0,KS,Kansas,1900/01
+1490.0,KS,Kansas,1901/01
+1505.0,KS,Kansas,1902/01
+1498.0,KS,Kansas,1903/01
+1527.0,KS,Kansas,1904/01
+1555.0,KS,Kansas,1905/01
+1576.0,KS,Kansas,1906/01
+1612.0,KS,Kansas,1907/01
+1629.0,KS,Kansas,1908/01
+1658.0,KS,Kansas,1909/01
+1692.0,KS,Kansas,1910/01
+1684.0,KS,Kansas,1911/01
+1671.0,KS,Kansas,1912/01
+1663.0,KS,Kansas,1913/01
+1662.0,KS,Kansas,1914/01
+1687.0,KS,Kansas,1915/01
+1727.0,KS,Kansas,1916/01
+1748.0,KS,Kansas,1917/01
+1729.0,KS,Kansas,1918/01
+1756.0,KS,Kansas,1919/01
+1769.0,KS,Kansas,1920/01
+1779.0,KS,Kansas,1921/01
+1799.0,KS,Kansas,1922/01
+1808.0,KS,Kansas,1923/01
+1807.0,KS,Kansas,1924/01
+1825.0,KS,Kansas,1925/01
+1836.0,KS,Kansas,1926/01
+1836.0,KS,Kansas,1927/01
+1850.0,KS,Kansas,1928/01
+1867.0,KS,Kansas,1929/01
+1883.0,KS,Kansas,1930/01
+1881.0,KS,Kansas,1931/01
+1883.0,KS,Kansas,1932/01
+1877.0,KS,Kansas,1933/01
+1868.0,KS,Kansas,1934/01
+1872.0,KS,Kansas,1935/01
+1869.0,KS,Kansas,1936/01
+1856.0,KS,Kansas,1937/01
+1842.0,KS,Kansas,1938/01
+1824.0,KS,Kansas,1939/01
+1788.0,KS,Kansas,1940/01
+1765.0,KS,Kansas,1941/01
+1760.0,KS,Kansas,1942/01
+1796.0,KS,Kansas,1943/01
+1779.0,KS,Kansas,1944/01
+1731.0,KS,Kansas,1945/01
+1805.0,KS,Kansas,1946/01
+1853.0,KS,Kansas,1947/01
+1892.0,KS,Kansas,1948/01
+1925.0,KS,Kansas,1949/01
+1916.0,KS,Kansas,1950/01
+1950.0,KS,Kansas,1951/01
+1977.0,KS,Kansas,1952/01
+1994.0,KS,Kansas,1953/01
+2042.0,KS,Kansas,1954/01
+2093.0,KS,Kansas,1955/01
+2119.0,KS,Kansas,1956/01
+2128.0,KS,Kansas,1957/01
+2142.0,KS,Kansas,1958/01
+2160.0,KS,Kansas,1959/01
+2183.0,KS,Kansas,1960/01
+2215.0,KS,Kansas,1961/01
+2231.0,KS,Kansas,1962/01
+2217.0,KS,Kansas,1963/01
+2209.0,KS,Kansas,1964/01
+2206.0,KS,Kansas,1965/01
+2200.0,KS,Kansas,1966/01
+2197.0,KS,Kansas,1967/01
+2216.0,KS,Kansas,1968/01
+2236.0,KS,Kansas,1969/01
+2249.071,KS,Kansas,1970/01
+2246.6,KS,Kansas,1971/01
+2256.375,KS,Kansas,1972/01
+2265.603,KS,Kansas,1973/01
+2269.499,KS,Kansas,1974/01
+2280.578,KS,Kansas,1975/01
+2301.001,KS,Kansas,1976/01
+2320.647,KS,Kansas,1977/01
+2335.657,KS,Kansas,1978/01
+2350.906,KS,Kansas,1979/01
+2369.039,KS,Kansas,1980/01
+2384.849,KS,Kansas,1981/01
+2401.202,KS,Kansas,1982/01
+2415.531,KS,Kansas,1983/01
+2424.086,KS,Kansas,1984/01
+2427.405,KS,Kansas,1985/01
+2432.619,KS,Kansas,1986/01
+2445.367,KS,Kansas,1987/01
+2461.996,KS,Kansas,1988/01
+2472.849,KS,Kansas,1989/01
+2480.683,KS,Kansas,1990/01
+2495.209,KS,Kansas,1991/01
+2526.042,KS,Kansas,1992/01
+2547.605,KS,Kansas,1993/01
+2569.118,KS,Kansas,1994/01
+2586.942,KS,Kansas,1995/01
+2598.266,KS,Kansas,1996/01
+2616.339,KS,Kansas,1997/01
+2638.667,KS,Kansas,1998/01
+2654.052,KS,Kansas,1999/01
+2693.681,KS,Kansas,2000/01
+2702.162,KS,Kansas,2001/01
+2713.535,KS,Kansas,2002/01
+2723.004,KS,Kansas,2003/01
+2734.373,KS,Kansas,2004/01
+2745.299,KS,Kansas,2005/01
+2762.931,KS,Kansas,2006/01
+2783.785,KS,Kansas,2007/01
+2808.076,KS,Kansas,2008/01
+2832.704,KS,Kansas,2009/01
+2858.266,KS,Kansas,2010/01
+2869.677,KS,Kansas,2011/01
+2886.024,KS,Kansas,2012/01
+2894.306,KS,Kansas,2013/01
+2901.861,KS,Kansas,2014/01
+2910.717,KS,Kansas,2015/01
+2912.977,KS,Kansas,2016/01
+2910.892,KS,Kansas,2017/01
+2912.748,KS,Kansas,2018/01
+2912.635,KS,Kansas,2019/01
+2938.172,KS,Kansas,2020/01
+2938.338,KS,Kansas,2021/01
+2937.324,KS,Kansas,2022/01
+2951.5,KS,Kansas,2023/01
+2970.606,KS,Kansas,2024/01
+43.0,NV,Nevada,1900/01
+45.0,NV,Nevada,1901/01
+49.0,NV,Nevada,1902/01
+52.0,NV,Nevada,1903/01
+56.0,NV,Nevada,1904/01
+59.0,NV,Nevada,1905/01
+64.0,NV,Nevada,1906/01
+68.0,NV,Nevada,1907/01
+73.0,NV,Nevada,1908/01
+78.0,NV,Nevada,1909/01
+82.0,NV,Nevada,1910/01
+81.0,NV,Nevada,1911/01
+81.0,NV,Nevada,1912/01
+82.0,NV,Nevada,1913/01
+83.0,NV,Nevada,1914/01
+82.0,NV,Nevada,1915/01
+82.0,NV,Nevada,1916/01
+81.0,NV,Nevada,1917/01
+77.0,NV,Nevada,1918/01
+77.0,NV,Nevada,1919/01
+78.0,NV,Nevada,1920/01
+80.0,NV,Nevada,1921/01
+81.0,NV,Nevada,1922/01
+82.0,NV,Nevada,1923/01
+84.0,NV,Nevada,1924/01
+85.0,NV,Nevada,1925/01
+87.0,NV,Nevada,1926/01
+88.0,NV,Nevada,1927/01
+89.0,NV,Nevada,1928/01
+90.0,NV,Nevada,1929/01
+92.0,NV,Nevada,1930/01
+94.0,NV,Nevada,1931/01
+96.0,NV,Nevada,1932/01
+96.0,NV,Nevada,1933/01
+98.0,NV,Nevada,1934/01
+100.0,NV,Nevada,1935/01
+101.0,NV,Nevada,1936/01
+103.0,NV,Nevada,1937/01
+105.0,NV,Nevada,1938/01
+107.0,NV,Nevada,1939/01
+113.0,NV,Nevada,1940/01
+120.0,NV,Nevada,1941/01
+137.0,NV,Nevada,1942/01
+151.0,NV,Nevada,1943/01
+153.0,NV,Nevada,1944/01
+149.0,NV,Nevada,1945/01
+143.0,NV,Nevada,1946/01
+149.0,NV,Nevada,1947/01
+156.0,NV,Nevada,1948/01
+157.0,NV,Nevada,1949/01
+162.0,NV,Nevada,1950/01
+168.0,NV,Nevada,1951/01
+181.0,NV,Nevada,1952/01
+195.0,NV,Nevada,1953/01
+213.0,NV,Nevada,1954/01
+237.0,NV,Nevada,1955/01
+250.0,NV,Nevada,1956/01
+260.0,NV,Nevada,1957/01
+269.0,NV,Nevada,1958/01
+279.0,NV,Nevada,1959/01
+291.0,NV,Nevada,1960/01
+315.0,NV,Nevada,1961/01
+352.0,NV,Nevada,1962/01
+397.0,NV,Nevada,1963/01
+426.0,NV,Nevada,1964/01
+444.0,NV,Nevada,1965/01
+446.0,NV,Nevada,1966/01
+449.0,NV,Nevada,1967/01
+464.0,NV,Nevada,1968/01
+480.0,NV,Nevada,1969/01
+488.738,NV,Nevada,1970/01
+520.018,NV,Nevada,1971/01
+546.789,NV,Nevada,1972/01
+568.991,NV,Nevada,1973/01
+596.822,NV,Nevada,1974/01
+619.972,NV,Nevada,1975/01
+646.975,NV,Nevada,1976/01
+678.333,NV,Nevada,1977/01
+719.436,NV,Nevada,1978/01
+765.367,NV,Nevada,1979/01
+810.215,NV,Nevada,1980/01
+847.655,NV,Nevada,1981/01
+881.537,NV,Nevada,1982/01
+901.977,NV,Nevada,1983/01
+924.922,NV,Nevada,1984/01
+951.03,NV,Nevada,1985/01
+980.613,NV,Nevada,1986/01
+1023.376,NV,Nevada,1987/01
+1075.022,NV,Nevada,1988/01
+1137.382,NV,Nevada,1989/01
+1218.629,NV,Nevada,1990/01
+1285.046,NV,Nevada,1991/01
+1330.694,NV,Nevada,1992/01
+1380.197,NV,Nevada,1993/01
+1456.388,NV,Nevada,1994/01
+1525.777,NV,Nevada,1995/01
+1596.476,NV,Nevada,1996/01
+1675.581,NV,Nevada,1997/01
+1743.772,NV,Nevada,1998/01
+1809.253,NV,Nevada,1999/01
+2018.741,NV,Nevada,2000/01
+2098.399,NV,Nevada,2001/01
+2173.791,NV,Nevada,2002/01
+2248.85,NV,Nevada,2003/01
+2346.222,NV,Nevada,2004/01
+2432.143,NV,Nevada,2005/01
+2522.658,NV,Nevada,2006/01
+2601.072,NV,Nevada,2007/01
+2653.63,NV,Nevada,2008/01
+2684.665,NV,Nevada,2009/01
+2702.483,NV,Nevada,2010/01
+2713.114,NV,Nevada,2011/01
+2744.67,NV,Nevada,2012/01
+2776.956,NV,Nevada,2013/01
+2818.935,NV,Nevada,2014/01
+2868.531,NV,Nevada,2015/01
+2919.555,NV,Nevada,2016/01
+2972.097,NV,Nevada,2017/01
+3030.725,NV,Nevada,2018/01
+3090.771,NV,Nevada,2019/01
+3116.967,NV,Nevada,2020/01
+3148.141,NV,Nevada,2021/01
+3176.116,NV,Nevada,2022/01
+3214.363,NV,Nevada,2023/01
+3267.467,NV,Nevada,2024/01
+1189.0,MD,Maryland,1900/01
+1200.0,MD,Maryland,1901/01
+1210.0,MD,Maryland,1902/01
+1209.0,MD,Maryland,1903/01
+1217.0,MD,Maryland,1904/01
+1237.0,MD,Maryland,1905/01
+1251.0,MD,Maryland,1906/01
+1257.0,MD,Maryland,1907/01
+1269.0,MD,Maryland,1908/01
+1289.0,MD,Maryland,1909/01
+1302.0,MD,Maryland,1910/01
+1324.0,MD,Maryland,1911/01
+1345.0,MD,Maryland,1912/01
+1368.0,MD,Maryland,1913/01
+1389.0,MD,Maryland,1914/01
+1401.0,MD,Maryland,1915/01
+1415.0,MD,Maryland,1916/01
+1428.0,MD,Maryland,1917/01
+1467.0,MD,Maryland,1918/01
+1445.0,MD,Maryland,1919/01
+1464.0,MD,Maryland,1920/01
+1492.0,MD,Maryland,1921/01
+1509.0,MD,Maryland,1922/01
+1521.0,MD,Maryland,1923/01
+1537.0,MD,Maryland,1924/01
+1556.0,MD,Maryland,1925/01
+1576.0,MD,Maryland,1926/01
+1599.0,MD,Maryland,1927/01
+1610.0,MD,Maryland,1928/01
+1621.0,MD,Maryland,1929/01
+1636.0,MD,Maryland,1930/01
+1657.0,MD,Maryland,1931/01
+1678.0,MD,Maryland,1932/01
+1694.0,MD,Maryland,1933/01
+1710.0,MD,Maryland,1934/01
+1729.0,MD,Maryland,1935/01
+1745.0,MD,Maryland,1936/01
+1754.0,MD,Maryland,1937/01
+1766.0,MD,Maryland,1938/01
+1793.0,MD,Maryland,1939/01
+1839.0,MD,Maryland,1940/01
+1913.0,MD,Maryland,1941/01
+1998.0,MD,Maryland,1942/01
+2089.0,MD,Maryland,1943/01
+2118.0,MD,Maryland,1944/01
+2096.0,MD,Maryland,1945/01
+2214.0,MD,Maryland,1946/01
+2248.0,MD,Maryland,1947/01
+2271.0,MD,Maryland,1948/01
+2329.0,MD,Maryland,1949/01
+2355.0,MD,Maryland,1950/01
+2441.0,MD,Maryland,1951/01
+2500.0,MD,Maryland,1952/01
+2567.0,MD,Maryland,1953/01
+2685.0,MD,Maryland,1954/01
+2742.0,MD,Maryland,1955/01
+2811.0,MD,Maryland,1956/01
+2873.0,MD,Maryland,1957/01
+2982.0,MD,Maryland,1958/01
+3066.0,MD,Maryland,1959/01
+3113.0,MD,Maryland,1960/01
+3176.0,MD,Maryland,1961/01
+3263.0,MD,Maryland,1962/01
+3386.0,MD,Maryland,1963/01
+3492.0,MD,Maryland,1964/01
+3600.0,MD,Maryland,1965/01
+3695.0,MD,Maryland,1966/01
+3757.0,MD,Maryland,1967/01
+3815.0,MD,Maryland,1968/01
+3868.0,MD,Maryland,1969/01
+3923.897,MD,Maryland,1970/01
+4018.324,MD,Maryland,1971/01
+4073.499,MD,Maryland,1972/01
+4097.974,MD,Maryland,1973/01
+4118.815,MD,Maryland,1974/01
+4139.096,MD,Maryland,1975/01
+4150.539,MD,Maryland,1976/01
+4169.595,MD,Maryland,1977/01
+4183.603,MD,Maryland,1978/01
+4191.16,MD,Maryland,1979/01
+4227.643,MD,Maryland,1980/01
+4261.905,MD,Maryland,1981/01
+4282.923,MD,Maryland,1982/01
+4313.327,MD,Maryland,1983/01
+4365.243,MD,Maryland,1984/01
+4413.071,MD,Maryland,1985/01
+4486.957,MD,Maryland,1986/01
+4565.557,MD,Maryland,1987/01
+4657.904,MD,Maryland,1988/01
+4727.301,MD,Maryland,1989/01
+4797.431,MD,Maryland,1990/01
+4856.176,MD,Maryland,1991/01
+4902.545,MD,Maryland,1992/01
+4942.504,MD,Maryland,1993/01
+4985.411,MD,Maryland,1994/01
+5023.65,MD,Maryland,1995/01
+5057.142,MD,Maryland,1996/01
+5092.914,MD,Maryland,1997/01
+5130.072,MD,Maryland,1998/01
+5171.634,MD,Maryland,1999/01
+5311.034,MD,Maryland,2000/01
+5374.691,MD,Maryland,2001/01
+5440.389,MD,Maryland,2002/01
+5496.269,MD,Maryland,2003/01
+5546.935,MD,Maryland,2004/01
+5592.379,MD,Maryland,2005/01
+5627.367,MD,Maryland,2006/01
+5653.408,MD,Maryland,2007/01
+5684.965,MD,Maryland,2008/01
+5730.388,MD,Maryland,2009/01
+5788.784,MD,Maryland,2010/01
+5840.241,MD,Maryland,2011/01
+5888.375,MD,Maryland,2012/01
+5925.197,MD,Maryland,2013/01
+5960.064,MD,Maryland,2014/01
+5988.528,MD,Maryland,2015/01
+6007.014,MD,Maryland,2016/01
+6028.186,MD,Maryland,2017/01
+6042.153,MD,Maryland,2018/01
+6054.954,MD,Maryland,2019/01
+6177.935,MD,Maryland,2020/01
+6179.403,MD,Maryland,2021/01
+6192.44,MD,Maryland,2022/01
+6217.062,MD,Maryland,2023/01
+6263.22,MD,Maryland,2024/01
+2231.0,IA,Iowa,1900/01
+2227.0,IA,Iowa,1901/01
+2222.0,IA,Iowa,1902/01
+2217.0,IA,Iowa,1903/01
+2212.0,IA,Iowa,1904/01
+2211.0,IA,Iowa,1905/01
+2214.0,IA,Iowa,1906/01
+2217.0,IA,Iowa,1907/01
+2220.0,IA,Iowa,1908/01
+2223.0,IA,Iowa,1909/01
+2228.0,IA,Iowa,1910/01
+2249.0,IA,Iowa,1911/01
+2279.0,IA,Iowa,1912/01
+2305.0,IA,Iowa,1913/01
+2338.0,IA,Iowa,1914/01
+2366.0,IA,Iowa,1915/01
+2376.0,IA,Iowa,1916/01
+2382.0,IA,Iowa,1917/01
+2351.0,IA,Iowa,1918/01
+2379.0,IA,Iowa,1919/01
+2400.0,IA,Iowa,1920/01
+2407.0,IA,Iowa,1921/01
+2428.0,IA,Iowa,1922/01
+2425.0,IA,Iowa,1923/01
+2420.0,IA,Iowa,1924/01
+2427.0,IA,Iowa,1925/01
+2432.0,IA,Iowa,1926/01
+2441.0,IA,Iowa,1927/01
+2450.0,IA,Iowa,1928/01
+2460.0,IA,Iowa,1929/01
+2475.0,IA,Iowa,1930/01
+2482.0,IA,Iowa,1931/01
+2489.0,IA,Iowa,1932/01
+2495.0,IA,Iowa,1933/01
+2510.0,IA,Iowa,1934/01
+2524.0,IA,Iowa,1935/01
+2509.0,IA,Iowa,1936/01
+2498.0,IA,Iowa,1937/01
+2494.0,IA,Iowa,1938/01
+2520.0,IA,Iowa,1939/01
+2537.0,IA,Iowa,1940/01
+2491.0,IA,Iowa,1941/01
+2439.0,IA,Iowa,1942/01
+2334.0,IA,Iowa,1943/01
+2301.0,IA,Iowa,1944/01
+2308.0,IA,Iowa,1945/01
+2467.0,IA,Iowa,1946/01
+2509.0,IA,Iowa,1947/01
+2543.0,IA,Iowa,1948/01
+2578.0,IA,Iowa,1949/01
+2625.0,IA,Iowa,1950/01
+2617.0,IA,Iowa,1951/01
+2626.0,IA,Iowa,1952/01
+2629.0,IA,Iowa,1953/01
+2626.0,IA,Iowa,1954/01
+2679.0,IA,Iowa,1955/01
+2703.0,IA,Iowa,1956/01
+2716.0,IA,Iowa,1957/01
+2708.0,IA,Iowa,1958/01
+2729.0,IA,Iowa,1959/01
+2756.0,IA,Iowa,1960/01
+2756.0,IA,Iowa,1961/01
+2750.0,IA,Iowa,1962/01
+2747.0,IA,Iowa,1963/01
+2746.0,IA,Iowa,1964/01
+2742.0,IA,Iowa,1965/01
+2762.0,IA,Iowa,1966/01
+2793.0,IA,Iowa,1967/01
+2803.0,IA,Iowa,1968/01
+2805.0,IA,Iowa,1969/01
+2825.368,IA,Iowa,1970/01
+2851.705,IA,Iowa,1971/01
+2860.287,IA,Iowa,1972/01
+2863.715,IA,Iowa,1973/01
+2867.53,IA,Iowa,1974/01
+2880.847,IA,Iowa,1975/01
+2903.082,IA,Iowa,1976/01
+2913.573,IA,Iowa,1977/01
+2918.069,IA,Iowa,1978/01
+2915.739,IA,Iowa,1979/01
+2914.018,IA,Iowa,1980/01
+2907.983,IA,Iowa,1981/01
+2888.189,IA,Iowa,1982/01
+2870.543,IA,Iowa,1983/01
+2858.618,IA,Iowa,1984/01
+2829.684,IA,Iowa,1985/01
+2791.97,IA,Iowa,1986/01
+2767.011,IA,Iowa,1987/01
+2768.388,IA,Iowa,1988/01
+2770.592,IA,Iowa,1989/01
+2779.769,IA,Iowa,1990/01
+2791.227,IA,Iowa,1991/01
+2806.923,IA,Iowa,1992/01
+2820.525,IA,Iowa,1993/01
+2829.422,IA,Iowa,1994/01
+2840.86,IA,Iowa,1995/01
+2848.473,IA,Iowa,1996/01
+2854.396,IA,Iowa,1997/01
+2861.025,IA,Iowa,1998/01
+2869.413,IA,Iowa,1999/01
+2929.067,IA,Iowa,2000/01
+2931.997,IA,Iowa,2001/01
+2934.234,IA,Iowa,2002/01
+2941.999,IA,Iowa,2003/01
+2953.635,IA,Iowa,2004/01
+2964.454,IA,Iowa,2005/01
+2982.644,IA,Iowa,2006/01
+2999.212,IA,Iowa,2007/01
+3016.734,IA,Iowa,2008/01
+3032.87,IA,Iowa,2009/01
+3050.819,IA,Iowa,2010/01
+3066.772,IA,Iowa,2011/01
+3076.844,IA,Iowa,2012/01
+3093.935,IA,Iowa,2013/01
+3110.643,IA,Iowa,2014/01
+3122.541,IA,Iowa,2015/01
+3133.21,IA,Iowa,2016/01
+3143.734,IA,Iowa,2017/01
+3149.9,IA,Iowa,2018/01
+3159.596,IA,Iowa,2019/01
+3191.141,IA,Iowa,2020/01
+3198.613,IA,Iowa,2021/01
+3202.82,IA,Iowa,2022/01
+3218.414,IA,Iowa,2023/01
+3241.488,IA,Iowa,2024/01
+2072.0,WI,Wisconsin,1900/01
+2109.0,WI,Wisconsin,1901/01
+2141.0,WI,Wisconsin,1902/01
+2171.0,WI,Wisconsin,1903/01
+2202.0,WI,Wisconsin,1904/01
+2231.0,WI,Wisconsin,1905/01
+2250.0,WI,Wisconsin,1906/01
+2268.0,WI,Wisconsin,1907/01
+2292.0,WI,Wisconsin,1908/01
+2317.0,WI,Wisconsin,1909/01
+2345.0,WI,Wisconsin,1910/01
+2369.0,WI,Wisconsin,1911/01
+2407.0,WI,Wisconsin,1912/01
+2438.0,WI,Wisconsin,1913/01
+2490.0,WI,Wisconsin,1914/01
+2535.0,WI,Wisconsin,1915/01
+2562.0,WI,Wisconsin,1916/01
+2587.0,WI,Wisconsin,1917/01
+2597.0,WI,Wisconsin,1918/01
+2600.0,WI,Wisconsin,1919/01
+2679.0,WI,Wisconsin,1920/01
+2722.0,WI,Wisconsin,1921/01
+2761.0,WI,Wisconsin,1922/01
+2803.0,WI,Wisconsin,1923/01
+2833.0,WI,Wisconsin,1924/01
+2863.0,WI,Wisconsin,1925/01
+2892.0,WI,Wisconsin,1926/01
+2916.0,WI,Wisconsin,1927/01
+2923.0,WI,Wisconsin,1928/01
+2934.0,WI,Wisconsin,1929/01
+2950.0,WI,Wisconsin,1930/01
+2990.0,WI,Wisconsin,1931/01
+3021.0,WI,Wisconsin,1932/01
+3040.0,WI,Wisconsin,1933/01
+3054.0,WI,Wisconsin,1934/01
+3070.0,WI,Wisconsin,1935/01
+3082.0,WI,Wisconsin,1936/01
+3088.0,WI,Wisconsin,1937/01
+3098.0,WI,Wisconsin,1938/01
+3121.0,WI,Wisconsin,1939/01
+3143.0,WI,Wisconsin,1940/01
+3140.0,WI,Wisconsin,1941/01
+3053.0,WI,Wisconsin,1942/01
+3014.0,WI,Wisconsin,1943/01
+2980.0,WI,Wisconsin,1944/01
+2961.0,WI,Wisconsin,1945/01
+3167.0,WI,Wisconsin,1946/01
+3250.0,WI,Wisconsin,1947/01
+3314.0,WI,Wisconsin,1948/01
+3391.0,WI,Wisconsin,1949/01
+3438.0,WI,Wisconsin,1950/01
+3439.0,WI,Wisconsin,1951/01
+3469.0,WI,Wisconsin,1952/01
+3506.0,WI,Wisconsin,1953/01
+3608.0,WI,Wisconsin,1954/01
+3679.0,WI,Wisconsin,1955/01
+3742.0,WI,Wisconsin,1956/01
+3791.0,WI,Wisconsin,1957/01
+3843.0,WI,Wisconsin,1958/01
+3891.0,WI,Wisconsin,1959/01
+3962.0,WI,Wisconsin,1960/01
+4009.0,WI,Wisconsin,1961/01
+4049.0,WI,Wisconsin,1962/01
+4112.0,WI,Wisconsin,1963/01
+4165.0,WI,Wisconsin,1964/01
+4232.0,WI,Wisconsin,1965/01
+4274.0,WI,Wisconsin,1966/01
+4303.0,WI,Wisconsin,1967/01
+4345.0,WI,Wisconsin,1968/01
+4378.0,WI,Wisconsin,1969/01
+4417.821,WI,Wisconsin,1970/01
+4462.155,WI,Wisconsin,1971/01
+4502.412,WI,Wisconsin,1972/01
+4524.244,WI,Wisconsin,1973/01
+4545.782,WI,Wisconsin,1974/01
+4578.986,WI,Wisconsin,1975/01
+4595.904,WI,Wisconsin,1976/01
+4626.514,WI,Wisconsin,1977/01
+4646.108,WI,Wisconsin,1978/01
+4682.811,WI,Wisconsin,1979/01
+4712.045,WI,Wisconsin,1980/01
+4726.343,WI,Wisconsin,1981/01
+4728.87,WI,Wisconsin,1982/01
+4721.438,WI,Wisconsin,1983/01
+4735.563,WI,Wisconsin,1984/01
+4747.767,WI,Wisconsin,1985/01
+4755.618,WI,Wisconsin,1986/01
+4777.919,WI,Wisconsin,1987/01
+4822.388,WI,Wisconsin,1988/01
+4856.574,WI,Wisconsin,1989/01
+4902.265,WI,Wisconsin,1990/01
+4952.675,WI,Wisconsin,1991/01
+5004.636,WI,Wisconsin,1992/01
+5055.318,WI,Wisconsin,1993/01
+5095.504,WI,Wisconsin,1994/01
+5137.004,WI,Wisconsin,1995/01
+5173.828,WI,Wisconsin,1996/01
+5200.235,WI,Wisconsin,1997/01
+5222.124,WI,Wisconsin,1998/01
+5250.446,WI,Wisconsin,1999/01
+5373.999,WI,Wisconsin,2000/01
+5406.835,WI,Wisconsin,2001/01
+5445.162,WI,Wisconsin,2002/01
+5479.203,WI,Wisconsin,2003/01
+5514.026,WI,Wisconsin,2004/01
+5546.166,WI,Wisconsin,2005/01
+5577.655,WI,Wisconsin,2006/01
+5610.775,WI,Wisconsin,2007/01
+5640.996,WI,Wisconsin,2008/01
+5669.264,WI,Wisconsin,2009/01
+5690.538,WI,Wisconsin,2010/01
+5705.84,WI,Wisconsin,2011/01
+5720.825,WI,Wisconsin,2012/01
+5738.012,WI,Wisconsin,2013/01
+5753.199,WI,Wisconsin,2014/01
+5762.927,WI,Wisconsin,2015/01
+5775.17,WI,Wisconsin,2016/01
+5793.147,WI,Wisconsin,2017/01
+5809.319,WI,Wisconsin,2018/01
+5824.581,WI,Wisconsin,2019/01
+5897.375,WI,Wisconsin,2020/01
+5881.608,WI,Wisconsin,2021/01
+5903.975,WI,Wisconsin,2022/01
+5930.405,WI,Wisconsin,2023/01
+5960.975,WI,Wisconsin,2024/01
+430.0,RI,Rhode Island,1900/01
+441.0,RI,Rhode Island,1901/01
+450.0,RI,Rhode Island,1902/01
+460.0,RI,Rhode Island,1903/01
+471.0,RI,Rhode Island,1904/01
+481.0,RI,Rhode Island,1905/01
+492.0,RI,Rhode Island,1906/01
+505.0,RI,Rhode Island,1907/01
+519.0,RI,Rhode Island,1908/01
+532.0,RI,Rhode Island,1909/01
+545.0,RI,Rhode Island,1910/01
+556.0,RI,Rhode Island,1911/01
+567.0,RI,Rhode Island,1912/01
+578.0,RI,Rhode Island,1913/01
+589.0,RI,Rhode Island,1914/01
+597.0,RI,Rhode Island,1915/01
+598.0,RI,Rhode Island,1916/01
+606.0,RI,Rhode Island,1917/01
+604.0,RI,Rhode Island,1918/01
+603.0,RI,Rhode Island,1919/01
+613.0,RI,Rhode Island,1920/01
+629.0,RI,Rhode Island,1921/01
+644.0,RI,Rhode Island,1922/01
+656.0,RI,Rhode Island,1923/01
+669.0,RI,Rhode Island,1924/01
+680.0,RI,Rhode Island,1925/01
+681.0,RI,Rhode Island,1926/01
+677.0,RI,Rhode Island,1927/01
+678.0,RI,Rhode Island,1928/01
+684.0,RI,Rhode Island,1929/01
+686.0,RI,Rhode Island,1930/01
+681.0,RI,Rhode Island,1931/01
+677.0,RI,Rhode Island,1932/01
+675.0,RI,Rhode Island,1933/01
+675.0,RI,Rhode Island,1934/01
+678.0,RI,Rhode Island,1935/01
+686.0,RI,Rhode Island,1936/01
+694.0,RI,Rhode Island,1937/01
+694.0,RI,Rhode Island,1938/01
+701.0,RI,Rhode Island,1939/01
+719.0,RI,Rhode Island,1940/01
+731.0,RI,Rhode Island,1941/01
+748.0,RI,Rhode Island,1942/01
+760.0,RI,Rhode Island,1943/01
+795.0,RI,Rhode Island,1944/01
+776.0,RI,Rhode Island,1945/01
+770.0,RI,Rhode Island,1946/01
+776.0,RI,Rhode Island,1947/01
+787.0,RI,Rhode Island,1948/01
+801.0,RI,Rhode Island,1949/01
+786.0,RI,Rhode Island,1950/01
+784.0,RI,Rhode Island,1951/01
+802.0,RI,Rhode Island,1952/01
+815.0,RI,Rhode Island,1953/01
+816.0,RI,Rhode Island,1954/01
+823.0,RI,Rhode Island,1955/01
+840.0,RI,Rhode Island,1956/01
+851.0,RI,Rhode Island,1957/01
+858.0,RI,Rhode Island,1958/01
+857.0,RI,Rhode Island,1959/01
+855.0,RI,Rhode Island,1960/01
+858.0,RI,Rhode Island,1961/01
+871.0,RI,Rhode Island,1962/01
+876.0,RI,Rhode Island,1963/01
+885.0,RI,Rhode Island,1964/01
+893.0,RI,Rhode Island,1965/01
+899.0,RI,Rhode Island,1966/01
+909.0,RI,Rhode Island,1967/01
+922.0,RI,Rhode Island,1968/01
+932.0,RI,Rhode Island,1969/01
+949.723,RI,Rhode Island,1970/01
+963.107,RI,Rhode Island,1971/01
+974.79,RI,Rhode Island,1972/01
+975.738,RI,Rhode Island,1973/01
+950.615,RI,Rhode Island,1974/01
+942.788,RI,Rhode Island,1975/01
+946.089,RI,Rhode Island,1976/01
+950.23,RI,Rhode Island,1977/01
+951.816,RI,Rhode Island,1978/01
+950.382,RI,Rhode Island,1979/01
+948.773,RI,Rhode Island,1980/01
+953.013,RI,Rhode Island,1981/01
+954.17,RI,Rhode Island,1982/01
+956.382,RI,Rhode Island,1983/01
+961.894,RI,Rhode Island,1984/01
+968.955,RI,Rhode Island,1985/01
+977.341,RI,Rhode Island,1986/01
+989.604,RI,Rhode Island,1987/01
+996.408,RI,Rhode Island,1988/01
+1000.666,RI,Rhode Island,1989/01
+1004.649,RI,Rhode Island,1990/01
+1003.99,RI,Rhode Island,1991/01
+1000.571,RI,Rhode Island,1992/01
+997.852,RI,Rhode Island,1993/01
+993.412,RI,Rhode Island,1994/01
+989.203,RI,Rhode Island,1995/01
+987.858,RI,Rhode Island,1996/01
+986.966,RI,Rhode Island,1997/01
+987.704,RI,Rhode Island,1998/01
+990.819,RI,Rhode Island,1999/01
+1050.268,RI,Rhode Island,2000/01
+1057.142,RI,Rhode Island,2001/01
+1065.995,RI,Rhode Island,2002/01
+1071.342,RI,Rhode Island,2003/01
+1074.579,RI,Rhode Island,2004/01
+1067.916,RI,Rhode Island,2005/01
+1063.096,RI,Rhode Island,2006/01
+1057.315,RI,Rhode Island,2007/01
+1055.003,RI,Rhode Island,2008/01
+1053.646,RI,Rhode Island,2009/01
+1053.994,RI,Rhode Island,2010/01
+1053.829,RI,Rhode Island,2011/01
+1054.893,RI,Rhode Island,2012/01
+1055.56,RI,Rhode Island,2013/01
+1056.511,RI,Rhode Island,2014/01
+1056.886,RI,Rhode Island,2015/01
+1057.816,RI,Rhode Island,2016/01
+1056.554,RI,Rhode Island,2017/01
+1059.338,RI,Rhode Island,2018/01
+1058.158,RI,Rhode Island,2019/01
+1096.53,RI,Rhode Island,2020/01
+1097.246,RI,Rhode Island,2021/01
+1099.498,RI,Rhode Island,2022/01
+1103.429,RI,Rhode Island,2023/01
+1112.308,RI,Rhode Island,2024/01
+6313.0,PA,Pennsylvania,1900/01
+6439.0,PA,Pennsylvania,1901/01
+6567.0,PA,Pennsylvania,1902/01
+6699.0,PA,Pennsylvania,1903/01
+6833.0,PA,Pennsylvania,1904/01
+6970.0,PA,Pennsylvania,1905/01
+7110.0,PA,Pennsylvania,1906/01
+7253.0,PA,Pennsylvania,1907/01
+7398.0,PA,Pennsylvania,1908/01
+7546.0,PA,Pennsylvania,1909/01
+7706.0,PA,Pennsylvania,1910/01
+7850.0,PA,Pennsylvania,1911/01
+7986.0,PA,Pennsylvania,1912/01
+8139.0,PA,Pennsylvania,1913/01
+8276.0,PA,Pennsylvania,1914/01
+8362.0,PA,Pennsylvania,1915/01
+8463.0,PA,Pennsylvania,1916/01
+8578.0,PA,Pennsylvania,1917/01
+8524.0,PA,Pennsylvania,1918/01
+8643.0,PA,Pennsylvania,1919/01
+8740.0,PA,Pennsylvania,1920/01
+8900.0,PA,Pennsylvania,1921/01
+8982.0,PA,Pennsylvania,1922/01
+9148.0,PA,Pennsylvania,1923/01
+9383.0,PA,Pennsylvania,1924/01
+9478.0,PA,Pennsylvania,1925/01
+9594.0,PA,Pennsylvania,1926/01
+9745.0,PA,Pennsylvania,1927/01
+9802.0,PA,Pennsylvania,1928/01
+9723.0,PA,Pennsylvania,1929/01
+9649.0,PA,Pennsylvania,1930/01
+9707.0,PA,Pennsylvania,1931/01
+9764.0,PA,Pennsylvania,1932/01
+9784.0,PA,Pennsylvania,1933/01
+9795.0,PA,Pennsylvania,1934/01
+9774.0,PA,Pennsylvania,1935/01
+9767.0,PA,Pennsylvania,1936/01
+9790.0,PA,Pennsylvania,1937/01
+9952.0,PA,Pennsylvania,1938/01
+9901.0,PA,Pennsylvania,1939/01
+9896.0,PA,Pennsylvania,1940/01
+9911.0,PA,Pennsylvania,1941/01
+9704.0,PA,Pennsylvania,1942/01
+9444.0,PA,Pennsylvania,1943/01
+9214.0,PA,Pennsylvania,1944/01
+9143.0,PA,Pennsylvania,1945/01
+9866.0,PA,Pennsylvania,1946/01
+10196.0,PA,Pennsylvania,1947/01
+10287.0,PA,Pennsylvania,1948/01
+10390.0,PA,Pennsylvania,1949/01
+10507.0,PA,Pennsylvania,1950/01
+10461.0,PA,Pennsylvania,1951/01
+10503.0,PA,Pennsylvania,1952/01
+10662.0,PA,Pennsylvania,1953/01
+10817.0,PA,Pennsylvania,1954/01
+10939.0,PA,Pennsylvania,1955/01
+10972.0,PA,Pennsylvania,1956/01
+10954.0,PA,Pennsylvania,1957/01
+11058.0,PA,Pennsylvania,1958/01
+11234.0,PA,Pennsylvania,1959/01
+11329.0,PA,Pennsylvania,1960/01
+11392.0,PA,Pennsylvania,1961/01
+11355.0,PA,Pennsylvania,1962/01
+11424.0,PA,Pennsylvania,1963/01
+11519.0,PA,Pennsylvania,1964/01
+11620.0,PA,Pennsylvania,1965/01
+11664.0,PA,Pennsylvania,1966/01
+11681.0,PA,Pennsylvania,1967/01
+11741.0,PA,Pennsylvania,1968/01
+11741.0,PA,Pennsylvania,1969/01
+11800.766,PA,Pennsylvania,1970/01
+11886.4,PA,Pennsylvania,1971/01
+11908.233,PA,Pennsylvania,1972/01
+11890.527,PA,Pennsylvania,1973/01
+11870.884,PA,Pennsylvania,1974/01
+11906.095,PA,Pennsylvania,1975/01
+11897.378,PA,Pennsylvania,1976/01
+11893.591,PA,Pennsylvania,1977/01
+11879.396,PA,Pennsylvania,1978/01
+11887.975,PA,Pennsylvania,1979/01
+11868.305,PA,Pennsylvania,1980/01
+11858.567,PA,Pennsylvania,1981/01
+11845.146,PA,Pennsylvania,1982/01
+11837.723,PA,Pennsylvania,1983/01
+11815.172,PA,Pennsylvania,1984/01
+11770.862,PA,Pennsylvania,1985/01
+11782.752,PA,Pennsylvania,1986/01
+11810.866,PA,Pennsylvania,1987/01
+11845.752,PA,Pennsylvania,1988/01
+11865.996,PA,Pennsylvania,1989/01
+11895.604,PA,Pennsylvania,1990/01
+11943.16,PA,Pennsylvania,1991/01
+11980.819,PA,Pennsylvania,1992/01
+12022.128,PA,Pennsylvania,1993/01
+12042.545,PA,Pennsylvania,1994/01
+12044.78,PA,Pennsylvania,1995/01
+12038.008,PA,Pennsylvania,1996/01
+12015.888,PA,Pennsylvania,1997/01
+12002.329,PA,Pennsylvania,1998/01
+11994.016,PA,Pennsylvania,1999/01
+12284.173,PA,Pennsylvania,2000/01
+12298.97,PA,Pennsylvania,2001/01
+12331.031,PA,Pennsylvania,2002/01
+12374.658,PA,Pennsylvania,2003/01
+12410.722,PA,Pennsylvania,2004/01
+12449.99,PA,Pennsylvania,2005/01
+12510.809,PA,Pennsylvania,2006/01
+12563.937,PA,Pennsylvania,2007/01
+12612.285,PA,Pennsylvania,2008/01
+12666.858,PA,Pennsylvania,2009/01
+12711.406,PA,Pennsylvania,2010/01
+12747.052,PA,Pennsylvania,2011/01
+12769.123,PA,Pennsylvania,2012/01
+12779.538,PA,Pennsylvania,2013/01
+12792.392,PA,Pennsylvania,2014/01
+12789.838,PA,Pennsylvania,2015/01
+12788.468,PA,Pennsylvania,2016/01
+12794.679,PA,Pennsylvania,2017/01
+12809.107,PA,Pennsylvania,2018/01
+12798.883,PA,Pennsylvania,2019/01
+12996.143,PA,Pennsylvania,2020/01
+13015.571,PA,Pennsylvania,2021/01
+12984.99,PA,Pennsylvania,2022/01
+13017.721,PA,Pennsylvania,2023/01
+13078.751,PA,Pennsylvania,2024/01
+278.0,DC,District of Columbia,1900/01
+285.0,DC,District of Columbia,1901/01
+290.0,DC,District of Columbia,1902/01
+295.0,DC,District of Columbia,1903/01
+302.0,DC,District of Columbia,1904/01
+308.0,DC,District of Columbia,1905/01
+313.0,DC,District of Columbia,1906/01
+317.0,DC,District of Columbia,1907/01
+321.0,DC,District of Columbia,1908/01
+327.0,DC,District of Columbia,1909/01
+334.0,DC,District of Columbia,1910/01
+344.0,DC,District of Columbia,1911/01
+340.0,DC,District of Columbia,1912/01
+358.0,DC,District of Columbia,1913/01
+368.0,DC,District of Columbia,1914/01
+361.0,DC,District of Columbia,1915/01
+360.0,DC,District of Columbia,1916/01
+385.0,DC,District of Columbia,1917/01
+418.0,DC,District of Columbia,1918/01
+445.0,DC,District of Columbia,1919/01
+440.0,DC,District of Columbia,1920/01
+446.0,DC,District of Columbia,1921/01
+450.0,DC,District of Columbia,1922/01
+453.0,DC,District of Columbia,1923/01
+456.0,DC,District of Columbia,1924/01
+461.0,DC,District of Columbia,1925/01
+469.0,DC,District of Columbia,1926/01
+476.0,DC,District of Columbia,1927/01
+479.0,DC,District of Columbia,1928/01
+483.0,DC,District of Columbia,1929/01
+488.0,DC,District of Columbia,1930/01
+504.0,DC,District of Columbia,1931/01
+513.0,DC,District of Columbia,1932/01
+529.0,DC,District of Columbia,1933/01
+568.0,DC,District of Columbia,1934/01
+608.0,DC,District of Columbia,1935/01
+629.0,DC,District of Columbia,1936/01
+616.0,DC,District of Columbia,1937/01
+638.0,DC,District of Columbia,1938/01
+658.0,DC,District of Columbia,1939/01
+690.0,DC,District of Columbia,1940/01
+764.0,DC,District of Columbia,1941/01
+851.0,DC,District of Columbia,1942/01
+900.0,DC,District of Columbia,1943/01
+881.0,DC,District of Columbia,1944/01
+876.0,DC,District of Columbia,1945/01
+899.0,DC,District of Columbia,1946/01
+888.0,DC,District of Columbia,1947/01
+840.0,DC,District of Columbia,1948/01
+807.0,DC,District of Columbia,1949/01
+806.0,DC,District of Columbia,1950/01
+808.0,DC,District of Columbia,1951/01
+805.0,DC,District of Columbia,1952/01
+810.0,DC,District of Columbia,1953/01
+791.0,DC,District of Columbia,1954/01
+785.0,DC,District of Columbia,1955/01
+759.0,DC,District of Columbia,1956/01
+763.0,DC,District of Columbia,1957/01
+757.0,DC,District of Columbia,1958/01
+761.0,DC,District of Columbia,1959/01
+765.0,DC,District of Columbia,1960/01
+778.0,DC,District of Columbia,1961/01
+788.0,DC,District of Columbia,1962/01
+798.0,DC,District of Columbia,1963/01
+798.0,DC,District of Columbia,1964/01
+797.0,DC,District of Columbia,1965/01
+791.0,DC,District of Columbia,1966/01
+791.0,DC,District of Columbia,1967/01
+778.0,DC,District of Columbia,1968/01
+762.0,DC,District of Columbia,1969/01
+756.668,DC,District of Columbia,1970/01
+749.781,DC,District of Columbia,1971/01
+742.241,DC,District of Columbia,1972/01
+731.488,DC,District of Columbia,1973/01
+717.947,DC,District of Columbia,1974/01
+706.871,DC,District of Columbia,1975/01
+692.295,DC,District of Columbia,1976/01
+677.228,DC,District of Columbia,1977/01
+665.052,DC,District of Columbia,1978/01
+650.016,DC,District of Columbia,1979/01
+638.284,DC,District of Columbia,1980/01
+636.893,DC,District of Columbia,1981/01
+634.174,DC,District of Columbia,1982/01
+632.433,DC,District of Columbia,1983/01
+633.382,DC,District of Columbia,1984/01
+634.549,DC,District of Columbia,1985/01
+638.269,DC,District of Columbia,1986/01
+636.93,DC,District of Columbia,1987/01
+630.432,DC,District of Columbia,1988/01
+624.168,DC,District of Columbia,1989/01
+603.814,DC,District of Columbia,1990/01
+593.239,DC,District of Columbia,1991/01
+584.183,DC,District of Columbia,1992/01
+576.358,DC,District of Columbia,1993/01
+564.982,DC,District of Columbia,1994/01
+551.273,DC,District of Columbia,1995/01
+538.273,DC,District of Columbia,1996/01
+528.752,DC,District of Columbia,1997/01
+521.426,DC,District of Columbia,1998/01
+519.0,DC,District of Columbia,1999/01
+572.046,DC,District of Columbia,2000/01
+574.504,DC,District of Columbia,2001/01
+573.158,DC,District of Columbia,2002/01
+568.502,DC,District of Columbia,2003/01
+567.754,DC,District of Columbia,2004/01
+567.136,DC,District of Columbia,2005/01
+570.681,DC,District of Columbia,2006/01
+574.404,DC,District of Columbia,2007/01
+580.236,DC,District of Columbia,2008/01
+592.228,DC,District of Columbia,2009/01
+605.282,DC,District of Columbia,2010/01
+620.29,DC,District of Columbia,2011/01
+635.737,DC,District of Columbia,2012/01
+651.559,DC,District of Columbia,2013/01
+663.603,DC,District of Columbia,2014/01
+677.014,DC,District of Columbia,2015/01
+687.576,DC,District of Columbia,2016/01
+697.079,DC,District of Columbia,2017/01
+704.147,DC,District of Columbia,2018/01
+708.253,DC,District of Columbia,2019/01
+670.917,DC,District of Columbia,2020/01
+669.256,DC,District of Columbia,2021/01
+676.725,DC,District of Columbia,2022/01
+687.324,DC,District of Columbia,2023/01
+702.25,DC,District of Columbia,2024/01
+1314.0,AR,Arkansas,1900/01
+1341.0,AR,Arkansas,1901/01
+1360.0,AR,Arkansas,1902/01
+1384.0,AR,Arkansas,1903/01
+1419.0,AR,Arkansas,1904/01
+1447.0,AR,Arkansas,1905/01
+1465.0,AR,Arkansas,1906/01
+1484.0,AR,Arkansas,1907/01
+1513.0,AR,Arkansas,1908/01
+1545.0,AR,Arkansas,1909/01
+1583.0,AR,Arkansas,1910/01
+1610.0,AR,Arkansas,1911/01
+1636.0,AR,Arkansas,1912/01
+1664.0,AR,Arkansas,1913/01
+1688.0,AR,Arkansas,1914/01
+1702.0,AR,Arkansas,1915/01
+1719.0,AR,Arkansas,1916/01
+1737.0,AR,Arkansas,1917/01
+1749.0,AR,Arkansas,1918/01
+1742.0,AR,Arkansas,1919/01
+1756.0,AR,Arkansas,1920/01
+1769.0,AR,Arkansas,1921/01
+1772.0,AR,Arkansas,1922/01
+1784.0,AR,Arkansas,1923/01
+1800.0,AR,Arkansas,1924/01
+1812.0,AR,Arkansas,1925/01
+1826.0,AR,Arkansas,1926/01
+1840.0,AR,Arkansas,1927/01
+1847.0,AR,Arkansas,1928/01
+1852.0,AR,Arkansas,1929/01
+1859.0,AR,Arkansas,1930/01
+1848.0,AR,Arkansas,1931/01
+1836.0,AR,Arkansas,1932/01
+1854.0,AR,Arkansas,1933/01
+1878.0,AR,Arkansas,1934/01
+1890.0,AR,Arkansas,1935/01
+1892.0,AR,Arkansas,1936/01
+1903.0,AR,Arkansas,1937/01
+1928.0,AR,Arkansas,1938/01
+1948.0,AR,Arkansas,1939/01
+1955.0,AR,Arkansas,1940/01
+1969.0,AR,Arkansas,1941/01
+1977.0,AR,Arkansas,1942/01
+1843.0,AR,Arkansas,1943/01
+1768.0,AR,Arkansas,1944/01
+1762.0,AR,Arkansas,1945/01
+1797.0,AR,Arkansas,1946/01
+1836.0,AR,Arkansas,1947/01
+1825.0,AR,Arkansas,1948/01
+1844.0,AR,Arkansas,1949/01
+1908.0,AR,Arkansas,1950/01
+1901.0,AR,Arkansas,1951/01
+1838.0,AR,Arkansas,1952/01
+1780.0,AR,Arkansas,1953/01
+1734.0,AR,Arkansas,1954/01
+1725.0,AR,Arkansas,1955/01
+1704.0,AR,Arkansas,1956/01
+1733.0,AR,Arkansas,1957/01
+1726.0,AR,Arkansas,1958/01
+1756.0,AR,Arkansas,1959/01
+1789.0,AR,Arkansas,1960/01
+1806.0,AR,Arkansas,1961/01
+1853.0,AR,Arkansas,1962/01
+1875.0,AR,Arkansas,1963/01
+1897.0,AR,Arkansas,1964/01
+1894.0,AR,Arkansas,1965/01
+1899.0,AR,Arkansas,1966/01
+1901.0,AR,Arkansas,1967/01
+1902.0,AR,Arkansas,1968/01
+1913.0,AR,Arkansas,1969/01
+1923.322,AR,Arkansas,1970/01
+1972.312,AR,Arkansas,1971/01
+2018.638,AR,Arkansas,1972/01
+2059.256,AR,Arkansas,1973/01
+2101.403,AR,Arkansas,1974/01
+2159.526,AR,Arkansas,1975/01
+2170.161,AR,Arkansas,1976/01
+2209.01,AR,Arkansas,1977/01
+2243.127,AR,Arkansas,1978/01
+2271.333,AR,Arkansas,1979/01
+2288.738,AR,Arkansas,1980/01
+2293.201,AR,Arkansas,1981/01
+2294.257,AR,Arkansas,1982/01
+2305.761,AR,Arkansas,1983/01
+2319.768,AR,Arkansas,1984/01
+2327.046,AR,Arkansas,1985/01
+2331.984,AR,Arkansas,1986/01
+2342.355,AR,Arkansas,1987/01
+2342.656,AR,Arkansas,1988/01
+2346.358,AR,Arkansas,1989/01
+2354.343,AR,Arkansas,1990/01
+2370.666,AR,Arkansas,1991/01
+2394.098,AR,Arkansas,1992/01
+2423.743,AR,Arkansas,1993/01
+2450.605,AR,Arkansas,1994/01
+2480.121,AR,Arkansas,1995/01
+2504.858,AR,Arkansas,1996/01
+2524.007,AR,Arkansas,1997/01
+2538.202,AR,Arkansas,1998/01
+2551.373,AR,Arkansas,1999/01
+2678.588,AR,Arkansas,2000/01
+2691.571,AR,Arkansas,2001/01
+2705.927,AR,Arkansas,2002/01
+2724.816,AR,Arkansas,2003/01
+2749.686,AR,Arkansas,2004/01
+2781.097,AR,Arkansas,2005/01
+2821.761,AR,Arkansas,2006/01
+2848.65,AR,Arkansas,2007/01
+2874.554,AR,Arkansas,2008/01
+2896.843,AR,Arkansas,2009/01
+2921.998,AR,Arkansas,2010/01
+2941.038,AR,Arkansas,2011/01
+2952.876,AR,Arkansas,2012/01
+2960.459,AR,Arkansas,2013/01
+2968.759,AR,Arkansas,2014/01
+2979.732,AR,Arkansas,2015/01
+2991.815,AR,Arkansas,2016/01
+3003.855,AR,Arkansas,2017/01
+3012.161,AR,Arkansas,2018/01
+3020.985,AR,Arkansas,2019/01
+3014.546,AR,Arkansas,2020/01
+3026.87,AR,Arkansas,2021/01
+3047.704,AR,Arkansas,2022/01
+3069.463,AR,Arkansas,2023/01
+3088.354,AR,Arkansas,2024/01
+1067.0,NE,Nebraska,1900/01
+1078.0,NE,Nebraska,1901/01
+1089.0,NE,Nebraska,1902/01
+1104.0,NE,Nebraska,1903/01
+1119.0,NE,Nebraska,1904/01
+1129.0,NE,Nebraska,1905/01
+1138.0,NE,Nebraska,1906/01
+1149.0,NE,Nebraska,1907/01
+1161.0,NE,Nebraska,1908/01
+1177.0,NE,Nebraska,1909/01
+1198.0,NE,Nebraska,1910/01
+1216.0,NE,Nebraska,1911/01
+1232.0,NE,Nebraska,1912/01
+1246.0,NE,Nebraska,1913/01
+1264.0,NE,Nebraska,1914/01
+1272.0,NE,Nebraska,1915/01
+1275.0,NE,Nebraska,1916/01
+1285.0,NE,Nebraska,1917/01
+1266.0,NE,Nebraska,1918/01
+1290.0,NE,Nebraska,1919/01
+1300.0,NE,Nebraska,1920/01
+1309.0,NE,Nebraska,1921/01
+1312.0,NE,Nebraska,1922/01
+1321.0,NE,Nebraska,1923/01
+1333.0,NE,Nebraska,1924/01
+1343.0,NE,Nebraska,1925/01
+1353.0,NE,Nebraska,1926/01
+1365.0,NE,Nebraska,1927/01
+1371.0,NE,Nebraska,1928/01
+1375.0,NE,Nebraska,1929/01
+1380.0,NE,Nebraska,1930/01
+1384.0,NE,Nebraska,1931/01
+1386.0,NE,Nebraska,1932/01
+1385.0,NE,Nebraska,1933/01
+1382.0,NE,Nebraska,1934/01
+1375.0,NE,Nebraska,1935/01
+1358.0,NE,Nebraska,1936/01
+1339.0,NE,Nebraska,1937/01
+1326.0,NE,Nebraska,1938/01
+1318.0,NE,Nebraska,1939/01
+1316.0,NE,Nebraska,1940/01
+1272.0,NE,Nebraska,1941/01
+1239.0,NE,Nebraska,1942/01
+1241.0,NE,Nebraska,1943/01
+1216.0,NE,Nebraska,1944/01
+1211.0,NE,Nebraska,1945/01
+1256.0,NE,Nebraska,1946/01
+1265.0,NE,Nebraska,1947/01
+1265.0,NE,Nebraska,1948/01
+1302.0,NE,Nebraska,1949/01
+1327.0,NE,Nebraska,1950/01
+1316.0,NE,Nebraska,1951/01
+1311.0,NE,Nebraska,1952/01
+1318.0,NE,Nebraska,1953/01
+1340.0,NE,Nebraska,1954/01
+1374.0,NE,Nebraska,1955/01
+1397.0,NE,Nebraska,1956/01
+1394.0,NE,Nebraska,1957/01
+1383.0,NE,Nebraska,1958/01
+1397.0,NE,Nebraska,1959/01
+1417.0,NE,Nebraska,1960/01
+1446.0,NE,Nebraska,1961/01
+1464.0,NE,Nebraska,1962/01
+1476.0,NE,Nebraska,1963/01
+1482.0,NE,Nebraska,1964/01
+1471.0,NE,Nebraska,1965/01
+1456.0,NE,Nebraska,1966/01
+1457.0,NE,Nebraska,1967/01
+1467.0,NE,Nebraska,1968/01
+1474.0,NE,Nebraska,1969/01
+1485.333,NE,Nebraska,1970/01
+1504.604,NE,Nebraska,1971/01
+1519.013,NE,Nebraska,1972/01
+1529.567,NE,Nebraska,1973/01
+1539.191,NE,Nebraska,1974/01
+1543.117,NE,Nebraska,1975/01
+1550.911,NE,Nebraska,1976/01
+1556.842,NE,Nebraska,1977/01
+1563.884,NE,Nebraska,1978/01
+1567.344,NE,Nebraska,1979/01
+1572.296,NE,Nebraska,1980/01
+1578.515,NE,Nebraska,1981/01
+1581.78,NE,Nebraska,1982/01
+1584.293,NE,Nebraska,1983/01
+1588.639,NE,Nebraska,1984/01
+1584.664,NE,Nebraska,1985/01
+1574.333,NE,Nebraska,1986/01
+1566.547,NE,Nebraska,1987/01
+1571.477,NE,Nebraska,1988/01
+1574.864,NE,Nebraska,1989/01
+1580.664,NE,Nebraska,1990/01
+1590.805,NE,Nebraska,1991/01
+1602.406,NE,Nebraska,1992/01
+1612.149,NE,Nebraska,1993/01
+1621.551,NE,Nebraska,1994/01
+1635.142,NE,Nebraska,1995/01
+1647.657,NE,Nebraska,1996/01
+1656.042,NE,Nebraska,1997/01
+1660.772,NE,Nebraska,1998/01
+1666.028,NE,Nebraska,1999/01
+1713.82,NE,Nebraska,2000/01
+1719.836,NE,Nebraska,2001/01
+1728.292,NE,Nebraska,2002/01
+1738.643,NE,Nebraska,2003/01
+1749.37,NE,Nebraska,2004/01
+1761.497,NE,Nebraska,2005/01
+1772.693,NE,Nebraska,2006/01
+1783.44,NE,Nebraska,2007/01
+1796.378,NE,Nebraska,2008/01
+1812.683,NE,Nebraska,2009/01
+1829.591,NE,Nebraska,2010/01
+1840.914,NE,Nebraska,2011/01
+1853.691,NE,Nebraska,2012/01
+1865.813,NE,Nebraska,2013/01
+1879.955,NE,Nebraska,2014/01
+1892.059,NE,Nebraska,2015/01
+1906.483,NE,Nebraska,2016/01
+1916.998,NE,Nebraska,2017/01
+1925.512,NE,Nebraska,2018/01
+1932.571,NE,Nebraska,2019/01
+1963.387,NE,Nebraska,2020/01
+1964.537,NE,Nebraska,2021/01
+1972.246,NE,Nebraska,2022/01
+1987.864,NE,Nebraska,2023/01
+2005.465,NE,Nebraska,2024/01
+800.0,OK,Oklahoma,1900/01
+916.0,OK,Oklahoma,1901/01
+1027.0,OK,Oklahoma,1902/01
+1118.0,OK,Oklahoma,1903/01
+1200.0,OK,Oklahoma,1904/01
+1277.0,OK,Oklahoma,1905/01
+1349.0,OK,Oklahoma,1906/01
+1414.0,OK,Oklahoma,1907/01
+1498.0,OK,Oklahoma,1908/01
+1585.0,OK,Oklahoma,1909/01
+1671.0,OK,Oklahoma,1910/01
+1714.0,OK,Oklahoma,1911/01
+1737.0,OK,Oklahoma,1912/01
+1777.0,OK,Oklahoma,1913/01
+1824.0,OK,Oklahoma,1914/01
+1860.0,OK,Oklahoma,1915/01
+1907.0,OK,Oklahoma,1916/01
+1960.0,OK,Oklahoma,1917/01
+1969.0,OK,Oklahoma,1918/01
+2003.0,OK,Oklahoma,1919/01
+2055.0,OK,Oklahoma,1920/01
+2108.0,OK,Oklahoma,1921/01
+2140.0,OK,Oklahoma,1922/01
+2159.0,OK,Oklahoma,1923/01
+2179.0,OK,Oklahoma,1924/01
+2216.0,OK,Oklahoma,1925/01
+2256.0,OK,Oklahoma,1926/01
+2306.0,OK,Oklahoma,1927/01
+2344.0,OK,Oklahoma,1928/01
+2372.0,OK,Oklahoma,1929/01
+2401.0,OK,Oklahoma,1930/01
+2403.0,OK,Oklahoma,1931/01
+2394.0,OK,Oklahoma,1932/01
+2392.0,OK,Oklahoma,1933/01
+2391.0,OK,Oklahoma,1934/01
+2386.0,OK,Oklahoma,1935/01
+2365.0,OK,Oklahoma,1936/01
+2334.0,OK,Oklahoma,1937/01
+2324.0,OK,Oklahoma,1938/01
+2333.0,OK,Oklahoma,1939/01
+2325.0,OK,Oklahoma,1940/01
+2262.0,OK,Oklahoma,1941/01
+2215.0,OK,Oklahoma,1942/01
+2205.0,OK,Oklahoma,1943/01
+2043.0,OK,Oklahoma,1944/01
+2028.0,OK,Oklahoma,1945/01
+2128.0,OK,Oklahoma,1946/01
+2133.0,OK,Oklahoma,1947/01
+2089.0,OK,Oklahoma,1948/01
+2105.0,OK,Oklahoma,1949/01
+2229.0,OK,Oklahoma,1950/01
+2210.0,OK,Oklahoma,1951/01
+2219.0,OK,Oklahoma,1952/01
+2182.0,OK,Oklahoma,1953/01
+2209.0,OK,Oklahoma,1954/01
+2250.0,OK,Oklahoma,1955/01
+2273.0,OK,Oklahoma,1956/01
+2282.0,OK,Oklahoma,1957/01
+2267.0,OK,Oklahoma,1958/01
+2289.0,OK,Oklahoma,1959/01
+2336.0,OK,Oklahoma,1960/01
+2380.0,OK,Oklahoma,1961/01
+2427.0,OK,Oklahoma,1962/01
+2439.0,OK,Oklahoma,1963/01
+2446.0,OK,Oklahoma,1964/01
+2440.0,OK,Oklahoma,1965/01
+2454.0,OK,Oklahoma,1966/01
+2489.0,OK,Oklahoma,1967/01
+2503.0,OK,Oklahoma,1968/01
+2535.0,OK,Oklahoma,1969/01
+2559.463,OK,Oklahoma,1970/01
+2618.601,OK,Oklahoma,1971/01
+2658.646,OK,Oklahoma,1972/01
+2695.931,OK,Oklahoma,1973/01
+2734.768,OK,Oklahoma,1974/01
+2774.683,OK,Oklahoma,1975/01
+2826.815,OK,Oklahoma,1976/01
+2870.014,OK,Oklahoma,1977/01
+2917.336,OK,Oklahoma,1978/01
+2975.31,OK,Oklahoma,1979/01
+3040.758,OK,Oklahoma,1980/01
+3096.164,OK,Oklahoma,1981/01
+3206.123,OK,Oklahoma,1982/01
+3290.402,OK,Oklahoma,1983/01
+3285.533,OK,Oklahoma,1984/01
+3271.332,OK,Oklahoma,1985/01
+3252.735,OK,Oklahoma,1986/01
+3210.122,OK,Oklahoma,1987/01
+3167.057,OK,Oklahoma,1988/01
+3150.307,OK,Oklahoma,1989/01
+3147.105,OK,Oklahoma,1990/01
+3166.471,OK,Oklahoma,1991/01
+3204.174,OK,Oklahoma,1992/01
+3228.829,OK,Oklahoma,1993/01
+3246.119,OK,Oklahoma,1994/01
+3265.547,OK,Oklahoma,1995/01
+3289.634,OK,Oklahoma,1996/01
+3314.259,OK,Oklahoma,1997/01
+3339.478,OK,Oklahoma,1998/01
+3358.044,OK,Oklahoma,1999/01
+3454.365,OK,Oklahoma,2000/01
+3467.1,OK,Oklahoma,2001/01
+3489.08,OK,Oklahoma,2002/01
+3504.892,OK,Oklahoma,2003/01
+3525.233,OK,Oklahoma,2004/01
+3548.597,OK,Oklahoma,2005/01
+3594.09,OK,Oklahoma,2006/01
+3634.349,OK,Oklahoma,2007/01
+3668.976,OK,Oklahoma,2008/01
+3717.572,OK,Oklahoma,2009/01
+3760.014,OK,Oklahoma,2010/01
+3788.824,OK,Oklahoma,2011/01
+3819.32,OK,Oklahoma,2012/01
+3853.891,OK,Oklahoma,2013/01
+3879.187,OK,Oklahoma,2014/01
+3910.518,OK,Oklahoma,2015/01
+3928.143,OK,Oklahoma,2016/01
+3933.602,OK,Oklahoma,2017/01
+3943.488,OK,Oklahoma,2018/01
+3960.676,OK,Oklahoma,2019/01
+3965.415,OK,Oklahoma,2020/01
+3992.238,OK,Oklahoma,2021/01
+4026.229,OK,Oklahoma,2022/01
+4063.882,OK,Oklahoma,2023/01
+4095.393,OK,Oklahoma,2024/01
+163.0,ID,Idaho,1900/01
+176.0,ID,Idaho,1901/01
+199.0,ID,Idaho,1902/01
+216.0,ID,Idaho,1903/01
+229.0,ID,Idaho,1904/01
+246.0,ID,Idaho,1905/01
+262.0,ID,Idaho,1906/01
+277.0,ID,Idaho,1907/01
+291.0,ID,Idaho,1908/01
+311.0,ID,Idaho,1909/01
+329.0,ID,Idaho,1910/01
+343.0,ID,Idaho,1911/01
+359.0,ID,Idaho,1912/01
+371.0,ID,Idaho,1913/01
+384.0,ID,Idaho,1914/01
+394.0,ID,Idaho,1915/01
+405.0,ID,Idaho,1916/01
+413.0,ID,Idaho,1917/01
+405.0,ID,Idaho,1918/01
+424.0,ID,Idaho,1919/01
+433.0,ID,Idaho,1920/01
+435.0,ID,Idaho,1921/01
+436.0,ID,Idaho,1922/01
+436.0,ID,Idaho,1923/01
+434.0,ID,Idaho,1924/01
+436.0,ID,Idaho,1925/01
+441.0,ID,Idaho,1926/01
+447.0,ID,Idaho,1927/01
+449.0,ID,Idaho,1928/01
+447.0,ID,Idaho,1929/01
+447.0,ID,Idaho,1930/01
+454.0,ID,Idaho,1931/01
+459.0,ID,Idaho,1932/01
+464.0,ID,Idaho,1933/01
+473.0,ID,Idaho,1934/01
+481.0,ID,Idaho,1935/01
+495.0,ID,Idaho,1936/01
+507.0,ID,Idaho,1937/01
+513.0,ID,Idaho,1938/01
+521.0,ID,Idaho,1939/01
+522.0,ID,Idaho,1940/01
+501.0,ID,Idaho,1941/01
+478.0,ID,Idaho,1942/01
+500.0,ID,Idaho,1943/01
+529.0,ID,Idaho,1944/01
+507.0,ID,Idaho,1945/01
+509.0,ID,Idaho,1946/01
+522.0,ID,Idaho,1947/01
+551.0,ID,Idaho,1948/01
+570.0,ID,Idaho,1949/01
+590.0,ID,Idaho,1950/01
+589.0,ID,Idaho,1951/01
+587.0,ID,Idaho,1952/01
+596.0,ID,Idaho,1953/01
+600.0,ID,Idaho,1954/01
+618.0,ID,Idaho,1955/01
+628.0,ID,Idaho,1956/01
+642.0,ID,Idaho,1957/01
+646.0,ID,Idaho,1958/01
+657.0,ID,Idaho,1959/01
+671.0,ID,Idaho,1960/01
+684.0,ID,Idaho,1961/01
+692.0,ID,Idaho,1962/01
+683.0,ID,Idaho,1963/01
+680.0,ID,Idaho,1964/01
+686.0,ID,Idaho,1965/01
+689.0,ID,Idaho,1966/01
+688.0,ID,Idaho,1967/01
+695.0,ID,Idaho,1968/01
+707.0,ID,Idaho,1969/01
+713.015,ID,Idaho,1970/01
+738.753,ID,Idaho,1971/01
+763.237,ID,Idaho,1972/01
+782.074,ID,Idaho,1973/01
+807.99,ID,Idaho,1974/01
+831.982,ID,Idaho,1975/01
+856.983,ID,Idaho,1976/01
+883.469,ID,Idaho,1977/01
+910.69,ID,Idaho,1978/01
+932.627,ID,Idaho,1979/01
+947.983,ID,Idaho,1980/01
+962.204,ID,Idaho,1981/01
+973.721,ID,Idaho,1982/01
+981.869,ID,Idaho,1983/01
+990.839,ID,Idaho,1984/01
+994.051,ID,Idaho,1985/01
+990.224,ID,Idaho,1986/01
+984.997,ID,Idaho,1987/01
+985.664,ID,Idaho,1988/01
+994.416,ID,Idaho,1989/01
+1011.882,ID,Idaho,1990/01
+1038.915,ID,Idaho,1991/01
+1066.49,ID,Idaho,1992/01
+1101.204,ID,Idaho,1993/01
+1135.459,ID,Idaho,1994/01
+1165.0,ID,Idaho,1995/01
+1187.706,ID,Idaho,1996/01
+1210.638,ID,Idaho,1997/01
+1230.923,ID,Idaho,1998/01
+1251.7,ID,Idaho,1999/01
+1299.43,ID,Idaho,2000/01
+1319.962,ID,Idaho,2001/01
+1340.372,ID,Idaho,2002/01
+1363.38,ID,Idaho,2003/01
+1391.802,ID,Idaho,2004/01
+1428.241,ID,Idaho,2005/01
+1468.669,ID,Idaho,2006/01
+1505.105,ID,Idaho,2007/01
+1534.32,ID,Idaho,2008/01
+1554.439,ID,Idaho,2009/01
+1570.819,ID,Idaho,2010/01
+1584.272,ID,Idaho,2011/01
+1595.91,ID,Idaho,2012/01
+1612.053,ID,Idaho,2013/01
+1632.248,ID,Idaho,2014/01
+1652.495,ID,Idaho,2015/01
+1684.036,ID,Idaho,2016/01
+1719.745,ID,Idaho,2017/01
+1752.074,ID,Idaho,2018/01
+1789.06,ID,Idaho,2019/01
+1849.415,ID,Idaho,2020/01
+1904.848,ID,Idaho,2021/01
+1944.299,ID,Idaho,2022/01
+1971.122,ID,Idaho,2023/01
+2001.619,ID,Idaho,2024/01
+1384.0,LA,Louisiana,1900/01
+1412.0,LA,Louisiana,1901/01
+1440.0,LA,Louisiana,1902/01
+1467.0,LA,Louisiana,1903/01
+1495.0,LA,Louisiana,1904/01
+1523.0,LA,Louisiana,1905/01
+1551.0,LA,Louisiana,1906/01
+1579.0,LA,Louisiana,1907/01
+1607.0,LA,Louisiana,1908/01
+1634.0,LA,Louisiana,1909/01
+1667.0,LA,Louisiana,1910/01
+1695.0,LA,Louisiana,1911/01
+1709.0,LA,Louisiana,1912/01
+1727.0,LA,Louisiana,1913/01
+1740.0,LA,Louisiana,1914/01
+1755.0,LA,Louisiana,1915/01
+1799.0,LA,Louisiana,1916/01
+1795.0,LA,Louisiana,1917/01
+1746.0,LA,Louisiana,1918/01
+1756.0,LA,Louisiana,1919/01
+1813.0,LA,Louisiana,1920/01
+1847.0,LA,Louisiana,1921/01
+1871.0,LA,Louisiana,1922/01
+1903.0,LA,Louisiana,1923/01
+1939.0,LA,Louisiana,1924/01
+1972.0,LA,Louisiana,1925/01
+2005.0,LA,Louisiana,1926/01
+2039.0,LA,Louisiana,1927/01
+2064.0,LA,Louisiana,1928/01
+2086.0,LA,Louisiana,1929/01
+2105.0,LA,Louisiana,1930/01
+2124.0,LA,Louisiana,1931/01
+2155.0,LA,Louisiana,1932/01
+2178.0,LA,Louisiana,1933/01
+2202.0,LA,Louisiana,1934/01
+2228.0,LA,Louisiana,1935/01
+2246.0,LA,Louisiana,1936/01
+2257.0,LA,Louisiana,1937/01
+2285.0,LA,Louisiana,1938/01
+2334.0,LA,Louisiana,1939/01
+2370.0,LA,Louisiana,1940/01
+2484.0,LA,Louisiana,1941/01
+2546.0,LA,Louisiana,1942/01
+2565.0,LA,Louisiana,1943/01
+2508.0,LA,Louisiana,1944/01
+2429.0,LA,Louisiana,1945/01
+2556.0,LA,Louisiana,1946/01
+2579.0,LA,Louisiana,1947/01
+2596.0,LA,Louisiana,1948/01
+2634.0,LA,Louisiana,1949/01
+2697.0,LA,Louisiana,1950/01
+2769.0,LA,Louisiana,1951/01
+2842.0,LA,Louisiana,1952/01
+2866.0,LA,Louisiana,1953/01
+2883.0,LA,Louisiana,1954/01
+2946.0,LA,Louisiana,1955/01
+3032.0,LA,Louisiana,1956/01
+3115.0,LA,Louisiana,1957/01
+3155.0,LA,Louisiana,1958/01
+3208.0,LA,Louisiana,1959/01
+3260.0,LA,Louisiana,1960/01
+3287.0,LA,Louisiana,1961/01
+3345.0,LA,Louisiana,1962/01
+3377.0,LA,Louisiana,1963/01
+3446.0,LA,Louisiana,1964/01
+3496.0,LA,Louisiana,1965/01
+3550.0,LA,Louisiana,1966/01
+3581.0,LA,Louisiana,1967/01
+3603.0,LA,Louisiana,1968/01
+3619.0,LA,Louisiana,1969/01
+3644.637,LA,Louisiana,1970/01
+3710.487,LA,Louisiana,1971/01
+3761.646,LA,Louisiana,1972/01
+3788.375,LA,Louisiana,1973/01
+3820.109,LA,Louisiana,1974/01
+3886.104,LA,Louisiana,1975/01
+3950.605,LA,Louisiana,1976/01
+4014.459,LA,Louisiana,1977/01
+4068.579,LA,Louisiana,1978/01
+4137.665,LA,Louisiana,1979/01
+4223.101,LA,Louisiana,1980/01
+4283.303,LA,Louisiana,1981/01
+4352.608,LA,Louisiana,1982/01
+4395.316,LA,Louisiana,1983/01
+4400.477,LA,Louisiana,1984/01
+4408.118,LA,Louisiana,1985/01
+4406.919,LA,Louisiana,1986/01
+4344.148,LA,Louisiana,1987/01
+4288.863,LA,Louisiana,1988/01
+4252.894,LA,Louisiana,1989/01
+4219.179,LA,Louisiana,1990/01
+4240.95,LA,Louisiana,1991/01
+4270.849,LA,Louisiana,1992/01
+4284.749,LA,Louisiana,1993/01
+4306.5,LA,Louisiana,1994/01
+4327.978,LA,Louisiana,1995/01
+4338.763,LA,Louisiana,1996/01
+4351.39,LA,Louisiana,1997/01
+4362.758,LA,Louisiana,1998/01
+4372.035,LA,Louisiana,1999/01
+4471.885,LA,Louisiana,2000/01
+4477.875,LA,Louisiana,2001/01
+4497.267,LA,Louisiana,2002/01
+4521.042,LA,Louisiana,2003/01
+4552.238,LA,Louisiana,2004/01
+4576.628,LA,Louisiana,2005/01
+4302.665,LA,Louisiana,2006/01
+4375.581,LA,Louisiana,2007/01
+4435.586,LA,Louisiana,2008/01
+4491.648,LA,Louisiana,2009/01
+4544.635,LA,Louisiana,2010/01
+4576.244,LA,Louisiana,2011/01
+4602.067,LA,Louisiana,2012/01
+4626.04,LA,Louisiana,2013/01
+4645.938,LA,Louisiana,2014/01
+4666.998,LA,Louisiana,2015/01
+4681.346,LA,Louisiana,2016/01
+4673.673,LA,Louisiana,2017/01
+4664.45,LA,Louisiana,2018/01
+4658.285,LA,Louisiana,2019/01
+4652.301,LA,Louisiana,2020/01
+4627.971,LA,Louisiana,2021/01
+4593.687,LA,Louisiana,2022/01
+4588.071,LA,Louisiana,2023/01
+4597.74,LA,Louisiana,2024/01
+3108.0,MO,Missouri,1900/01
+3128.0,MO,Missouri,1901/01
+3147.0,MO,Missouri,1902/01
+3166.0,MO,Missouri,1903/01
+3185.0,MO,Missouri,1904/01
+3204.0,MO,Missouri,1905/01
+3223.0,MO,Missouri,1906/01
+3242.0,MO,Missouri,1907/01
+3260.0,MO,Missouri,1908/01
+3279.0,MO,Missouri,1909/01
+3301.0,MO,Missouri,1910/01
+3317.0,MO,Missouri,1911/01
+3344.0,MO,Missouri,1912/01
+3409.0,MO,Missouri,1913/01
+3467.0,MO,Missouri,1914/01
+3492.0,MO,Missouri,1915/01
+3527.0,MO,Missouri,1916/01
+3470.0,MO,Missouri,1917/01
+3325.0,MO,Missouri,1918/01
+3371.0,MO,Missouri,1919/01
+3404.0,MO,Missouri,1920/01
+3429.0,MO,Missouri,1921/01
+3437.0,MO,Missouri,1922/01
+3454.0,MO,Missouri,1923/01
+3508.0,MO,Missouri,1924/01
+3526.0,MO,Missouri,1925/01
+3556.0,MO,Missouri,1926/01
+3576.0,MO,Missouri,1927/01
+3601.0,MO,Missouri,1928/01
+3622.0,MO,Missouri,1929/01
+3646.0,MO,Missouri,1930/01
+3711.0,MO,Missouri,1931/01
+3746.0,MO,Missouri,1932/01
+3773.0,MO,Missouri,1933/01
+3784.0,MO,Missouri,1934/01
+3798.0,MO,Missouri,1935/01
+3801.0,MO,Missouri,1936/01
+3794.0,MO,Missouri,1937/01
+3781.0,MO,Missouri,1938/01
+3783.0,MO,Missouri,1939/01
+3786.0,MO,Missouri,1940/01
+3811.0,MO,Missouri,1941/01
+3829.0,MO,Missouri,1942/01
+3705.0,MO,Missouri,1943/01
+3560.0,MO,Missouri,1944/01
+3516.0,MO,Missouri,1945/01
+3746.0,MO,Missouri,1946/01
+3845.0,MO,Missouri,1947/01
+3844.0,MO,Missouri,1948/01
+3882.0,MO,Missouri,1949/01
+3964.0,MO,Missouri,1950/01
+4015.0,MO,Missouri,1951/01
+3972.0,MO,Missouri,1952/01
+4020.0,MO,Missouri,1953/01
+4066.0,MO,Missouri,1954/01
+4134.0,MO,Missouri,1955/01
+4163.0,MO,Missouri,1956/01
+4189.0,MO,Missouri,1957/01
+4186.0,MO,Missouri,1958/01
+4258.0,MO,Missouri,1959/01
+4326.0,MO,Missouri,1960/01
+4349.0,MO,Missouri,1961/01
+4357.0,MO,Missouri,1962/01
+4392.0,MO,Missouri,1963/01
+4442.0,MO,Missouri,1964/01
+4467.0,MO,Missouri,1965/01
+4523.0,MO,Missouri,1966/01
+4539.0,MO,Missouri,1967/01
+4568.0,MO,Missouri,1968/01
+4640.0,MO,Missouri,1969/01
+4677.623,MO,Missouri,1970/01
+4725.764,MO,Missouri,1971/01
+4758.78,MO,Missouri,1972/01
+4782.645,MO,Missouri,1973/01
+4795.93,MO,Missouri,1974/01
+4808.308,MO,Missouri,1975/01
+4839.029,MO,Missouri,1976/01
+4863.173,MO,Missouri,1977/01
+4889.399,MO,Missouri,1978/01
+4912.43,MO,Missouri,1979/01
+4921.966,MO,Missouri,1980/01
+4932.064,MO,Missouri,1981/01
+4929.451,MO,Missouri,1982/01
+4943.733,MO,Missouri,1983/01
+4975.278,MO,Missouri,1984/01
+5000.268,MO,Missouri,1985/01
+5023.068,MO,Missouri,1986/01
+5056.696,MO,Missouri,1987/01
+5081.736,MO,Missouri,1988/01
+5095.83,MO,Missouri,1989/01
+5126.37,MO,Missouri,1990/01
+5157.77,MO,Missouri,1991/01
+5193.686,MO,Missouri,1992/01
+5237.757,MO,Missouri,1993/01
+5281.206,MO,Missouri,1994/01
+5324.61,MO,Missouri,1995/01
+5367.888,MO,Missouri,1996/01
+5407.113,MO,Missouri,1997/01
+5437.562,MO,Missouri,1998/01
+5468.338,MO,Missouri,1999/01
+5607.285,MO,Missouri,2000/01
+5641.142,MO,Missouri,2001/01
+5674.825,MO,Missouri,2002/01
+5709.403,MO,Missouri,2003/01
+5747.741,MO,Missouri,2004/01
+5790.3,MO,Missouri,2005/01
+5842.704,MO,Missouri,2006/01
+5887.612,MO,Missouri,2007/01
+5923.916,MO,Missouri,2008/01
+5961.088,MO,Missouri,2009/01
+5996.089,MO,Missouri,2010/01
+6011.182,MO,Missouri,2011/01
+6026.027,MO,Missouri,2012/01
+6042.989,MO,Missouri,2013/01
+6059.13,MO,Missouri,2014/01
+6075.411,MO,Missouri,2015/01
+6091.384,MO,Missouri,2016/01
+6111.382,MO,Missouri,2017/01
+6125.986,MO,Missouri,2018/01
+6140.475,MO,Missouri,2019/01
+6154.744,MO,Missouri,2020/01
+6171.374,MO,Missouri,2021/01
+6179.414,MO,Missouri,2022/01
+6208.038,MO,Missouri,2023/01
+6245.466,MO,Missouri,2024/01
+2788.0,MA,Massachusetts,1900/01
+2794.0,MA,Massachusetts,1901/01
+2856.0,MA,Massachusetts,1902/01
+2924.0,MA,Massachusetts,1903/01
+2969.0,MA,Massachusetts,1904/01
+3018.0,MA,Massachusetts,1905/01
+3107.0,MA,Massachusetts,1906/01
+3183.0,MA,Massachusetts,1907/01
+3251.0,MA,Massachusetts,1908/01
+3316.0,MA,Massachusetts,1909/01
+3365.0,MA,Massachusetts,1910/01
+3383.0,MA,Massachusetts,1911/01
+3440.0,MA,Massachusetts,1912/01
+3534.0,MA,Massachusetts,1913/01
+3636.0,MA,Massachusetts,1914/01
+3705.0,MA,Massachusetts,1915/01
+3726.0,MA,Massachusetts,1916/01
+3738.0,MA,Massachusetts,1917/01
+3695.0,MA,Massachusetts,1918/01
+3785.0,MA,Massachusetts,1919/01
+3882.0,MA,Massachusetts,1920/01
+3951.0,MA,Massachusetts,1921/01
+4010.0,MA,Massachusetts,1922/01
+4057.0,MA,Massachusetts,1923/01
+4102.0,MA,Massachusetts,1924/01
+4154.0,MA,Massachusetts,1925/01
+4194.0,MA,Massachusetts,1926/01
+4223.0,MA,Massachusetts,1927/01
+4217.0,MA,Massachusetts,1928/01
+4229.0,MA,Massachusetts,1929/01
+4250.0,MA,Massachusetts,1930/01
+4248.0,MA,Massachusetts,1931/01
+4259.0,MA,Massachusetts,1932/01
+4282.0,MA,Massachusetts,1933/01
+4305.0,MA,Massachusetts,1934/01
+4343.0,MA,Massachusetts,1935/01
+4355.0,MA,Massachusetts,1936/01
+4358.0,MA,Massachusetts,1937/01
+4365.0,MA,Massachusetts,1938/01
+4347.0,MA,Massachusetts,1939/01
+4318.0,MA,Massachusetts,1940/01
+4389.0,MA,Massachusetts,1941/01
+4370.0,MA,Massachusetts,1942/01
+4257.0,MA,Massachusetts,1943/01
+4192.0,MA,Massachusetts,1944/01
+4201.0,MA,Massachusetts,1945/01
+4494.0,MA,Massachusetts,1946/01
+4580.0,MA,Massachusetts,1947/01
+4674.0,MA,Massachusetts,1948/01
+4741.0,MA,Massachusetts,1949/01
+4686.0,MA,Massachusetts,1950/01
+4654.0,MA,Massachusetts,1951/01
+4650.0,MA,Massachusetts,1952/01
+4806.0,MA,Massachusetts,1953/01
+4910.0,MA,Massachusetts,1954/01
+4882.0,MA,Massachusetts,1955/01
+4891.0,MA,Massachusetts,1956/01
+4929.0,MA,Massachusetts,1957/01
+5010.0,MA,Massachusetts,1958/01
+5117.0,MA,Massachusetts,1959/01
+5160.0,MA,Massachusetts,1960/01
+5219.0,MA,Massachusetts,1961/01
+5263.0,MA,Massachusetts,1962/01
+5344.0,MA,Massachusetts,1963/01
+5448.0,MA,Massachusetts,1964/01
+5502.0,MA,Massachusetts,1965/01
+5535.0,MA,Massachusetts,1966/01
+5594.0,MA,Massachusetts,1967/01
+5618.0,MA,Massachusetts,1968/01
+5650.0,MA,Massachusetts,1969/01
+5689.17,MA,Massachusetts,1970/01
+5737.58,MA,Massachusetts,1971/01
+5760.302,MA,Massachusetts,1972/01
+5781.172,MA,Massachusetts,1973/01
+5773.548,MA,Massachusetts,1974/01
+5757.756,MA,Massachusetts,1975/01
+5743.672,MA,Massachusetts,1976/01
+5738.199,MA,Massachusetts,1977/01
+5736.469,MA,Massachusetts,1978/01
+5738.404,MA,Massachusetts,1979/01
+5746.075,MA,Massachusetts,1980/01
+5768.685,MA,Massachusetts,1981/01
+5771.222,MA,Massachusetts,1982/01
+5799.407,MA,Massachusetts,1983/01
+5840.773,MA,Massachusetts,1984/01
+5880.733,MA,Massachusetts,1985/01
+5902.678,MA,Massachusetts,1986/01
+5935.204,MA,Massachusetts,1987/01
+5979.982,MA,Massachusetts,1988/01
+6015.478,MA,Massachusetts,1989/01
+6018.664,MA,Massachusetts,1990/01
+5998.652,MA,Massachusetts,1991/01
+5993.474,MA,Massachusetts,1992/01
+6010.884,MA,Massachusetts,1993/01
+6031.352,MA,Massachusetts,1994/01
+6062.335,MA,Massachusetts,1995/01
+6085.393,MA,Massachusetts,1996/01
+6115.476,MA,Massachusetts,1997/01
+6144.407,MA,Massachusetts,1998/01
+6175.169,MA,Massachusetts,1999/01
+6361.104,MA,Massachusetts,2000/01
+6397.634,MA,Massachusetts,2001/01
+6417.206,MA,Massachusetts,2002/01
+6422.565,MA,Massachusetts,2003/01
+6412.281,MA,Massachusetts,2004/01
+6403.29,MA,Massachusetts,2005/01
+6410.084,MA,Massachusetts,2006/01
+6431.559,MA,Massachusetts,2007/01
+6468.967,MA,Massachusetts,2008/01
+6517.613,MA,Massachusetts,2009/01
+6566.44,MA,Massachusetts,2010/01
+6614.218,MA,Massachusetts,2011/01
+6664.269,MA,Massachusetts,2012/01
+6715.158,MA,Massachusetts,2013/01
+6764.864,MA,Massachusetts,2014/01
+6797.484,MA,Massachusetts,2015/01
+6827.28,MA,Massachusetts,2016/01
+6863.56,MA,Massachusetts,2017/01
+6885.72,MA,Massachusetts,2018/01
+6894.883,MA,Massachusetts,2019/01
+6994.598,MA,Massachusetts,2020/01
+7000.474,MA,Massachusetts,2021/01
+7022.468,MA,Massachusetts,2022/01
+7066.568,MA,Massachusetts,2023/01
+7136.171,MA,Massachusetts,2024/01
+959.0,WV,West Virginia,1900/01
+972.0,WV,West Virginia,1901/01
+1000.0,WV,West Virginia,1902/01
+1037.0,WV,West Virginia,1903/01
+1064.0,WV,West Virginia,1904/01
+1094.0,WV,West Virginia,1905/01
+1122.0,WV,West Virginia,1906/01
+1149.0,WV,West Virginia,1907/01
+1174.0,WV,West Virginia,1908/01
+1203.0,WV,West Virginia,1909/01
+1231.0,WV,West Virginia,1910/01
+1266.0,WV,West Virginia,1911/01
+1291.0,WV,West Virginia,1912/01
+1317.0,WV,West Virginia,1913/01
+1362.0,WV,West Virginia,1914/01
+1387.0,WV,West Virginia,1915/01
+1414.0,WV,West Virginia,1916/01
+1439.0,WV,West Virginia,1917/01
+1438.0,WV,West Virginia,1918/01
+1464.0,WV,West Virginia,1919/01
+1470.0,WV,West Virginia,1920/01
+1485.0,WV,West Virginia,1921/01
+1498.0,WV,West Virginia,1922/01
+1526.0,WV,West Virginia,1923/01
+1577.0,WV,West Virginia,1924/01
+1593.0,WV,West Virginia,1925/01
+1623.0,WV,West Virginia,1926/01
+1671.0,WV,West Virginia,1927/01
+1696.0,WV,West Virginia,1928/01
+1717.0,WV,West Virginia,1929/01
+1733.0,WV,West Virginia,1930/01
+1740.0,WV,West Virginia,1931/01
+1747.0,WV,West Virginia,1932/01
+1752.0,WV,West Virginia,1933/01
+1771.0,WV,West Virginia,1934/01
+1794.0,WV,West Virginia,1935/01
+1808.0,WV,West Virginia,1936/01
+1813.0,WV,West Virginia,1937/01
+1828.0,WV,West Virginia,1938/01
+1868.0,WV,West Virginia,1939/01
+1907.0,WV,West Virginia,1940/01
+1885.0,WV,West Virginia,1941/01
+1831.0,WV,West Virginia,1942/01
+1741.0,WV,West Virginia,1943/01
+1706.0,WV,West Virginia,1944/01
+1708.0,WV,West Virginia,1945/01
+1826.0,WV,West Virginia,1946/01
+1883.0,WV,West Virginia,1947/01
+1899.0,WV,West Virginia,1948/01
+1930.0,WV,West Virginia,1949/01
+2006.0,WV,West Virginia,1950/01
+1984.0,WV,West Virginia,1951/01
+1957.0,WV,West Virginia,1952/01
+1929.0,WV,West Virginia,1953/01
+1905.0,WV,West Virginia,1954/01
+1880.0,WV,West Virginia,1955/01
+1857.0,WV,West Virginia,1956/01
+1843.0,WV,West Virginia,1957/01
+1845.0,WV,West Virginia,1958/01
+1855.0,WV,West Virginia,1959/01
+1853.0,WV,West Virginia,1960/01
+1828.0,WV,West Virginia,1961/01
+1809.0,WV,West Virginia,1962/01
+1796.0,WV,West Virginia,1963/01
+1797.0,WV,West Virginia,1964/01
+1786.0,WV,West Virginia,1965/01
+1775.0,WV,West Virginia,1966/01
+1769.0,WV,West Virginia,1967/01
+1763.0,WV,West Virginia,1968/01
+1746.0,WV,West Virginia,1969/01
+1744.237,WV,West Virginia,1970/01
+1770.657,WV,West Virginia,1971/01
+1797.648,WV,West Virginia,1972/01
+1806.36,WV,West Virginia,1973/01
+1815.447,WV,West Virginia,1974/01
+1842.25,WV,West Virginia,1975/01
+1879.503,WV,West Virginia,1976/01
+1908.088,WV,West Virginia,1977/01
+1923.395,WV,West Virginia,1978/01
+1942.146,WV,West Virginia,1979/01
+1951.349,WV,West Virginia,1980/01
+1954.124,WV,West Virginia,1981/01
+1949.604,WV,West Virginia,1982/01
+1945.061,WV,West Virginia,1983/01
+1927.697,WV,West Virginia,1984/01
+1906.831,WV,West Virginia,1985/01
+1882.35,WV,West Virginia,1986/01
+1857.585,WV,West Virginia,1987/01
+1830.215,WV,West Virginia,1988/01
+1806.568,WV,West Virginia,1989/01
+1792.481,WV,West Virginia,1990/01
+1798.212,WV,West Virginia,1991/01
+1805.462,WV,West Virginia,1992/01
+1816.179,WV,West Virginia,1993/01
+1818.49,WV,West Virginia,1994/01
+1820.56,WV,West Virginia,1995/01
+1818.983,WV,West Virginia,1996/01
+1815.588,WV,West Virginia,1997/01
+1811.688,WV,West Virginia,1998/01
+1806.928,WV,West Virginia,1999/01
+1807.021,WV,West Virginia,2000/01
+1801.481,WV,West Virginia,2001/01
+1805.414,WV,West Virginia,2002/01
+1812.295,WV,West Virginia,2003/01
+1816.438,WV,West Virginia,2004/01
+1820.492,WV,West Virginia,2005/01
+1827.912,WV,West Virginia,2006/01
+1834.052,WV,West Virginia,2007/01
+1840.31,WV,West Virginia,2008/01
+1847.775,WV,West Virginia,2009/01
+1854.265,WV,West Virginia,2010/01
+1856.606,WV,West Virginia,2011/01
+1857.446,WV,West Virginia,2012/01
+1854.768,WV,West Virginia,2013/01
+1850.569,WV,West Virginia,2014/01
+1843.332,WV,West Virginia,2015/01
+1832.435,WV,West Virginia,2016/01
+1818.683,WV,West Virginia,2017/01
+1805.953,WV,West Virginia,2018/01
+1795.263,WV,West Virginia,2019/01
+1791.646,WV,West Virginia,2020/01
+1785.618,WV,West Virginia,2021/01
+1774.122,WV,West Virginia,2022/01
+1770.495,WV,West Virginia,2023/01
+1769.979,WV,West Virginia,2024/01
+910.0,CT,Connecticut,1900/01
+931.0,CT,Connecticut,1901/01
+952.0,CT,Connecticut,1902/01
+972.0,CT,Connecticut,1903/01
+987.0,CT,Connecticut,1904/01
+1010.0,CT,Connecticut,1905/01
+1033.0,CT,Connecticut,1906/01
+1057.0,CT,Connecticut,1907/01
+1077.0,CT,Connecticut,1908/01
+1097.0,CT,Connecticut,1909/01
+1122.0,CT,Connecticut,1910/01
+1149.0,CT,Connecticut,1911/01
+1176.0,CT,Connecticut,1912/01
+1208.0,CT,Connecticut,1913/01
+1233.0,CT,Connecticut,1914/01
+1258.0,CT,Connecticut,1915/01
+1294.0,CT,Connecticut,1916/01
+1327.0,CT,Connecticut,1917/01
+1329.0,CT,Connecticut,1918/01
+1359.0,CT,Connecticut,1919/01
+1391.0,CT,Connecticut,1920/01
+1415.0,CT,Connecticut,1921/01
+1431.0,CT,Connecticut,1922/01
+1455.0,CT,Connecticut,1923/01
+1481.0,CT,Connecticut,1924/01
+1506.0,CT,Connecticut,1925/01
+1531.0,CT,Connecticut,1926/01
+1557.0,CT,Connecticut,1927/01
+1577.0,CT,Connecticut,1928/01
+1594.0,CT,Connecticut,1929/01
+1613.0,CT,Connecticut,1930/01
+1628.0,CT,Connecticut,1931/01
+1637.0,CT,Connecticut,1932/01
+1642.0,CT,Connecticut,1933/01
+1650.0,CT,Connecticut,1934/01
+1666.0,CT,Connecticut,1935/01
+1672.0,CT,Connecticut,1936/01
+1678.0,CT,Connecticut,1937/01
+1684.0,CT,Connecticut,1938/01
+1696.0,CT,Connecticut,1939/01
+1708.0,CT,Connecticut,1940/01
+1746.0,CT,Connecticut,1941/01
+1792.0,CT,Connecticut,1942/01
+1792.0,CT,Connecticut,1943/01
+1778.0,CT,Connecticut,1944/01
+1769.0,CT,Connecticut,1945/01
+1906.0,CT,Connecticut,1946/01
+1967.0,CT,Connecticut,1947/01
+2014.0,CT,Connecticut,1948/01
+2032.0,CT,Connecticut,1949/01
+2016.0,CT,Connecticut,1950/01
+2028.0,CT,Connecticut,1951/01
+2081.0,CT,Connecticut,1952/01
+2168.0,CT,Connecticut,1953/01
+2249.0,CT,Connecticut,1954/01
+2300.0,CT,Connecticut,1955/01
+2316.0,CT,Connecticut,1956/01
+2359.0,CT,Connecticut,1957/01
+2446.0,CT,Connecticut,1958/01
+2523.0,CT,Connecticut,1959/01
+2544.0,CT,Connecticut,1960/01
+2586.0,CT,Connecticut,1961/01
+2647.0,CT,Connecticut,1962/01
+2727.0,CT,Connecticut,1963/01
+2798.0,CT,Connecticut,1964/01
+2857.0,CT,Connecticut,1965/01
+2903.0,CT,Connecticut,1966/01
+2935.0,CT,Connecticut,1967/01
+2964.0,CT,Connecticut,1968/01
+3000.0,CT,Connecticut,1969/01
+3032.217,CT,Connecticut,1970/01
+3060.938,CT,Connecticut,1971/01
+3068.699,CT,Connecticut,1972/01
+3067.814,CT,Connecticut,1973/01
+3074.047,CT,Connecticut,1974/01
+3082.5,CT,Connecticut,1975/01
+3083.335,CT,Connecticut,1976/01
+3085.722,CT,Connecticut,1977/01
+3091.627,CT,Connecticut,1978/01
+3095.917,CT,Connecticut,1979/01
+3113.174,CT,Connecticut,1980/01
+3128.836,CT,Connecticut,1981/01
+3139.013,CT,Connecticut,1982/01
+3162.354,CT,Connecticut,1983/01
+3180.014,CT,Connecticut,1984/01
+3201.131,CT,Connecticut,1985/01
+3223.74,CT,Connecticut,1986/01
+3247.291,CT,Connecticut,1987/01
+3271.953,CT,Connecticut,1988/01
+3283.403,CT,Connecticut,1989/01
+3289.056,CT,Connecticut,1990/01
+3288.64,CT,Connecticut,1991/01
+3274.997,CT,Connecticut,1992/01
+3272.325,CT,Connecticut,1993/01
+3268.346,CT,Connecticut,1994/01
+3265.293,CT,Connecticut,1995/01
+3267.03,CT,Connecticut,1996/01
+3268.514,CT,Connecticut,1997/01
+3272.563,CT,Connecticut,1998/01
+3282.031,CT,Connecticut,1999/01
+3411.777,CT,Connecticut,2000/01
+3432.835,CT,Connecticut,2001/01
+3458.749,CT,Connecticut,2002/01
+3484.336,CT,Connecticut,2003/01
+3496.094,CT,Connecticut,2004/01
+3506.956,CT,Connecticut,2005/01
+3517.46,CT,Connecticut,2006/01
+3527.27,CT,Connecticut,2007/01
+3545.579,CT,Connecticut,2008/01
+3561.807,CT,Connecticut,2009/01
+3579.173,CT,Connecticut,2010/01
+3588.632,CT,Connecticut,2011/01
+3595.211,CT,Connecticut,2012/01
+3595.792,CT,Connecticut,2013/01
+3595.697,CT,Connecticut,2014/01
+3588.561,CT,Connecticut,2015/01
+3579.83,CT,Connecticut,2016/01
+3575.324,CT,Connecticut,2017/01
+3574.561,CT,Connecticut,2018/01
+3566.022,CT,Connecticut,2019/01
+3579.918,CT,Connecticut,2020/01
+3606.607,CT,Connecticut,2021/01
+3617.925,CT,Connecticut,2022/01
+3643.023,CT,Connecticut,2023/01
+3675.069,CT,Connecticut,2024/01
+344.0,VT,Vermont,1900/01
+347.0,VT,Vermont,1901/01
+349.0,VT,Vermont,1902/01
+350.0,VT,Vermont,1903/01
+353.0,VT,Vermont,1904/01
+354.0,VT,Vermont,1905/01
+355.0,VT,Vermont,1906/01
+355.0,VT,Vermont,1907/01
+354.0,VT,Vermont,1908/01
+356.0,VT,Vermont,1909/01
+357.0,VT,Vermont,1910/01
+358.0,VT,Vermont,1911/01
+359.0,VT,Vermont,1912/01
+361.0,VT,Vermont,1913/01
+362.0,VT,Vermont,1914/01
+360.0,VT,Vermont,1915/01
+360.0,VT,Vermont,1916/01
+372.0,VT,Vermont,1917/01
+352.0,VT,Vermont,1918/01
+352.0,VT,Vermont,1919/01
+353.0,VT,Vermont,1920/01
+355.0,VT,Vermont,1921/01
+354.0,VT,Vermont,1922/01
+354.0,VT,Vermont,1923/01
+355.0,VT,Vermont,1924/01
+355.0,VT,Vermont,1925/01
+356.0,VT,Vermont,1926/01
+357.0,VT,Vermont,1927/01
+358.0,VT,Vermont,1928/01
+359.0,VT,Vermont,1929/01
+360.0,VT,Vermont,1930/01
+359.0,VT,Vermont,1931/01
+358.0,VT,Vermont,1932/01
+357.0,VT,Vermont,1933/01
+357.0,VT,Vermont,1934/01
+357.0,VT,Vermont,1935/01
+357.0,VT,Vermont,1936/01
+356.0,VT,Vermont,1937/01
+356.0,VT,Vermont,1938/01
+358.0,VT,Vermont,1939/01
+363.0,VT,Vermont,1940/01
+348.0,VT,Vermont,1941/01
+343.0,VT,Vermont,1942/01
+327.0,VT,Vermont,1943/01
+314.0,VT,Vermont,1944/01
+315.0,VT,Vermont,1945/01
+342.0,VT,Vermont,1946/01
+354.0,VT,Vermont,1947/01
+359.0,VT,Vermont,1948/01
+369.0,VT,Vermont,1949/01
+379.0,VT,Vermont,1950/01
+378.0,VT,Vermont,1951/01
+375.0,VT,Vermont,1952/01
+379.0,VT,Vermont,1953/01
+377.0,VT,Vermont,1954/01
+375.0,VT,Vermont,1955/01
+377.0,VT,Vermont,1956/01
+376.0,VT,Vermont,1957/01
+380.0,VT,Vermont,1958/01
+387.0,VT,Vermont,1959/01
+389.0,VT,Vermont,1960/01
+390.0,VT,Vermont,1961/01
+393.0,VT,Vermont,1962/01
+397.0,VT,Vermont,1963/01
+399.0,VT,Vermont,1964/01
+404.0,VT,Vermont,1965/01
+413.0,VT,Vermont,1966/01
+423.0,VT,Vermont,1967/01
+430.0,VT,Vermont,1968/01
+437.0,VT,Vermont,1969/01
+444.732,VT,Vermont,1970/01
+454.318,VT,Vermont,1971/01
+463.143,VT,Vermont,1972/01
+468.43,VT,Vermont,1973/01
+473.002,VT,Vermont,1974/01
+479.713,VT,Vermont,1975/01
+484.928,VT,Vermont,1976/01
+491.931,VT,Vermont,1977/01
+498.109,VT,Vermont,1978/01
+505.372,VT,Vermont,1979/01
+512.524,VT,Vermont,1980/01
+515.594,VT,Vermont,1981/01
+519.109,VT,Vermont,1982/01
+523.302,VT,Vermont,1983/01
+526.66,VT,Vermont,1984/01
+530.035,VT,Vermont,1985/01
+534.066,VT,Vermont,1986/01
+540.267,VT,Vermont,1987/01
+549.763,VT,Vermont,1988/01
+557.707,VT,Vermont,1989/01
+564.526,VT,Vermont,1990/01
+567.141,VT,Vermont,1991/01
+570.115,VT,Vermont,1992/01
+574.004,VT,Vermont,1993/01
+578.9,VT,Vermont,1994/01
+582.827,VT,Vermont,1995/01
+586.352,VT,Vermont,1996/01
+588.665,VT,Vermont,1997/01
+590.579,VT,Vermont,1998/01
+593.74,VT,Vermont,1999/01
+609.618,VT,Vermont,2000/01
+612.223,VT,Vermont,2001/01
+615.442,VT,Vermont,2002/01
+617.858,VT,Vermont,2003/01
+619.92,VT,Vermont,2004/01
+621.215,VT,Vermont,2005/01
+622.892,VT,Vermont,2006/01
+623.481,VT,Vermont,2007/01
+624.151,VT,Vermont,2008/01
+624.817,VT,Vermont,2009/01
+625.886,VT,Vermont,2010/01
+627.197,VT,Vermont,2011/01
+626.361,VT,Vermont,2012/01
+626.603,VT,Vermont,2013/01
+625.693,VT,Vermont,2014/01
+625.81,VT,Vermont,2015/01
+624.366,VT,Vermont,2016/01
+625.132,VT,Vermont,2017/01
+624.802,VT,Vermont,2018/01
+624.046,VT,Vermont,2019/01
+642.977,VT,Vermont,2020/01
+647.21,VT,Vermont,2021/01
+648.142,VT,Vermont,2022/01
+648.708,VT,Vermont,2023/01
+648.493,VT,Vermont,2024/01
+2423.0,MI,Michigan,1900/01
+2450.0,MI,Michigan,1901/01
+2477.0,MI,Michigan,1902/01
+2505.0,MI,Michigan,1903/01
+2534.0,MI,Michigan,1904/01
+2579.0,MI,Michigan,1905/01
+2626.0,MI,Michigan,1906/01
+2693.0,MI,Michigan,1907/01
+2722.0,MI,Michigan,1908/01
+2771.0,MI,Michigan,1909/01
+2832.0,MI,Michigan,1910/01
+2916.0,MI,Michigan,1911/01
+2997.0,MI,Michigan,1912/01
+3101.0,MI,Michigan,1913/01
+3183.0,MI,Michigan,1914/01
+3263.0,MI,Michigan,1915/01
+3353.0,MI,Michigan,1916/01
+3451.0,MI,Michigan,1917/01
+3499.0,MI,Michigan,1918/01
+3591.0,MI,Michigan,1919/01
+3723.0,MI,Michigan,1920/01
+3872.0,MI,Michigan,1921/01
+3942.0,MI,Michigan,1922/01
+4063.0,MI,Michigan,1923/01
+4214.0,MI,Michigan,1924/01
+4331.0,MI,Michigan,1925/01
+4451.0,MI,Michigan,1926/01
+4589.0,MI,Michigan,1927/01
+4665.0,MI,Michigan,1928/01
+4795.0,MI,Michigan,1929/01
+4834.0,MI,Michigan,1930/01
+4798.0,MI,Michigan,1931/01
+4780.0,MI,Michigan,1932/01
+4780.0,MI,Michigan,1933/01
+4798.0,MI,Michigan,1934/01
+4838.0,MI,Michigan,1935/01
+4889.0,MI,Michigan,1936/01
+4968.0,MI,Michigan,1937/01
+5056.0,MI,Michigan,1938/01
+5156.0,MI,Michigan,1939/01
+5315.0,MI,Michigan,1940/01
+5472.0,MI,Michigan,1941/01
+5549.0,MI,Michigan,1942/01
+5405.0,MI,Michigan,1943/01
+5467.0,MI,Michigan,1944/01
+5475.0,MI,Michigan,1945/01
+5874.0,MI,Michigan,1946/01
+6076.0,MI,Michigan,1947/01
+6213.0,MI,Michigan,1948/01
+6332.0,MI,Michigan,1949/01
+6407.0,MI,Michigan,1950/01
+6497.0,MI,Michigan,1951/01
+6650.0,MI,Michigan,1952/01
+6822.0,MI,Michigan,1953/01
+7066.0,MI,Michigan,1954/01
+7285.0,MI,Michigan,1955/01
+7467.0,MI,Michigan,1956/01
+7569.0,MI,Michigan,1957/01
+7667.0,MI,Michigan,1958/01
+7767.0,MI,Michigan,1959/01
+7834.0,MI,Michigan,1960/01
+7893.0,MI,Michigan,1961/01
+7933.0,MI,Michigan,1962/01
+8058.0,MI,Michigan,1963/01
+8187.0,MI,Michigan,1964/01
+8357.0,MI,Michigan,1965/01
+8512.0,MI,Michigan,1966/01
+8630.0,MI,Michigan,1967/01
+8696.0,MI,Michigan,1968/01
+8781.0,MI,Michigan,1969/01
+8881.826,MI,Michigan,1970/01
+8974.186,MI,Michigan,1971/01
+9028.944,MI,Michigan,1972/01
+9077.956,MI,Michigan,1973/01
+9117.507,MI,Michigan,1974/01
+9117.668,MI,Michigan,1975/01
+9129.205,MI,Michigan,1976/01
+9171.11,MI,Michigan,1977/01
+9217.761,MI,Michigan,1978/01
+9266.268,MI,Michigan,1979/01
+9255.553,MI,Michigan,1980/01
+9209.287,MI,Michigan,1981/01
+9115.198,MI,Michigan,1982/01
+9047.754,MI,Michigan,1983/01
+9049.452,MI,Michigan,1984/01
+9076.293,MI,Michigan,1985/01
+9127.775,MI,Michigan,1986/01
+9187.481,MI,Michigan,1987/01
+9217.998,MI,Michigan,1988/01
+9253.295,MI,Michigan,1989/01
+9310.462,MI,Michigan,1990/01
+9395.022,MI,Michigan,1991/01
+9470.323,MI,Michigan,1992/01
+9529.24,MI,Michigan,1993/01
+9584.481,MI,Michigan,1994/01
+9659.871,MI,Michigan,1995/01
+9739.184,MI,Michigan,1996/01
+9785.45,MI,Michigan,1997/01
+9820.231,MI,Michigan,1998/01
+9863.775,MI,Michigan,1999/01
+9952.45,MI,Michigan,2000/01
+9991.12,MI,Michigan,2001/01
+10015.71,MI,Michigan,2002/01
+10041.152,MI,Michigan,2003/01
+10055.315,MI,Michigan,2004/01
+10051.137,MI,Michigan,2005/01
+10036.081,MI,Michigan,2006/01
+10001.284,MI,Michigan,2007/01
+9946.889,MI,Michigan,2008/01
+9901.591,MI,Michigan,2009/01
+9877.597,MI,Michigan,2010/01
+9883.053,MI,Michigan,2011/01
+9898.289,MI,Michigan,2012/01
+9914.802,MI,Michigan,2013/01
+9932.033,MI,Michigan,2014/01
+9934.483,MI,Michigan,2015/01
+9954.117,MI,Michigan,2016/01
+9976.752,MI,Michigan,2017/01
+9987.286,MI,Michigan,2018/01
+9984.795,MI,Michigan,2019/01
+10072.703,MI,Michigan,2020/01
+10041.351,MI,Michigan,2021/01
+10050.877,MI,Michigan,2022/01
+10083.356,MI,Michigan,2023/01
+10140.459,MI,Michigan,2024/01
+695.0,ME,Maine,1900/01
+699.0,ME,Maine,1901/01
+703.0,ME,Maine,1902/01
+709.0,ME,Maine,1903/01
+719.0,ME,Maine,1904/01
+723.0,ME,Maine,1905/01
+729.0,ME,Maine,1906/01
+731.0,ME,Maine,1907/01
+735.0,ME,Maine,1908/01
+740.0,ME,Maine,1909/01
+745.0,ME,Maine,1910/01
+751.0,ME,Maine,1911/01
+753.0,ME,Maine,1912/01
+763.0,ME,Maine,1913/01
+772.0,ME,Maine,1914/01
+774.0,ME,Maine,1915/01
+775.0,ME,Maine,1916/01
+777.0,ME,Maine,1917/01
+760.0,ME,Maine,1918/01
+762.0,ME,Maine,1919/01
+771.0,ME,Maine,1920/01
+775.0,ME,Maine,1921/01
+778.0,ME,Maine,1922/01
+781.0,ME,Maine,1923/01
+788.0,ME,Maine,1924/01
+792.0,ME,Maine,1925/01
+793.0,ME,Maine,1926/01
+796.0,ME,Maine,1927/01
+797.0,ME,Maine,1928/01
+797.0,ME,Maine,1929/01
+800.0,ME,Maine,1930/01
+807.0,ME,Maine,1931/01
+815.0,ME,Maine,1932/01
+821.0,ME,Maine,1933/01
+829.0,ME,Maine,1934/01
+836.0,ME,Maine,1935/01
+840.0,ME,Maine,1936/01
+842.0,ME,Maine,1937/01
+843.0,ME,Maine,1938/01
+846.0,ME,Maine,1939/01
+849.0,ME,Maine,1940/01
+852.0,ME,Maine,1941/01
+839.0,ME,Maine,1942/01
+806.0,ME,Maine,1943/01
+801.0,ME,Maine,1944/01
+800.0,ME,Maine,1945/01
+832.0,ME,Maine,1946/01
+854.0,ME,Maine,1947/01
+878.0,ME,Maine,1948/01
+903.0,ME,Maine,1949/01
+917.0,ME,Maine,1950/01
+916.0,ME,Maine,1951/01
+915.0,ME,Maine,1952/01
+913.0,ME,Maine,1953/01
+927.0,ME,Maine,1954/01
+934.0,ME,Maine,1955/01
+938.0,ME,Maine,1956/01
+943.0,ME,Maine,1957/01
+944.0,ME,Maine,1958/01
+957.0,ME,Maine,1959/01
+975.0,ME,Maine,1960/01
+995.0,ME,Maine,1961/01
+994.0,ME,Maine,1962/01
+993.0,ME,Maine,1963/01
+993.0,ME,Maine,1964/01
+997.0,ME,Maine,1965/01
+999.0,ME,Maine,1966/01
+1004.0,ME,Maine,1967/01
+994.0,ME,Maine,1968/01
+992.0,ME,Maine,1969/01
+993.722,ME,Maine,1970/01
+1015.39,ME,Maine,1971/01
+1034.292,ME,Maine,1972/01
+1045.655,ME,Maine,1973/01
+1059.04,ME,Maine,1974/01
+1071.995,ME,Maine,1975/01
+1088.412,ME,Maine,1976/01
+1103.578,ME,Maine,1977/01
+1113.566,ME,Maine,1978/01
+1122.563,ME,Maine,1979/01
+1126.86,ME,Maine,1980/01
+1133.033,ME,Maine,1981/01
+1136.684,ME,Maine,1982/01
+1144.772,ME,Maine,1983/01
+1155.635,ME,Maine,1984/01
+1162.936,ME,Maine,1985/01
+1170.126,ME,Maine,1986/01
+1184.574,ME,Maine,1987/01
+1203.84,ME,Maine,1988/01
+1219.961,ME,Maine,1989/01
+1231.296,ME,Maine,1990/01
+1235.439,ME,Maine,1991/01
+1235.748,ME,Maine,1992/01
+1238.256,ME,Maine,1993/01
+1237.687,ME,Maine,1994/01
+1237.438,ME,Maine,1995/01
+1241.436,ME,Maine,1996/01
+1245.215,ME,Maine,1997/01
+1247.554,ME,Maine,1998/01
+1253.04,ME,Maine,1999/01
+1277.072,ME,Maine,2000/01
+1285.692,ME,Maine,2001/01
+1295.96,ME,Maine,2002/01
+1306.513,ME,Maine,2003/01
+1313.688,ME,Maine,2004/01
+1318.787,ME,Maine,2005/01
+1323.619,ME,Maine,2006/01
+1327.04,ME,Maine,2007/01
+1330.509,ME,Maine,2008/01
+1329.59,ME,Maine,2009/01
+1327.651,ME,Maine,2010/01
+1328.473,ME,Maine,2011/01
+1328.094,ME,Maine,2012/01
+1328.543,ME,Maine,2013/01
+1331.217,ME,Maine,2014/01
+1329.098,ME,Maine,2015/01
+1332.348,ME,Maine,2016/01
+1335.743,ME,Maine,2017/01
+1340.123,ME,Maine,2018/01
+1345.77,ME,Maine,2019/01
+1364.571,ME,Maine,2020/01
+1378.931,ME,Maine,2021/01
+1390.922,ME,Maine,2022/01
+1399.646,ME,Maine,2023/01
+1405.012,ME,Maine,2024/01
+1897.0,NC,North Carolina,1900/01
+1926.0,NC,North Carolina,1901/01
+1956.0,NC,North Carolina,1902/01
+1986.0,NC,North Carolina,1903/01
+2017.0,NC,North Carolina,1904/01
+2051.0,NC,North Carolina,1905/01
+2077.0,NC,North Carolina,1906/01
+2105.0,NC,North Carolina,1907/01
+2142.0,NC,North Carolina,1908/01
+2174.0,NC,North Carolina,1909/01
+2221.0,NC,North Carolina,1910/01
+2276.0,NC,North Carolina,1911/01
+2313.0,NC,North Carolina,1912/01
+2362.0,NC,North Carolina,1913/01
+2421.0,NC,North Carolina,1914/01
+2473.0,NC,North Carolina,1915/01
+2513.0,NC,North Carolina,1916/01
+2546.0,NC,North Carolina,1917/01
+2522.0,NC,North Carolina,1918/01
+2535.0,NC,North Carolina,1919/01
+2588.0,NC,North Carolina,1920/01
+2651.0,NC,North Carolina,1921/01
+2700.0,NC,North Carolina,1922/01
+2761.0,NC,North Carolina,1923/01
+2830.0,NC,North Carolina,1924/01
+2895.0,NC,North Carolina,1925/01
+2959.0,NC,North Carolina,1926/01
+3027.0,NC,North Carolina,1927/01
+3082.0,NC,North Carolina,1928/01
+3133.0,NC,North Carolina,1929/01
+3167.0,NC,North Carolina,1930/01
+3184.0,NC,North Carolina,1931/01
+3227.0,NC,North Carolina,1932/01
+3268.0,NC,North Carolina,1933/01
+3304.0,NC,North Carolina,1934/01
+3323.0,NC,North Carolina,1935/01
+3346.0,NC,North Carolina,1936/01
+3385.0,NC,North Carolina,1937/01
+3440.0,NC,North Carolina,1938/01
+3514.0,NC,North Carolina,1939/01
+3574.0,NC,North Carolina,1940/01
+3589.0,NC,North Carolina,1941/01
+3569.0,NC,North Carolina,1942/01
+3654.0,NC,North Carolina,1943/01
+3560.0,NC,North Carolina,1944/01
+3533.0,NC,North Carolina,1945/01
+3706.0,NC,North Carolina,1946/01
+3769.0,NC,North Carolina,1947/01
+3837.0,NC,North Carolina,1948/01
+3911.0,NC,North Carolina,1949/01
+4068.0,NC,North Carolina,1950/01
+4120.0,NC,North Carolina,1951/01
+4109.0,NC,North Carolina,1952/01
+4120.0,NC,North Carolina,1953/01
+4131.0,NC,North Carolina,1954/01
+4242.0,NC,North Carolina,1955/01
+4309.0,NC,North Carolina,1956/01
+4368.0,NC,North Carolina,1957/01
+4376.0,NC,North Carolina,1958/01
+4458.0,NC,North Carolina,1959/01
+4573.0,NC,North Carolina,1960/01
+4663.0,NC,North Carolina,1961/01
+4707.0,NC,North Carolina,1962/01
+4742.0,NC,North Carolina,1963/01
+4802.0,NC,North Carolina,1964/01
+4863.0,NC,North Carolina,1965/01
+4896.0,NC,North Carolina,1966/01
+4952.0,NC,North Carolina,1967/01
+5004.0,NC,North Carolina,1968/01
+5031.0,NC,North Carolina,1969/01
+5084.411,NC,North Carolina,1970/01
+5203.531,NC,North Carolina,1971/01
+5301.15,NC,North Carolina,1972/01
+5389.852,NC,North Carolina,1973/01
+5470.911,NC,North Carolina,1974/01
+5547.188,NC,North Carolina,1975/01
+5607.964,NC,North Carolina,1976/01
+5685.607,NC,North Carolina,1977/01
+5759.492,NC,North Carolina,1978/01
+5823.491,NC,North Carolina,1979/01
+5898.98,NC,North Carolina,1980/01
+5956.653,NC,North Carolina,1981/01
+6019.101,NC,North Carolina,1982/01
+6077.056,NC,North Carolina,1983/01
+6164.006,NC,North Carolina,1984/01
+6253.954,NC,North Carolina,1985/01
+6321.578,NC,North Carolina,1986/01
+6403.7,NC,North Carolina,1987/01
+6480.594,NC,North Carolina,1988/01
+6565.459,NC,North Carolina,1989/01
+6656.987,NC,North Carolina,1990/01
+6748.135,NC,North Carolina,1991/01
+6831.85,NC,North Carolina,1992/01
+6947.412,NC,North Carolina,1993/01
+7060.959,NC,North Carolina,1994/01
+7185.403,NC,North Carolina,1995/01
+7307.658,NC,North Carolina,1996/01
+7428.672,NC,North Carolina,1997/01
+7545.828,NC,North Carolina,1998/01
+7650.789,NC,North Carolina,1999/01
+8081.614,NC,North Carolina,2000/01
+8210.122,NC,North Carolina,2001/01
+8326.201,NC,North Carolina,2002/01
+8422.501,NC,North Carolina,2003/01
+8553.152,NC,North Carolina,2004/01
+8705.407,NC,North Carolina,2005/01
+8917.27,NC,North Carolina,2006/01
+9118.037,NC,North Carolina,2007/01
+9309.449,NC,North Carolina,2008/01
+9449.566,NC,North Carolina,2009/01
+9574.586,NC,North Carolina,2010/01
+9658.913,NC,North Carolina,2011/01
+9751.81,NC,North Carolina,2012/01
+9846.717,NC,North Carolina,2013/01
+9937.295,NC,North Carolina,2014/01
+10037.218,NC,North Carolina,2015/01
+10161.802,NC,North Carolina,2016/01
+10275.758,NC,North Carolina,2017/01
+10391.358,NC,North Carolina,2018/01
+10501.384,NC,North Carolina,2019/01
+10449.652,NC,North Carolina,2020/01
+10564.32,NC,North Carolina,2021/01
+10710.793,NC,North Carolina,2022/01
+10881.189,NC,North Carolina,2023/01
+11046.024,NC,North Carolina,2024/01
+2518.0,IN,Indiana,1900/01
+2541.0,IN,Indiana,1901/01
+2567.0,IN,Indiana,1902/01
+2594.0,IN,Indiana,1903/01
+2614.0,IN,Indiana,1904/01
+2635.0,IN,Indiana,1905/01
+2663.0,IN,Indiana,1906/01
+2679.0,IN,Indiana,1907/01
+2677.0,IN,Indiana,1908/01
+2678.0,IN,Indiana,1909/01
+2713.0,IN,Indiana,1910/01
+2751.0,IN,Indiana,1911/01
+2785.0,IN,Indiana,1912/01
+2824.0,IN,Indiana,1913/01
+2857.0,IN,Indiana,1914/01
+2873.0,IN,Indiana,1915/01
+2897.0,IN,Indiana,1916/01
+2910.0,IN,Indiana,1917/01
+2880.0,IN,Indiana,1918/01
+2906.0,IN,Indiana,1919/01
+2947.0,IN,Indiana,1920/01
+2976.0,IN,Indiana,1921/01
+2965.0,IN,Indiana,1922/01
+3042.0,IN,Indiana,1923/01
+3086.0,IN,Indiana,1924/01
+3119.0,IN,Indiana,1925/01
+3148.0,IN,Indiana,1926/01
+3191.0,IN,Indiana,1927/01
+3212.0,IN,Indiana,1928/01
+3226.0,IN,Indiana,1929/01
+3242.0,IN,Indiana,1930/01
+3257.0,IN,Indiana,1931/01
+3281.0,IN,Indiana,1932/01
+3304.0,IN,Indiana,1933/01
+3319.0,IN,Indiana,1934/01
+3332.0,IN,Indiana,1935/01
+3348.0,IN,Indiana,1936/01
+3374.0,IN,Indiana,1937/01
+3386.0,IN,Indiana,1938/01
+3403.0,IN,Indiana,1939/01
+3433.0,IN,Indiana,1940/01
+3483.0,IN,Indiana,1941/01
+3507.0,IN,Indiana,1942/01
+3449.0,IN,Indiana,1943/01
+3440.0,IN,Indiana,1944/01
+3427.0,IN,Indiana,1945/01
+3702.0,IN,Indiana,1946/01
+3779.0,IN,Indiana,1947/01
+3877.0,IN,Indiana,1948/01
+3958.0,IN,Indiana,1949/01
+3967.0,IN,Indiana,1950/01
+4096.0,IN,Indiana,1951/01
+4148.0,IN,Indiana,1952/01
+4182.0,IN,Indiana,1953/01
+4264.0,IN,Indiana,1954/01
+4363.0,IN,Indiana,1955/01
+4458.0,IN,Indiana,1956/01
+4529.0,IN,Indiana,1957/01
+4583.0,IN,Indiana,1958/01
+4613.0,IN,Indiana,1959/01
+4674.0,IN,Indiana,1960/01
+4730.0,IN,Indiana,1961/01
+4736.0,IN,Indiana,1962/01
+4799.0,IN,Indiana,1963/01
+4856.0,IN,Indiana,1964/01
+4922.0,IN,Indiana,1965/01
+4999.0,IN,Indiana,1966/01
+5053.0,IN,Indiana,1967/01
+5093.0,IN,Indiana,1968/01
+5143.0,IN,Indiana,1969/01
+5195.392,IN,Indiana,1970/01
+5253.396,IN,Indiana,1971/01
+5302.435,IN,Indiana,1972/01
+5338.277,IN,Indiana,1973/01
+5361.89,IN,Indiana,1974/01
+5365.766,IN,Indiana,1975/01
+5389.088,IN,Indiana,1976/01
+5425.638,IN,Indiana,1977/01
+5470.214,IN,Indiana,1978/01
+5501.174,IN,Indiana,1979/01
+5490.721,IN,Indiana,1980/01
+5480.435,IN,Indiana,1981/01
+5467.922,IN,Indiana,1982/01
+5450.395,IN,Indiana,1983/01
+5458.322,IN,Indiana,1984/01
+5459.211,IN,Indiana,1985/01
+5454.108,IN,Indiana,1986/01
+5473.012,IN,Indiana,1987/01
+5491.735,IN,Indiana,1988/01
+5523.693,IN,Indiana,1989/01
+5555.097,IN,Indiana,1990/01
+5602.062,IN,Indiana,1991/01
+5648.649,IN,Indiana,1992/01
+5701.965,IN,Indiana,1993/01
+5745.626,IN,Indiana,1994/01
+5791.819,IN,Indiana,1995/01
+5834.908,IN,Indiana,1996/01
+5872.37,IN,Indiana,1997/01
+5907.617,IN,Indiana,1998/01
+5942.901,IN,Indiana,1999/01
+6091.866,IN,Indiana,2000/01
+6127.76,IN,Indiana,2001/01
+6155.967,IN,Indiana,2002/01
+6196.638,IN,Indiana,2003/01
+6233.007,IN,Indiana,2004/01
+6278.616,IN,Indiana,2005/01
+6332.669,IN,Indiana,2006/01
+6379.599,IN,Indiana,2007/01
+6424.806,IN,Indiana,2008/01
+6459.325,IN,Indiana,2009/01
+6490.555,IN,Indiana,2010/01
+6517.25,IN,Indiana,2011/01
+6538.989,IN,Indiana,2012/01
+6570.575,IN,Indiana,2013/01
+6596.019,IN,Indiana,2014/01
+6611.442,IN,Indiana,2015/01
+6637.898,IN,Indiana,2016/01
+6662.068,IN,Indiana,2017/01
+6698.481,IN,Indiana,2018/01
+6731.01,IN,Indiana,2019/01
+6790.497,IN,Indiana,2020/01
+6815.907,IN,Indiana,2021/01
+6844.545,IN,Indiana,2022/01
+6880.131,IN,Indiana,2023/01
+6924.275,IN,Indiana,2024/01
+185.0,DE,Delaware,1900/01
+187.0,DE,Delaware,1901/01
+188.0,DE,Delaware,1902/01
+190.0,DE,Delaware,1903/01
+192.0,DE,Delaware,1904/01
+194.0,DE,Delaware,1905/01
+196.0,DE,Delaware,1906/01
+197.0,DE,Delaware,1907/01
+199.0,DE,Delaware,1908/01
+201.0,DE,Delaware,1909/01
+203.0,DE,Delaware,1910/01
+207.0,DE,Delaware,1911/01
+209.0,DE,Delaware,1912/01
+213.0,DE,Delaware,1913/01
+216.0,DE,Delaware,1914/01
+217.0,DE,Delaware,1915/01
+219.0,DE,Delaware,1916/01
+222.0,DE,Delaware,1917/01
+220.0,DE,Delaware,1918/01
+221.0,DE,Delaware,1919/01
+219.0,DE,Delaware,1920/01
+216.0,DE,Delaware,1921/01
+214.0,DE,Delaware,1922/01
+215.0,DE,Delaware,1923/01
+219.0,DE,Delaware,1924/01
+222.0,DE,Delaware,1925/01
+225.0,DE,Delaware,1926/01
+229.0,DE,Delaware,1927/01
+233.0,DE,Delaware,1928/01
+236.0,DE,Delaware,1929/01
+239.0,DE,Delaware,1930/01
+242.0,DE,Delaware,1931/01
+245.0,DE,Delaware,1932/01
+248.0,DE,Delaware,1933/01
+250.0,DE,Delaware,1934/01
+252.0,DE,Delaware,1935/01
+253.0,DE,Delaware,1936/01
+254.0,DE,Delaware,1937/01
+257.0,DE,Delaware,1938/01
+263.0,DE,Delaware,1939/01
+269.0,DE,Delaware,1940/01
+275.0,DE,Delaware,1941/01
+279.0,DE,Delaware,1942/01
+282.0,DE,Delaware,1943/01
+285.0,DE,Delaware,1944/01
+286.0,DE,Delaware,1945/01
+299.0,DE,Delaware,1946/01
+305.0,DE,Delaware,1947/01
+312.0,DE,Delaware,1948/01
+316.0,DE,Delaware,1949/01
+321.0,DE,Delaware,1950/01
+331.0,DE,Delaware,1951/01
+341.0,DE,Delaware,1952/01
+351.0,DE,Delaware,1953/01
+368.0,DE,Delaware,1954/01
+389.0,DE,Delaware,1955/01
+408.0,DE,Delaware,1956/01
+426.0,DE,Delaware,1957/01
+433.0,DE,Delaware,1958/01
+441.0,DE,Delaware,1959/01
+449.0,DE,Delaware,1960/01
+461.0,DE,Delaware,1961/01
+469.0,DE,Delaware,1962/01
+483.0,DE,Delaware,1963/01
+497.0,DE,Delaware,1964/01
+507.0,DE,Delaware,1965/01
+516.0,DE,Delaware,1966/01
+525.0,DE,Delaware,1967/01
+534.0,DE,Delaware,1968/01
+540.0,DE,Delaware,1969/01
+548.104,DE,Delaware,1970/01
+564.708,DE,Delaware,1971/01
+572.913,DE,Delaware,1972/01
+577.759,DE,Delaware,1973/01
+581.418,DE,Delaware,1974/01
+586.589,DE,Delaware,1975/01
+590.166,DE,Delaware,1976/01
+591.829,DE,Delaware,1977/01
+594.776,DE,Delaware,1978/01
+594.984,DE,Delaware,1979/01
+594.919,DE,Delaware,1980/01
+595.975,DE,Delaware,1981/01
+599.148,DE,Delaware,1982/01
+605.458,DE,Delaware,1983/01
+611.565,DE,Delaware,1984/01
+618.28,DE,Delaware,1985/01
+627.559,DE,Delaware,1986/01
+636.947,DE,Delaware,1987/01
+647.622,DE,Delaware,1988/01
+658.273,DE,Delaware,1989/01
+669.063,DE,Delaware,1990/01
+680.495,DE,Delaware,1991/01
+690.158,DE,Delaware,1992/01
+699.475,DE,Delaware,1993/01
+708.416,DE,Delaware,1994/01
+718.265,DE,Delaware,1995/01
+727.09,DE,Delaware,1996/01
+735.024,DE,Delaware,1997/01
+744.066,DE,Delaware,1998/01
+753.538,DE,Delaware,1999/01
+786.373,DE,Delaware,2000/01
+795.699,DE,Delaware,2001/01
+806.169,DE,Delaware,2002/01
+818.003,DE,Delaware,2003/01
+830.803,DE,Delaware,2004/01
+845.15,DE,Delaware,2005/01
+859.268,DE,Delaware,2006/01
+871.749,DE,Delaware,2007/01
+883.874,DE,Delaware,2008/01
+891.73,DE,Delaware,2009/01
+899.647,DE,Delaware,2010/01
+907.59,DE,Delaware,2011/01
+915.518,DE,Delaware,2012/01
+924.062,DE,Delaware,2013/01
+933.131,DE,Delaware,2014/01
+942.065,DE,Delaware,2015/01
+949.989,DE,Delaware,2016/01
+957.942,DE,Delaware,2017/01
+966.985,DE,Delaware,2018/01
+976.668,DE,Delaware,2019/01
+991.928,DE,Delaware,2020/01
+1005.062,DE,Delaware,2021/01
+1020.625,DE,Delaware,2022/01
+1036.423,DE,Delaware,2023/01
+1051.917,DE,Delaware,2024/01
+3055.0,TX,Texas,1900/01
+3132.0,TX,Texas,1901/01
+3210.0,TX,Texas,1902/01
+3291.0,TX,Texas,1903/01
+3374.0,TX,Texas,1904/01
+3459.0,TX,Texas,1905/01
+3546.0,TX,Texas,1906/01
+3636.0,TX,Texas,1907/01
+3727.0,TX,Texas,1908/01
+3821.0,TX,Texas,1909/01
+3922.0,TX,Texas,1910/01
+4016.0,TX,Texas,1911/01
+4107.0,TX,Texas,1912/01
+4207.0,TX,Texas,1913/01
+4300.0,TX,Texas,1914/01
+4368.0,TX,Texas,1915/01
+4444.0,TX,Texas,1916/01
+4563.0,TX,Texas,1917/01
+4666.0,TX,Texas,1918/01
+4631.0,TX,Texas,1919/01
+4723.0,TX,Texas,1920/01
+4853.0,TX,Texas,1921/01
+4955.0,TX,Texas,1922/01
+5077.0,TX,Texas,1923/01
+5210.0,TX,Texas,1924/01
+5332.0,TX,Texas,1925/01
+5453.0,TX,Texas,1926/01
+5577.0,TX,Texas,1927/01
+5675.0,TX,Texas,1928/01
+5762.0,TX,Texas,1929/01
+5844.0,TX,Texas,1930/01
+5907.0,TX,Texas,1931/01
+5961.0,TX,Texas,1932/01
+6014.0,TX,Texas,1933/01
+6053.0,TX,Texas,1934/01
+6123.0,TX,Texas,1935/01
+6192.0,TX,Texas,1936/01
+6250.0,TX,Texas,1937/01
+6301.0,TX,Texas,1938/01
+6360.0,TX,Texas,1939/01
+6425.0,TX,Texas,1940/01
+6585.0,TX,Texas,1941/01
+6711.0,TX,Texas,1942/01
+7012.0,TX,Texas,1943/01
+6876.0,TX,Texas,1944/01
+6826.0,TX,Texas,1945/01
+7197.0,TX,Texas,1946/01
+7388.0,TX,Texas,1947/01
+7626.0,TX,Texas,1948/01
+7623.0,TX,Texas,1949/01
+7776.0,TX,Texas,1950/01
+8111.0,TX,Texas,1951/01
+8314.0,TX,Texas,1952/01
+8336.0,TX,Texas,1953/01
+8382.0,TX,Texas,1954/01
+8660.0,TX,Texas,1955/01
+8830.0,TX,Texas,1956/01
+9070.0,TX,Texas,1957/01
+9252.0,TX,Texas,1958/01
+9405.0,TX,Texas,1959/01
+9624.0,TX,Texas,1960/01
+9820.0,TX,Texas,1961/01
+10053.0,TX,Texas,1962/01
+10159.0,TX,Texas,1963/01
+10270.0,TX,Texas,1964/01
+10378.0,TX,Texas,1965/01
+10492.0,TX,Texas,1966/01
+10599.0,TX,Texas,1967/01
+10819.0,TX,Texas,1968/01
+11045.0,TX,Texas,1969/01
+11198.655,TX,Texas,1970/01
+11509.848,TX,Texas,1971/01
+11759.148,TX,Texas,1972/01
+12019.543,TX,Texas,1973/01
+12268.629,TX,Texas,1974/01
+12568.843,TX,Texas,1975/01
+12904.089,TX,Texas,1976/01
+13193.05,TX,Texas,1977/01
+13500.429,TX,Texas,1978/01
+13888.371,TX,Texas,1979/01
+14338.208,TX,Texas,1980/01
+14746.318,TX,Texas,1981/01
+15331.415,TX,Texas,1982/01
+15751.676,TX,Texas,1983/01
+16007.086,TX,Texas,1984/01
+16272.734,TX,Texas,1985/01
+16561.113,TX,Texas,1986/01
+16621.791,TX,Texas,1987/01
+16667.022,TX,Texas,1988/01
+16806.735,TX,Texas,1989/01
+17044.714,TX,Texas,1990/01
+17339.904,TX,Texas,1991/01
+17650.479,TX,Texas,1992/01
+17996.764,TX,Texas,1993/01
+18338.319,TX,Texas,1994/01
+18679.706,TX,Texas,1995/01
+19006.24,TX,Texas,1996/01
+19355.427,TX,Texas,1997/01
+19712.389,TX,Texas,1998/01
+20044.141,TX,Texas,1999/01
+20944.499,TX,Texas,2000/01
+21319.622,TX,Texas,2001/01
+21690.325,TX,Texas,2002/01
+22030.931,TX,Texas,2003/01
+22394.023,TX,Texas,2004/01
+22778.123,TX,Texas,2005/01
+23359.58,TX,Texas,2006/01
+23831.983,TX,Texas,2007/01
+24309.039,TX,Texas,2008/01
+24801.761,TX,Texas,2009/01
+25241.897,TX,Texas,2010/01
+25645.504,TX,Texas,2011/01
+26084.12,TX,Texas,2012/01
+26479.646,TX,Texas,2013/01
+26963.092,TX,Texas,2014/01
+27468.531,TX,Texas,2015/01
+27914.064,TX,Texas,2016/01
+28291.024,TX,Texas,2017/01
+28624.564,TX,Texas,2018/01
+28986.794,TX,Texas,2019/01
+29239.57,TX,Texas,2020/01
+29570.351,TX,Texas,2021/01
+30113.488,TX,Texas,2022/01
+30727.89,TX,Texas,2023/01
+31290.831,TX,Texas,2024/01
+1830.0,AL,Alabama,1900/01
+1907.0,AL,Alabama,1901/01
+1935.0,AL,Alabama,1902/01
+1957.0,AL,Alabama,1903/01
+1978.0,AL,Alabama,1904/01
+2012.0,AL,Alabama,1905/01
+2045.0,AL,Alabama,1906/01
+2058.0,AL,Alabama,1907/01
+2070.0,AL,Alabama,1908/01
+2108.0,AL,Alabama,1909/01
+2150.0,AL,Alabama,1910/01
+2185.0,AL,Alabama,1911/01
+2217.0,AL,Alabama,1912/01
+2279.0,AL,Alabama,1913/01
+2336.0,AL,Alabama,1914/01
+2345.0,AL,Alabama,1915/01
+2359.0,AL,Alabama,1916/01
+2361.0,AL,Alabama,1917/01
+2343.0,AL,Alabama,1918/01
+2337.0,AL,Alabama,1919/01
+2359.0,AL,Alabama,1920/01
+2402.0,AL,Alabama,1921/01
+2434.0,AL,Alabama,1922/01
+2464.0,AL,Alabama,1923/01
+2501.0,AL,Alabama,1924/01
+2534.0,AL,Alabama,1925/01
+2567.0,AL,Alabama,1926/01
+2609.0,AL,Alabama,1927/01
+2640.0,AL,Alabama,1928/01
+2644.0,AL,Alabama,1929/01
+2647.0,AL,Alabama,1930/01
+2649.0,AL,Alabama,1931/01
+2653.0,AL,Alabama,1932/01
+2661.0,AL,Alabama,1933/01
+2685.0,AL,Alabama,1934/01
+2719.0,AL,Alabama,1935/01
+2743.0,AL,Alabama,1936/01
+2762.0,AL,Alabama,1937/01
+2787.0,AL,Alabama,1938/01
+2814.0,AL,Alabama,1939/01
+2845.0,AL,Alabama,1940/01
+2902.0,AL,Alabama,1941/01
+2941.0,AL,Alabama,1942/01
+2902.0,AL,Alabama,1943/01
+2802.0,AL,Alabama,1944/01
+2775.0,AL,Alabama,1945/01
+2911.0,AL,Alabama,1946/01
+2942.0,AL,Alabama,1947/01
+2969.0,AL,Alabama,1948/01
+3000.0,AL,Alabama,1949/01
+3058.0,AL,Alabama,1950/01
+3059.0,AL,Alabama,1951/01
+3068.0,AL,Alabama,1952/01
+3053.0,AL,Alabama,1953/01
+3014.0,AL,Alabama,1954/01
+3050.0,AL,Alabama,1955/01
+3071.0,AL,Alabama,1956/01
+3109.0,AL,Alabama,1957/01
+3163.0,AL,Alabama,1958/01
+3204.0,AL,Alabama,1959/01
+3274.0,AL,Alabama,1960/01
+3316.0,AL,Alabama,1961/01
+3323.0,AL,Alabama,1962/01
+3358.0,AL,Alabama,1963/01
+3395.0,AL,Alabama,1964/01
+3443.0,AL,Alabama,1965/01
+3464.0,AL,Alabama,1966/01
+3458.0,AL,Alabama,1967/01
+3446.0,AL,Alabama,1968/01
+3440.0,AL,Alabama,1969/01
+3444.354,AL,Alabama,1970/01
+3497.076,AL,Alabama,1971/01
+3539.4,AL,Alabama,1972/01
+3579.78,AL,Alabama,1973/01
+3626.499,AL,Alabama,1974/01
+3678.814,AL,Alabama,1975/01
+3735.139,AL,Alabama,1976/01
+3780.403,AL,Alabama,1977/01
+3831.836,AL,Alabama,1978/01
+3866.248,AL,Alabama,1979/01
+3900.368,AL,Alabama,1980/01
+3918.531,AL,Alabama,1981/01
+3925.266,AL,Alabama,1982/01
+3934.102,AL,Alabama,1983/01
+3951.82,AL,Alabama,1984/01
+3972.523,AL,Alabama,1985/01
+3991.569,AL,Alabama,1986/01
+4015.264,AL,Alabama,1987/01
+4023.844,AL,Alabama,1988/01
+4030.222,AL,Alabama,1989/01
+4048.508,AL,Alabama,1990/01
+4091.025,AL,Alabama,1991/01
+4139.269,AL,Alabama,1992/01
+4193.114,AL,Alabama,1993/01
+4232.965,AL,Alabama,1994/01
+4262.731,AL,Alabama,1995/01
+4290.403,AL,Alabama,1996/01
+4320.281,AL,Alabama,1997/01
+4351.037,AL,Alabama,1998/01
+4369.862,AL,Alabama,1999/01
+4452.173,AL,Alabama,2000/01
+4467.634,AL,Alabama,2001/01
+4480.089,AL,Alabama,2002/01
+4503.491,AL,Alabama,2003/01
+4530.729,AL,Alabama,2004/01
+4569.805,AL,Alabama,2005/01
+4628.981,AL,Alabama,2006/01
+4672.84,AL,Alabama,2007/01
+4718.206,AL,Alabama,2008/01
+4757.938,AL,Alabama,2009/01
+4785.514,AL,Alabama,2010/01
+4799.642,AL,Alabama,2011/01
+4816.632,AL,Alabama,2012/01
+4831.586,AL,Alabama,2013/01
+4843.737,AL,Alabama,2014/01
+4854.803,AL,Alabama,2015/01
+4866.824,AL,Alabama,2016/01
+4877.989,AL,Alabama,2017/01
+4891.628,AL,Alabama,2018/01
+4907.965,AL,Alabama,2019/01
+5033.094,AL,Alabama,2020/01
+5049.196,AL,Alabama,2021/01
+5076.181,AL,Alabama,2022/01
+5117.673,AL,Alabama,2023/01
+5157.699,AL,Alabama,2024/01
+277.0,UT,Utah,1900/01
+284.0,UT,Utah,1901/01
+292.0,UT,Utah,1902/01
+299.0,UT,Utah,1903/01
+308.0,UT,Utah,1904/01
+316.0,UT,Utah,1905/01
+327.0,UT,Utah,1906/01
+339.0,UT,Utah,1907/01
+351.0,UT,Utah,1908/01
+363.0,UT,Utah,1909/01
+377.0,UT,Utah,1910/01
+387.0,UT,Utah,1911/01
+399.0,UT,Utah,1912/01
+410.0,UT,Utah,1913/01
+422.0,UT,Utah,1914/01
+430.0,UT,Utah,1915/01
+436.0,UT,Utah,1916/01
+444.0,UT,Utah,1917/01
+437.0,UT,Utah,1918/01
+446.0,UT,Utah,1919/01
+453.0,UT,Utah,1920/01
+457.0,UT,Utah,1921/01
+467.0,UT,Utah,1922/01
+474.0,UT,Utah,1923/01
+481.0,UT,Utah,1924/01
+487.0,UT,Utah,1925/01
+494.0,UT,Utah,1926/01
+500.0,UT,Utah,1927/01
+504.0,UT,Utah,1928/01
+508.0,UT,Utah,1929/01
+509.0,UT,Utah,1930/01
+513.0,UT,Utah,1931/01
+517.0,UT,Utah,1932/01
+520.0,UT,Utah,1933/01
+522.0,UT,Utah,1934/01
+526.0,UT,Utah,1935/01
+527.0,UT,Utah,1936/01
+529.0,UT,Utah,1937/01
+535.0,UT,Utah,1938/01
+543.0,UT,Utah,1939/01
+552.0,UT,Utah,1940/01
+551.0,UT,Utah,1941/01
+575.0,UT,Utah,1942/01
+631.0,UT,Utah,1943/01
+605.0,UT,Utah,1944/01
+591.0,UT,Utah,1945/01
+638.0,UT,Utah,1946/01
+636.0,UT,Utah,1947/01
+653.0,UT,Utah,1948/01
+671.0,UT,Utah,1949/01
+696.0,UT,Utah,1950/01
+706.0,UT,Utah,1951/01
+724.0,UT,Utah,1952/01
+739.0,UT,Utah,1953/01
+750.0,UT,Utah,1954/01
+783.0,UT,Utah,1955/01
+809.0,UT,Utah,1956/01
+826.0,UT,Utah,1957/01
+845.0,UT,Utah,1958/01
+870.0,UT,Utah,1959/01
+900.0,UT,Utah,1960/01
+936.0,UT,Utah,1961/01
+958.0,UT,Utah,1962/01
+974.0,UT,Utah,1963/01
+978.0,UT,Utah,1964/01
+994.0,UT,Utah,1965/01
+1009.0,UT,Utah,1966/01
+1019.0,UT,Utah,1967/01
+1029.0,UT,Utah,1968/01
+1047.0,UT,Utah,1969/01
+1059.273,UT,Utah,1970/01
+1101.192,UT,Utah,1971/01
+1135.449,UT,Utah,1972/01
+1170.04,UT,Utah,1973/01
+1200.471,UT,Utah,1974/01
+1236.03,UT,Utah,1975/01
+1274.928,UT,Utah,1976/01
+1319.512,UT,Utah,1977/01
+1367.51,UT,Utah,1978/01
+1420.238,UT,Utah,1979/01
+1472.595,UT,Utah,1980/01
+1515.471,UT,Utah,1981/01
+1558.314,UT,Utah,1982/01
+1594.943,UT,Utah,1983/01
+1622.342,UT,Utah,1984/01
+1642.91,UT,Utah,1985/01
+1662.834,UT,Utah,1986/01
+1678.119,UT,Utah,1987/01
+1689.372,UT,Utah,1988/01
+1705.864,UT,Utah,1989/01
+1729.722,UT,Utah,1990/01
+1771.941,UT,Utah,1991/01
+1821.498,UT,Utah,1992/01
+1875.993,UT,Utah,1993/01
+1930.436,UT,Utah,1994/01
+1976.774,UT,Utah,1995/01
+2022.253,UT,Utah,1996/01
+2065.397,UT,Utah,1997/01
+2100.562,UT,Utah,1998/01
+2129.836,UT,Utah,1999/01
+2244.502,UT,Utah,2000/01
+2283.715,UT,Utah,2001/01
+2324.815,UT,Utah,2002/01
+2360.137,UT,Utah,2003/01
+2401.58,UT,Utah,2004/01
+2457.719,UT,Utah,2005/01
+2525.507,UT,Utah,2006/01
+2597.746,UT,Utah,2007/01
+2663.029,UT,Utah,2008/01
+2723.421,UT,Utah,2009/01
+2775.413,UT,Utah,2010/01
+2814.797,UT,Utah,2011/01
+2854.146,UT,Utah,2012/01
+2898.773,UT,Utah,2013/01
+2938.327,UT,Utah,2014/01
+2983.626,UT,Utah,2015/01
+3044.241,UT,Utah,2016/01
+3103.54,UT,Utah,2017/01
+3155.153,UT,Utah,2018/01
+3203.383,UT,Utah,2019/01
+3284.077,UT,Utah,2020/01
+3339.738,UT,Utah,2021/01
+3391.011,UT,Utah,2022/01
+3443.222,UT,Utah,2023/01
+3503.613,UT,Utah,2024/01
+124.0,AZ,Arizona,1900/01
+131.0,AZ,Arizona,1901/01
+138.0,AZ,Arizona,1902/01
+144.0,AZ,Arizona,1903/01
+151.0,AZ,Arizona,1904/01
+158.0,AZ,Arizona,1905/01
+167.0,AZ,Arizona,1906/01
+176.0,AZ,Arizona,1907/01
+186.0,AZ,Arizona,1908/01
+196.0,AZ,Arizona,1909/01
+206.0,AZ,Arizona,1910/01
+212.0,AZ,Arizona,1911/01
+217.0,AZ,Arizona,1912/01
+236.0,AZ,Arizona,1913/01
+253.0,AZ,Arizona,1914/01
+263.0,AZ,Arizona,1915/01
+282.0,AZ,Arizona,1916/01
+311.0,AZ,Arizona,1917/01
+320.0,AZ,Arizona,1918/01
+329.0,AZ,Arizona,1919/01
+340.0,AZ,Arizona,1920/01
+351.0,AZ,Arizona,1921/01
+360.0,AZ,Arizona,1922/01
+371.0,AZ,Arizona,1923/01
+382.0,AZ,Arizona,1924/01
+393.0,AZ,Arizona,1925/01
+403.0,AZ,Arizona,1926/01
+414.0,AZ,Arizona,1927/01
+422.0,AZ,Arizona,1928/01
+430.0,AZ,Arizona,1929/01
+434.0,AZ,Arizona,1930/01
+429.0,AZ,Arizona,1931/01
+426.0,AZ,Arizona,1932/01
+426.0,AZ,Arizona,1933/01
+428.0,AZ,Arizona,1934/01
+434.0,AZ,Arizona,1935/01
+443.0,AZ,Arizona,1936/01
+453.0,AZ,Arizona,1937/01
+466.0,AZ,Arizona,1938/01
+484.0,AZ,Arizona,1939/01
+499.0,AZ,Arizona,1940/01
+490.0,AZ,Arizona,1941/01
+524.0,AZ,Arizona,1942/01
+692.0,AZ,Arizona,1943/01
+610.0,AZ,Arizona,1944/01
+594.0,AZ,Arizona,1945/01
+616.0,AZ,Arizona,1946/01
+653.0,AZ,Arizona,1947/01
+690.0,AZ,Arizona,1948/01
+714.0,AZ,Arizona,1949/01
+756.0,AZ,Arizona,1950/01
+785.0,AZ,Arizona,1951/01
+842.0,AZ,Arizona,1952/01
+894.0,AZ,Arizona,1953/01
+933.0,AZ,Arizona,1954/01
+987.0,AZ,Arizona,1955/01
+1053.0,AZ,Arizona,1956/01
+1125.0,AZ,Arizona,1957/01
+1193.0,AZ,Arizona,1958/01
+1261.0,AZ,Arizona,1959/01
+1321.0,AZ,Arizona,1960/01
+1407.0,AZ,Arizona,1961/01
+1471.0,AZ,Arizona,1962/01
+1521.0,AZ,Arizona,1963/01
+1556.0,AZ,Arizona,1964/01
+1584.0,AZ,Arizona,1965/01
+1614.0,AZ,Arizona,1966/01
+1646.0,AZ,Arizona,1967/01
+1682.0,AZ,Arizona,1968/01
+1737.0,AZ,Arizona,1969/01
+1775.399,AZ,Arizona,1970/01
+1895.814,AZ,Arizona,1971/01
+2008.291,AZ,Arizona,1972/01
+2124.438,AZ,Arizona,1973/01
+2223.196,AZ,Arizona,1974/01
+2284.847,AZ,Arizona,1975/01
+2346.157,AZ,Arizona,1976/01
+2425.197,AZ,Arizona,1977/01
+2515.316,AZ,Arizona,1978/01
+2635.571,AZ,Arizona,1979/01
+2737.774,AZ,Arizona,1980/01
+2810.107,AZ,Arizona,1981/01
+2889.861,AZ,Arizona,1982/01
+2968.925,AZ,Arizona,1983/01
+3067.135,AZ,Arizona,1984/01
+3183.538,AZ,Arizona,1985/01
+3308.262,AZ,Arizona,1986/01
+3437.103,AZ,Arizona,1987/01
+3535.183,AZ,Arizona,1988/01
+3622.185,AZ,Arizona,1989/01
+3679.056,AZ,Arizona,1990/01
+3762.394,AZ,Arizona,1991/01
+3867.333,AZ,Arizona,1992/01
+3993.39,AZ,Arizona,1993/01
+4147.561,AZ,Arizona,1994/01
+4306.908,AZ,Arizona,1995/01
+4432.308,AZ,Arizona,1996/01
+4552.207,AZ,Arizona,1997/01
+4667.277,AZ,Arizona,1998/01
+4778.332,AZ,Arizona,1999/01
+5160.586,AZ,Arizona,2000/01
+5273.477,AZ,Arizona,2001/01
+5396.255,AZ,Arizona,2002/01
+5510.364,AZ,Arizona,2003/01
+5652.404,AZ,Arizona,2004/01
+5839.077,AZ,Arizona,2005/01
+6029.141,AZ,Arizona,2006/01
+6167.681,AZ,Arizona,2007/01
+6280.362,AZ,Arizona,2008/01
+6343.154,AZ,Arizona,2009/01
+6407.342,AZ,Arizona,2010/01
+6473.416,AZ,Arizona,2011/01
+6556.344,AZ,Arizona,2012/01
+6634.69,AZ,Arizona,2013/01
+6732.873,AZ,Arizona,2014/01
+6832.81,AZ,Arizona,2015/01
+6944.767,AZ,Arizona,2016/01
+7048.088,AZ,Arizona,2017/01
+7164.228,AZ,Arizona,2018/01
+7291.843,AZ,Arizona,2019/01
+7187.135,AZ,Arizona,2020/01
+7274.078,AZ,Arizona,2021/01
+7377.566,AZ,Arizona,2022/01
+7473.027,AZ,Arizona,2023/01
+7582.384,AZ,Arizona,2024/01
+2220.0,GA,Georgia,1900/01
+2263.0,GA,Georgia,1901/01
+2305.0,GA,Georgia,1902/01
+2346.0,GA,Georgia,1903/01
+2387.0,GA,Georgia,1904/01
+2427.0,GA,Georgia,1905/01
+2466.0,GA,Georgia,1906/01
+2505.0,GA,Georgia,1907/01
+2543.0,GA,Georgia,1908/01
+2580.0,GA,Georgia,1909/01
+2618.0,GA,Georgia,1910/01
+2644.0,GA,Georgia,1911/01
+2676.0,GA,Georgia,1912/01
+2733.0,GA,Georgia,1913/01
+2776.0,GA,Georgia,1914/01
+2810.0,GA,Georgia,1915/01
+2856.0,GA,Georgia,1916/01
+2885.0,GA,Georgia,1917/01
+2941.0,GA,Georgia,1918/01
+2870.0,GA,Georgia,1919/01
+2926.0,GA,Georgia,1920/01
+2965.0,GA,Georgia,1921/01
+2965.0,GA,Georgia,1922/01
+2954.0,GA,Georgia,1923/01
+2920.0,GA,Georgia,1924/01
+2883.0,GA,Georgia,1925/01
+2869.0,GA,Georgia,1926/01
+2891.0,GA,Georgia,1927/01
+2903.0,GA,Georgia,1928/01
+2903.0,GA,Georgia,1929/01
+2910.0,GA,Georgia,1930/01
+2924.0,GA,Georgia,1931/01
+2935.0,GA,Georgia,1932/01
+2950.0,GA,Georgia,1933/01
+2964.0,GA,Georgia,1934/01
+2955.0,GA,Georgia,1935/01
+2978.0,GA,Georgia,1936/01
+3037.0,GA,Georgia,1937/01
+3091.0,GA,Georgia,1938/01
+3120.0,GA,Georgia,1939/01
+3119.0,GA,Georgia,1940/01
+3179.0,GA,Georgia,1941/01
+3209.0,GA,Georgia,1942/01
+3245.0,GA,Georgia,1943/01
+3176.0,GA,Georgia,1944/01
+3119.0,GA,Georgia,1945/01
+3242.0,GA,Georgia,1946/01
+3272.0,GA,Georgia,1947/01
+3259.0,GA,Georgia,1948/01
+3325.0,GA,Georgia,1949/01
+3458.0,GA,Georgia,1950/01
+3531.0,GA,Georgia,1951/01
+3584.0,GA,Georgia,1952/01
+3558.0,GA,Georgia,1953/01
+3602.0,GA,Georgia,1954/01
+3636.0,GA,Georgia,1955/01
+3701.0,GA,Georgia,1956/01
+3766.0,GA,Georgia,1957/01
+3804.0,GA,Georgia,1958/01
+3868.0,GA,Georgia,1959/01
+3956.0,GA,Georgia,1960/01
+4015.0,GA,Georgia,1961/01
+4086.0,GA,Georgia,1962/01
+4172.0,GA,Georgia,1963/01
+4258.0,GA,Georgia,1964/01
+4332.0,GA,Georgia,1965/01
+4379.0,GA,Georgia,1966/01
+4408.0,GA,Georgia,1967/01
+4482.0,GA,Georgia,1968/01
+4551.0,GA,Georgia,1969/01
+4587.93,GA,Georgia,1970/01
+4711.55,GA,Georgia,1971/01
+4809.49,GA,Georgia,1972/01
+4910.374,GA,Georgia,1973/01
+4999.419,GA,Georgia,1974/01
+5064.075,GA,Georgia,1975/01
+5132.812,GA,Georgia,1976/01
+5219.697,GA,Georgia,1977/01
+5295.751,GA,Georgia,1978/01
+5401.384,GA,Georgia,1979/01
+5486.174,GA,Georgia,1980/01
+5568.345,GA,Georgia,1981/01
+5649.792,GA,Georgia,1982/01
+5728.25,GA,Georgia,1983/01
+5834.954,GA,Georgia,1984/01
+5962.661,GA,Georgia,1985/01
+6084.666,GA,Georgia,1986/01
+6208.467,GA,Georgia,1987/01
+6316.142,GA,Georgia,1988/01
+6411.099,GA,Georgia,1989/01
+6506.531,GA,Georgia,1990/01
+6621.279,GA,Georgia,1991/01
+6759.474,GA,Georgia,1992/01
+6894.092,GA,Georgia,1993/01
+7045.9,GA,Georgia,1994/01
+7188.538,GA,Georgia,1995/01
+7332.225,GA,Georgia,1996/01
+7486.094,GA,Georgia,1997/01
+7636.522,GA,Georgia,1998/01
+7788.24,GA,Georgia,1999/01
+8227.303,GA,Georgia,2000/01
+8377.038,GA,Georgia,2001/01
+8508.256,GA,Georgia,2002/01
+8622.793,GA,Georgia,2003/01
+8769.252,GA,Georgia,2004/01
+8925.922,GA,Georgia,2005/01
+9155.813,GA,Georgia,2006/01
+9349.988,GA,Georgia,2007/01
+9504.843,GA,Georgia,2008/01
+9620.846,GA,Georgia,2009/01
+9712.209,GA,Georgia,2010/01
+9803.63,GA,Georgia,2011/01
+9903.58,GA,Georgia,2012/01
+9975.592,GA,Georgia,2013/01
+10071.204,GA,Georgia,2014/01
+10183.353,GA,Georgia,2015/01
+10308.442,GA,Georgia,2016/01
+10417.031,GA,Georgia,2017/01
+10519.389,GA,Georgia,2018/01
+10628.02,GA,Georgia,2019/01
+10732.888,GA,Georgia,2020/01
+10792.06,GA,Georgia,2021/01
+10931.805,GA,Georgia,2022/01
+11064.432,GA,Georgia,2023/01
+11180.878,GA,Georgia,2024/01
+2023.0,TN,Tennessee,1900/01
+2041.0,TN,Tennessee,1901/01
+2060.0,TN,Tennessee,1902/01
+2082.0,TN,Tennessee,1903/01
+2086.0,TN,Tennessee,1904/01
+2111.0,TN,Tennessee,1905/01
+2136.0,TN,Tennessee,1906/01
+2136.0,TN,Tennessee,1907/01
+2164.0,TN,Tennessee,1908/01
+2177.0,TN,Tennessee,1909/01
+2191.0,TN,Tennessee,1910/01
+2197.0,TN,Tennessee,1911/01
+2218.0,TN,Tennessee,1912/01
+2257.0,TN,Tennessee,1913/01
+2289.0,TN,Tennessee,1914/01
+2294.0,TN,Tennessee,1915/01
+2304.0,TN,Tennessee,1916/01
+2331.0,TN,Tennessee,1917/01
+2288.0,TN,Tennessee,1918/01
+2305.0,TN,Tennessee,1919/01
+2329.0,TN,Tennessee,1920/01
+2369.0,TN,Tennessee,1921/01
+2424.0,TN,Tennessee,1922/01
+2463.0,TN,Tennessee,1923/01
+2502.0,TN,Tennessee,1924/01
+2531.0,TN,Tennessee,1925/01
+2553.0,TN,Tennessee,1926/01
+2608.0,TN,Tennessee,1927/01
+2624.0,TN,Tennessee,1928/01
+2604.0,TN,Tennessee,1929/01
+2619.0,TN,Tennessee,1930/01
+2657.0,TN,Tennessee,1931/01
+2711.0,TN,Tennessee,1932/01
+2747.0,TN,Tennessee,1933/01
+2784.0,TN,Tennessee,1934/01
+2798.0,TN,Tennessee,1935/01
+2791.0,TN,Tennessee,1936/01
+2795.0,TN,Tennessee,1937/01
+2821.0,TN,Tennessee,1938/01
+2874.0,TN,Tennessee,1939/01
+2935.0,TN,Tennessee,1940/01
+2973.0,TN,Tennessee,1941/01
+2939.0,TN,Tennessee,1942/01
+2972.0,TN,Tennessee,1943/01
+2868.0,TN,Tennessee,1944/01
+2878.0,TN,Tennessee,1945/01
+3074.0,TN,Tennessee,1946/01
+3166.0,TN,Tennessee,1947/01
+3216.0,TN,Tennessee,1948/01
+3236.0,TN,Tennessee,1949/01
+3315.0,TN,Tennessee,1950/01
+3372.0,TN,Tennessee,1951/01
+3352.0,TN,Tennessee,1952/01
+3319.0,TN,Tennessee,1953/01
+3359.0,TN,Tennessee,1954/01
+3415.0,TN,Tennessee,1955/01
+3415.0,TN,Tennessee,1956/01
+3434.0,TN,Tennessee,1957/01
+3471.0,TN,Tennessee,1958/01
+3522.0,TN,Tennessee,1959/01
+3575.0,TN,Tennessee,1960/01
+3622.0,TN,Tennessee,1961/01
+3673.0,TN,Tennessee,1962/01
+3718.0,TN,Tennessee,1963/01
+3771.0,TN,Tennessee,1964/01
+3798.0,TN,Tennessee,1965/01
+3822.0,TN,Tennessee,1966/01
+3859.0,TN,Tennessee,1967/01
+3878.0,TN,Tennessee,1968/01
+3897.0,TN,Tennessee,1969/01
+3926.018,TN,Tennessee,1970/01
+4013.608,TN,Tennessee,1971/01
+4094.611,TN,Tennessee,1972/01
+4147.401,TN,Tennessee,1973/01
+4213.509,TN,Tennessee,1974/01
+4275.566,TN,Tennessee,1975/01
+4346.928,TN,Tennessee,1976/01
+4422.921,TN,Tennessee,1977/01
+4486.314,TN,Tennessee,1978/01
+4560.473,TN,Tennessee,1979/01
+4600.252,TN,Tennessee,1980/01
+4627.658,TN,Tennessee,1981/01
+4646.041,TN,Tennessee,1982/01
+4659.749,TN,Tennessee,1983/01
+4686.737,TN,Tennessee,1984/01
+4715.296,TN,Tennessee,1985/01
+4738.708,TN,Tennessee,1986/01
+4782.927,TN,Tennessee,1987/01
+4822.437,TN,Tennessee,1988/01
+4854.444,TN,Tennessee,1989/01
+4890.626,TN,Tennessee,1990/01
+4946.886,TN,Tennessee,1991/01
+5013.999,TN,Tennessee,1992/01
+5085.666,TN,Tennessee,1993/01
+5163.016,TN,Tennessee,1994/01
+5241.168,TN,Tennessee,1995/01
+5313.576,TN,Tennessee,1996/01
+5378.433,TN,Tennessee,1997/01
+5432.679,TN,Tennessee,1998/01
+5483.535,TN,Tennessee,1999/01
+5703.719,TN,Tennessee,2000/01
+5750.789,TN,Tennessee,2001/01
+5795.918,TN,Tennessee,2002/01
+5847.812,TN,Tennessee,2003/01
+5910.809,TN,Tennessee,2004/01
+5991.057,TN,Tennessee,2005/01
+6088.766,TN,Tennessee,2006/01
+6175.727,TN,Tennessee,2007/01
+6247.411,TN,Tennessee,2008/01
+6306.019,TN,Tennessee,2009/01
+6355.518,TN,Tennessee,2010/01
+6400.298,TN,Tennessee,2011/01
+6455.752,TN,Tennessee,2012/01
+6496.943,TN,Tennessee,2013/01
+6544.617,TN,Tennessee,2014/01
+6595.354,TN,Tennessee,2015/01
+6651.277,TN,Tennessee,2016/01
+6714.748,TN,Tennessee,2017/01
+6778.18,TN,Tennessee,2018/01
+6830.325,TN,Tennessee,2019/01
+6927.904,TN,Tennessee,2020/01
+6965.74,TN,Tennessee,2021/01
+7062.217,TN,Tennessee,2022/01
+7148.304,TN,Tennessee,2023/01
+7227.75,TN,Tennessee,2024/01
+1342.0,SC,South Carolina,1900/01
+1361.0,SC,South Carolina,1901/01
+1379.0,SC,South Carolina,1902/01
+1397.0,SC,South Carolina,1903/01
+1415.0,SC,South Carolina,1904/01
+1433.0,SC,South Carolina,1905/01
+1451.0,SC,South Carolina,1906/01
+1468.0,SC,South Carolina,1907/01
+1485.0,SC,South Carolina,1908/01
+1502.0,SC,South Carolina,1909/01
+1523.0,SC,South Carolina,1910/01
+1548.0,SC,South Carolina,1911/01
+1572.0,SC,South Carolina,1912/01
+1599.0,SC,South Carolina,1913/01
+1622.0,SC,South Carolina,1914/01
+1635.0,SC,South Carolina,1915/01
+1650.0,SC,South Carolina,1916/01
+1675.0,SC,South Carolina,1917/01
+1746.0,SC,South Carolina,1918/01
+1687.0,SC,South Carolina,1919/01
+1685.0,SC,South Carolina,1920/01
+1693.0,SC,South Carolina,1921/01
+1692.0,SC,South Carolina,1922/01
+1699.0,SC,South Carolina,1923/01
+1710.0,SC,South Carolina,1924/01
+1718.0,SC,South Carolina,1925/01
+1726.0,SC,South Carolina,1926/01
+1736.0,SC,South Carolina,1927/01
+1739.0,SC,South Carolina,1928/01
+1739.0,SC,South Carolina,1929/01
+1745.0,SC,South Carolina,1930/01
+1753.0,SC,South Carolina,1931/01
+1748.0,SC,South Carolina,1932/01
+1752.0,SC,South Carolina,1933/01
+1760.0,SC,South Carolina,1934/01
+1769.0,SC,South Carolina,1935/01
+1781.0,SC,South Carolina,1936/01
+1802.0,SC,South Carolina,1937/01
+1834.0,SC,South Carolina,1938/01
+1872.0,SC,South Carolina,1939/01
+1902.0,SC,South Carolina,1940/01
+1962.0,SC,South Carolina,1941/01
+2007.0,SC,South Carolina,1942/01
+1967.0,SC,South Carolina,1943/01
+1943.0,SC,South Carolina,1944/01
+1934.0,SC,South Carolina,1945/01
+1936.0,SC,South Carolina,1946/01
+1992.0,SC,South Carolina,1947/01
+1996.0,SC,South Carolina,1948/01
+2029.0,SC,South Carolina,1949/01
+2113.0,SC,South Carolina,1950/01
+2167.0,SC,South Carolina,1951/01
+2178.0,SC,South Carolina,1952/01
+2181.0,SC,South Carolina,1953/01
+2176.0,SC,South Carolina,1954/01
+2200.0,SC,South Carolina,1955/01
+2229.0,SC,South Carolina,1956/01
+2274.0,SC,South Carolina,1957/01
+2304.0,SC,South Carolina,1958/01
+2348.0,SC,South Carolina,1959/01
+2392.0,SC,South Carolina,1960/01
+2409.0,SC,South Carolina,1961/01
+2423.0,SC,South Carolina,1962/01
+2460.0,SC,South Carolina,1963/01
+2475.0,SC,South Carolina,1964/01
+2494.0,SC,South Carolina,1965/01
+2520.0,SC,South Carolina,1966/01
+2533.0,SC,South Carolina,1967/01
+2559.0,SC,South Carolina,1968/01
+2570.0,SC,South Carolina,1969/01
+2590.713,SC,South Carolina,1970/01
+2662.269,SC,South Carolina,1971/01
+2719.197,SC,South Carolina,1972/01
+2776.605,SC,South Carolina,1973/01
+2844.749,SC,South Carolina,1974/01
+2902.028,SC,South Carolina,1975/01
+2943.657,SC,South Carolina,1976/01
+2991.681,SC,South Carolina,1977/01
+3044.364,SC,South Carolina,1978/01
+3090.267,SC,South Carolina,1979/01
+3134.502,SC,South Carolina,1980/01
+3179.255,SC,South Carolina,1981/01
+3207.614,SC,South Carolina,1982/01
+3234.066,SC,South Carolina,1983/01
+3271.868,SC,South Carolina,1984/01
+3303.209,SC,South Carolina,1985/01
+3342.758,SC,South Carolina,1986/01
+3380.506,SC,South Carolina,1987/01
+3412.096,SC,South Carolina,1988/01
+3456.775,SC,South Carolina,1989/01
+3499.064,SC,South Carolina,1990/01
+3559.47,SC,South Carolina,1991/01
+3600.576,SC,South Carolina,1992/01
+3634.507,SC,South Carolina,1993/01
+3666.456,SC,South Carolina,1994/01
+3699.943,SC,South Carolina,1995/01
+3738.974,SC,South Carolina,1996/01
+3790.066,SC,South Carolina,1997/01
+3839.578,SC,South Carolina,1998/01
+3885.736,SC,South Carolina,1999/01
+4024.223,SC,South Carolina,2000/01
+4064.995,SC,South Carolina,2001/01
+4107.795,SC,South Carolina,2002/01
+4150.297,SC,South Carolina,2003/01
+4210.921,SC,South Carolina,2004/01
+4270.15,SC,South Carolina,2005/01
+4357.847,SC,South Carolina,2006/01
+4444.11,SC,South Carolina,2007/01
+4528.996,SC,South Carolina,2008/01
+4589.872,SC,South Carolina,2009/01
+4635.846,SC,South Carolina,2010/01
+4672.655,SC,South Carolina,2011/01
+4719.027,SC,South Carolina,2012/01
+4766.469,SC,South Carolina,2013/01
+4826.858,SC,South Carolina,2014/01
+4896.006,SC,South Carolina,2015/01
+4963.031,SC,South Carolina,2016/01
+5027.102,SC,South Carolina,2017/01
+5091.702,SC,South Carolina,2018/01
+5157.702,SC,South Carolina,2019/01
+5132.249,SC,South Carolina,2020/01
+5194.274,SC,South Carolina,2021/01
+5287.935,SC,South Carolina,2022/01
+5387.83,SC,South Carolina,2023/01
+5478.831,SC,South Carolina,2024/01
+7283.0,NY,New York,1900/01
+7449.0,NY,New York,1901/01
+7612.0,NY,New York,1902/01
+7771.0,NY,New York,1903/01
+7927.0,NY,New York,1904/01
+8084.0,NY,New York,1905/01
+8289.0,NY,New York,1906/01
+8499.0,NY,New York,1907/01
+8714.0,NY,New York,1908/01
+8935.0,NY,New York,1909/01
+9137.0,NY,New York,1910/01
+9249.0,NY,New York,1911/01
+9361.0,NY,New York,1912/01
+9473.0,NY,New York,1913/01
+9585.0,NY,New York,1914/01
+9700.0,NY,New York,1915/01
+9848.0,NY,New York,1916/01
+9993.0,NY,New York,1917/01
+9936.0,NY,New York,1918/01
+10252.0,NY,New York,1919/01
+10282.0,NY,New York,1920/01
+10416.0,NY,New York,1921/01
+10589.0,NY,New York,1922/01
+10752.0,NY,New York,1923/01
+10953.0,NY,New York,1924/01
+11186.0,NY,New York,1925/01
+11257.0,NY,New York,1926/01
+11174.0,NY,New York,1927/01
+11599.0,NY,New York,1928/01
+12171.0,NY,New York,1929/01
+12647.0,NY,New York,1930/01
+12848.0,NY,New York,1931/01
+13001.0,NY,New York,1932/01
+13126.0,NY,New York,1933/01
+13253.0,NY,New York,1934/01
+13375.0,NY,New York,1935/01
+13481.0,NY,New York,1936/01
+13511.0,NY,New York,1937/01
+13512.0,NY,New York,1938/01
+13523.0,NY,New York,1939/01
+13456.0,NY,New York,1940/01
+13267.0,NY,New York,1941/01
+13002.0,NY,New York,1942/01
+12807.0,NY,New York,1943/01
+12628.0,NY,New York,1944/01
+12495.0,NY,New York,1945/01
+13398.0,NY,New York,1946/01
+13982.0,NY,New York,1947/01
+14497.0,NY,New York,1948/01
+14892.0,NY,New York,1949/01
+14865.0,NY,New York,1950/01
+14890.0,NY,New York,1951/01
+15192.0,NY,New York,1952/01
+15527.0,NY,New York,1953/01
+15814.0,NY,New York,1954/01
+15966.0,NY,New York,1955/01
+16112.0,NY,New York,1956/01
+16374.0,NY,New York,1957/01
+16601.0,NY,New York,1958/01
+16685.0,NY,New York,1959/01
+16838.0,NY,New York,1960/01
+17061.0,NY,New York,1961/01
+17301.0,NY,New York,1962/01
+17461.0,NY,New York,1963/01
+17589.0,NY,New York,1964/01
+17734.0,NY,New York,1965/01
+17843.0,NY,New York,1966/01
+17935.0,NY,New York,1967/01
+18051.0,NY,New York,1968/01
+18105.0,NY,New York,1969/01
+18241.391,NY,New York,1970/01
+18357.982,NY,New York,1971/01
+18339.4,NY,New York,1972/01
+18177.063,NY,New York,1973/01
+18049.775,NY,New York,1974/01
+18003.485,NY,New York,1975/01
+17940.541,NY,New York,1976/01
+17812.602,NY,New York,1977/01
+17680.589,NY,New York,1978/01
+17583.838,NY,New York,1979/01
+17566.754,NY,New York,1980/01
+17567.734,NY,New York,1981/01
+17589.738,NY,New York,1982/01
+17686.905,NY,New York,1983/01
+17745.684,NY,New York,1984/01
+17791.672,NY,New York,1985/01
+17833.419,NY,New York,1986/01
+17868.848,NY,New York,1987/01
+17941.309,NY,New York,1988/01
+17983.086,NY,New York,1989/01
+18002.855,NY,New York,1990/01
+18029.532,NY,New York,1991/01
+18082.032,NY,New York,1992/01
+18140.894,NY,New York,1993/01
+18156.652,NY,New York,1994/01
+18150.928,NY,New York,1995/01
+18143.805,NY,New York,1996/01
+18143.184,NY,New York,1997/01
+18159.175,NY,New York,1998/01
+18196.601,NY,New York,1999/01
+19001.78,NY,New York,2000/01
+19082.838,NY,New York,2001/01
+19137.8,NY,New York,2002/01
+19175.939,NY,New York,2003/01
+19171.567,NY,New York,2004/01
+19132.61,NY,New York,2005/01
+19104.631,NY,New York,2006/01
+19132.335,NY,New York,2007/01
+19212.436,NY,New York,2008/01
+19307.066,NY,New York,2009/01
+19399.956,NY,New York,2010/01
+19499.921,NY,New York,2011/01
+19574.362,NY,New York,2012/01
+19626.488,NY,New York,2013/01
+19653.431,NY,New York,2014/01
+19657.321,NY,New York,2015/01
+19636.391,NY,New York,2016/01
+19593.849,NY,New York,2017/01
+19544.098,NY,New York,2018/01
+19463.131,NY,New York,2019/01
+20105.171,NY,New York,2020/01
+19848.276,NY,New York,2021/01
+19703.747,NY,New York,2022/01
+19737.367,NY,New York,2023/01
+19867.248,NY,New York,2024/01
+196.0,NM,New Mexico,1900/01
+206.0,NM,New Mexico,1901/01
+218.0,NM,New Mexico,1902/01
+229.0,NM,New Mexico,1903/01
+242.0,NM,New Mexico,1904/01
+255.0,NM,New Mexico,1905/01
+269.0,NM,New Mexico,1906/01
+283.0,NM,New Mexico,1907/01
+298.0,NM,New Mexico,1908/01
+314.0,NM,New Mexico,1909/01
+329.0,NM,New Mexico,1910/01
+334.0,NM,New Mexico,1911/01
+338.0,NM,New Mexico,1912/01
+344.0,NM,New Mexico,1913/01
+348.0,NM,New Mexico,1914/01
+351.0,NM,New Mexico,1915/01
+354.0,NM,New Mexico,1916/01
+361.0,NM,New Mexico,1917/01
+382.0,NM,New Mexico,1918/01
+362.0,NM,New Mexico,1919/01
+363.0,NM,New Mexico,1920/01
+370.0,NM,New Mexico,1921/01
+375.0,NM,New Mexico,1922/01
+382.0,NM,New Mexico,1923/01
+390.0,NM,New Mexico,1924/01
+396.0,NM,New Mexico,1925/01
+403.0,NM,New Mexico,1926/01
+410.0,NM,New Mexico,1927/01
+416.0,NM,New Mexico,1928/01
+420.0,NM,New Mexico,1929/01
+427.0,NM,New Mexico,1930/01
+436.0,NM,New Mexico,1931/01
+441.0,NM,New Mexico,1932/01
+449.0,NM,New Mexico,1933/01
+461.0,NM,New Mexico,1934/01
+475.0,NM,New Mexico,1935/01
+489.0,NM,New Mexico,1936/01
+503.0,NM,New Mexico,1937/01
+513.0,NM,New Mexico,1938/01
+523.0,NM,New Mexico,1939/01
+531.0,NM,New Mexico,1940/01
+506.0,NM,New Mexico,1941/01
+502.0,NM,New Mexico,1942/01
+534.0,NM,New Mexico,1943/01
+527.0,NM,New Mexico,1944/01
+537.0,NM,New Mexico,1945/01
+561.0,NM,New Mexico,1946/01
+582.0,NM,New Mexico,1947/01
+604.0,NM,New Mexico,1948/01
+644.0,NM,New Mexico,1949/01
+689.0,NM,New Mexico,1950/01
+717.0,NM,New Mexico,1951/01
+735.0,NM,New Mexico,1952/01
+756.0,NM,New Mexico,1953/01
+763.0,NM,New Mexico,1954/01
+785.0,NM,New Mexico,1955/01
+806.0,NM,New Mexico,1956/01
+847.0,NM,New Mexico,1957/01
+886.0,NM,New Mexico,1958/01
+919.0,NM,New Mexico,1959/01
+954.0,NM,New Mexico,1960/01
+965.0,NM,New Mexico,1961/01
+979.0,NM,New Mexico,1962/01
+989.0,NM,New Mexico,1963/01
+1006.0,NM,New Mexico,1964/01
+1012.0,NM,New Mexico,1965/01
+1007.0,NM,New Mexico,1966/01
+1000.0,NM,New Mexico,1967/01
+994.0,NM,New Mexico,1968/01
+1011.0,NM,New Mexico,1969/01
+1017.055,NM,New Mexico,1970/01
+1053.737,NM,New Mexico,1971/01
+1078.697,NM,New Mexico,1972/01
+1105.529,NM,New Mexico,1973/01
+1131.309,NM,New Mexico,1974/01
+1159.944,NM,New Mexico,1975/01
+1189.295,NM,New Mexico,1976/01
+1215.72,NM,New Mexico,1977/01
+1238.034,NM,New Mexico,1978/01
+1284.722,NM,New Mexico,1979/01
+1309.4,NM,New Mexico,1980/01
+1332.748,NM,New Mexico,1981/01
+1363.823,NM,New Mexico,1982/01
+1394.361,NM,New Mexico,1983/01
+1416.717,NM,New Mexico,1984/01
+1438.361,NM,New Mexico,1985/01
+1462.729,NM,New Mexico,1986/01
+1478.52,NM,New Mexico,1987/01
+1490.337,NM,New Mexico,1988/01
+1503.901,NM,New Mexico,1989/01
+1519.933,NM,New Mexico,1990/01
+1547.115,NM,New Mexico,1991/01
+1580.75,NM,New Mexico,1992/01
+1614.937,NM,New Mexico,1993/01
+1653.329,NM,New Mexico,1994/01
+1682.417,NM,New Mexico,1995/01
+1706.151,NM,New Mexico,1996/01
+1722.939,NM,New Mexico,1997/01
+1733.535,NM,New Mexico,1998/01
+1739.844,NM,New Mexico,1999/01
+1821.204,NM,New Mexico,2000/01
+1831.69,NM,New Mexico,2001/01
+1855.309,NM,New Mexico,2002/01
+1877.574,NM,New Mexico,2003/01
+1903.808,NM,New Mexico,2004/01
+1932.274,NM,New Mexico,2005/01
+1962.137,NM,New Mexico,2006/01
+1990.07,NM,New Mexico,2007/01
+2010.662,NM,New Mexico,2008/01
+2036.802,NM,New Mexico,2009/01
+2064.614,NM,New Mexico,2010/01
+2080.707,NM,New Mexico,2011/01
+2087.715,NM,New Mexico,2012/01
+2092.833,NM,New Mexico,2013/01
+2090.236,NM,New Mexico,2014/01
+2090.071,NM,New Mexico,2015/01
+2092.555,NM,New Mexico,2016/01
+2092.844,NM,New Mexico,2017/01
+2093.754,NM,New Mexico,2018/01
+2099.634,NM,New Mexico,2019/01
+2118.606,NM,New Mexico,2020/01
+2117.333,NM,New Mexico,2021/01
+2113.868,NM,New Mexico,2022/01
+2121.164,NM,New Mexico,2023/01
+2130.256,NM,New Mexico,2024/01
+1553.0,MS,Mississippi,1900/01
+1578.0,MS,Mississippi,1901/01
+1603.0,MS,Mississippi,1902/01
+1628.0,MS,Mississippi,1903/01
+1653.0,MS,Mississippi,1904/01
+1678.0,MS,Mississippi,1905/01
+1703.0,MS,Mississippi,1906/01
+1728.0,MS,Mississippi,1907/01
+1753.0,MS,Mississippi,1908/01
+1777.0,MS,Mississippi,1909/01
+1802.0,MS,Mississippi,1910/01
+1810.0,MS,Mississippi,1911/01
+1817.0,MS,Mississippi,1912/01
+1827.0,MS,Mississippi,1913/01
+1832.0,MS,Mississippi,1914/01
+1826.0,MS,Mississippi,1915/01
+1823.0,MS,Mississippi,1916/01
+1820.0,MS,Mississippi,1917/01
+1813.0,MS,Mississippi,1918/01
+1790.0,MS,Mississippi,1919/01
+1800.0,MS,Mississippi,1920/01
+1823.0,MS,Mississippi,1921/01
+1836.0,MS,Mississippi,1922/01
+1858.0,MS,Mississippi,1923/01
+1886.0,MS,Mississippi,1924/01
+1910.0,MS,Mississippi,1925/01
+1935.0,MS,Mississippi,1926/01
+1962.0,MS,Mississippi,1927/01
+1981.0,MS,Mississippi,1928/01
+1998.0,MS,Mississippi,1929/01
+2006.0,MS,Mississippi,1930/01
+1994.0,MS,Mississippi,1931/01
+2004.0,MS,Mississippi,1932/01
+2031.0,MS,Mississippi,1933/01
+2050.0,MS,Mississippi,1934/01
+2061.0,MS,Mississippi,1935/01
+2072.0,MS,Mississippi,1936/01
+2086.0,MS,Mississippi,1937/01
+2127.0,MS,Mississippi,1938/01
+2168.0,MS,Mississippi,1939/01
+2176.0,MS,Mississippi,1940/01
+2184.0,MS,Mississippi,1941/01
+2210.0,MS,Mississippi,1942/01
+2280.0,MS,Mississippi,1943/01
+2167.0,MS,Mississippi,1944/01
+2090.0,MS,Mississippi,1945/01
+2064.0,MS,Mississippi,1946/01
+2107.0,MS,Mississippi,1947/01
+2076.0,MS,Mississippi,1948/01
+2085.0,MS,Mississippi,1949/01
+2176.0,MS,Mississippi,1950/01
+2163.0,MS,Mississippi,1951/01
+2152.0,MS,Mississippi,1952/01
+2105.0,MS,Mississippi,1953/01
+2064.0,MS,Mississippi,1954/01
+2060.0,MS,Mississippi,1955/01
+2086.0,MS,Mississippi,1956/01
+2088.0,MS,Mississippi,1957/01
+2086.0,MS,Mississippi,1958/01
+2138.0,MS,Mississippi,1959/01
+2182.0,MS,Mississippi,1960/01
+2206.0,MS,Mississippi,1961/01
+2243.0,MS,Mississippi,1962/01
+2244.0,MS,Mississippi,1963/01
+2241.0,MS,Mississippi,1964/01
+2246.0,MS,Mississippi,1965/01
+2245.0,MS,Mississippi,1966/01
+2228.0,MS,Mississippi,1967/01
+2219.0,MS,Mississippi,1968/01
+2220.0,MS,Mississippi,1969/01
+2216.994,MS,Mississippi,1970/01
+2265.432,MS,Mississippi,1971/01
+2307.117,MS,Mississippi,1972/01
+2349.546,MS,Mississippi,1973/01
+2378.268,MS,Mississippi,1974/01
+2399.449,MS,Mississippi,1975/01
+2429.756,MS,Mississippi,1976/01
+2459.201,MS,Mississippi,1977/01
+2487.816,MS,Mississippi,1978/01
+2507.069,MS,Mississippi,1979/01
+2525.342,MS,Mississippi,1980/01
+2539.036,MS,Mississippi,1981/01
+2556.777,MS,Mississippi,1982/01
+2567.717,MS,Mississippi,1983/01
+2578.051,MS,Mississippi,1984/01
+2588.102,MS,Mississippi,1985/01
+2593.597,MS,Mississippi,1986/01
+2588.545,MS,Mississippi,1987/01
+2580.352,MS,Mississippi,1988/01
+2574.269,MS,Mississippi,1989/01
+2577.426,MS,Mississippi,1990/01
+2591.23,MS,Mississippi,1991/01
+2610.193,MS,Mississippi,1992/01
+2635.574,MS,Mississippi,1993/01
+2663.45,MS,Mississippi,1994/01
+2690.788,MS,Mississippi,1995/01
+2709.925,MS,Mississippi,1996/01
+2731.826,MS,Mississippi,1997/01
+2751.335,MS,Mississippi,1998/01
+2768.619,MS,Mississippi,1999/01
+2848.353,MS,Mississippi,2000/01
+2852.994,MS,Mississippi,2001/01
+2858.681,MS,Mississippi,2002/01
+2868.312,MS,Mississippi,2003/01
+2889.01,MS,Mississippi,2004/01
+2905.943,MS,Mississippi,2005/01
+2904.978,MS,Mississippi,2006/01
+2928.35,MS,Mississippi,2007/01
+2947.806,MS,Mississippi,2008/01
+2958.774,MS,Mississippi,2009/01
+2970.615,MS,Mississippi,2010/01
+2979.147,MS,Mississippi,2011/01
+2984.599,MS,Mississippi,2012/01
+2989.839,MS,Mississippi,2013/01
+2991.892,MS,Mississippi,2014/01
+2990.231,MS,Mississippi,2015/01
+2990.595,MS,Mississippi,2016/01
+2990.674,MS,Mississippi,2017/01
+2982.879,MS,Mississippi,2018/01
+2978.227,MS,Mississippi,2019/01
+2958.536,MS,Mississippi,2020/01
+2947.209,MS,Mississippi,2021/01
+2941.939,MS,Mississippi,2022/01
+2943.172,MS,Mississippi,2023/01
+2943.045,MS,Mississippi,2024/01
+4828.0,IL,Illinois,1900/01
+4914.0,IL,Illinois,1901/01
+4992.0,IL,Illinois,1902/01
+5071.0,IL,Illinois,1903/01
+5161.0,IL,Illinois,1904/01
+5241.0,IL,Illinois,1905/01
+5309.0,IL,Illinois,1906/01
+5384.0,IL,Illinois,1907/01
+5474.0,IL,Illinois,1908/01
+5567.0,IL,Illinois,1909/01
+5668.0,IL,Illinois,1910/01
+5757.0,IL,Illinois,1911/01
+5828.0,IL,Illinois,1912/01
+5961.0,IL,Illinois,1913/01
+6109.0,IL,Illinois,1914/01
+6194.0,IL,Illinois,1915/01
+6274.0,IL,Illinois,1916/01
+6313.0,IL,Illinois,1917/01
+6275.0,IL,Illinois,1918/01
+6392.0,IL,Illinois,1919/01
+6663.0,IL,Illinois,1920/01
+6858.0,IL,Illinois,1921/01
+6958.0,IL,Illinois,1922/01
+7068.0,IL,Illinois,1923/01
+7215.0,IL,Illinois,1924/01
+7306.0,IL,Illinois,1925/01
+7395.0,IL,Illinois,1926/01
+7519.0,IL,Illinois,1927/01
+7576.0,IL,Illinois,1928/01
+7606.0,IL,Illinois,1929/01
+7644.0,IL,Illinois,1930/01
+7687.0,IL,Illinois,1931/01
+7736.0,IL,Illinois,1932/01
+7768.0,IL,Illinois,1933/01
+7772.0,IL,Illinois,1934/01
+7797.0,IL,Illinois,1935/01
+7840.0,IL,Illinois,1936/01
+7857.0,IL,Illinois,1937/01
+7866.0,IL,Illinois,1938/01
+7890.0,IL,Illinois,1939/01
+7905.0,IL,Illinois,1940/01
+7995.0,IL,Illinois,1941/01
+8057.0,IL,Illinois,1942/01
+7761.0,IL,Illinois,1943/01
+7719.0,IL,Illinois,1944/01
+7601.0,IL,Illinois,1945/01
+8155.0,IL,Illinois,1946/01
+8341.0,IL,Illinois,1947/01
+8552.0,IL,Illinois,1948/01
+8670.0,IL,Illinois,1949/01
+8738.0,IL,Illinois,1950/01
+8790.0,IL,Illinois,1951/01
+8956.0,IL,Illinois,1952/01
+9065.0,IL,Illinois,1953/01
+9252.0,IL,Illinois,1954/01
+9435.0,IL,Illinois,1955/01
+9530.0,IL,Illinois,1956/01
+9668.0,IL,Illinois,1957/01
+9886.0,IL,Illinois,1958/01
+9986.0,IL,Illinois,1959/01
+10086.0,IL,Illinois,1960/01
+10130.0,IL,Illinois,1961/01
+10280.0,IL,Illinois,1962/01
+10402.0,IL,Illinois,1963/01
+10580.0,IL,Illinois,1964/01
+10693.0,IL,Illinois,1965/01
+10836.0,IL,Illinois,1966/01
+10947.0,IL,Illinois,1967/01
+10995.0,IL,Illinois,1968/01
+11039.0,IL,Illinois,1969/01
+11110.285,IL,Illinois,1970/01
+11202.397,IL,Illinois,1971/01
+11251.948,IL,Illinois,1972/01
+11251.367,IL,Illinois,1973/01
+11262.145,IL,Illinois,1974/01
+11291.743,IL,Illinois,1975/01
+11342.853,IL,Illinois,1976/01
+11386.316,IL,Illinois,1977/01
+11412.561,IL,Illinois,1978/01
+11396.837,IL,Illinois,1979/01
+11434.702,IL,Illinois,1980/01
+11443.458,IL,Illinois,1981/01
+11423.412,IL,Illinois,1982/01
+11408.818,IL,Illinois,1983/01
+11412.132,IL,Illinois,1984/01
+11399.806,IL,Illinois,1985/01
+11387.257,IL,Illinois,1986/01
+11391.178,IL,Illinois,1987/01
+11390.183,IL,Illinois,1988/01
+11409.782,IL,Illinois,1989/01
+11446.979,IL,Illinois,1990/01
+11535.973,IL,Illinois,1991/01
+11635.197,IL,Illinois,1992/01
+11725.984,IL,Illinois,1993/01
+11804.986,IL,Illinois,1994/01
+11884.935,IL,Illinois,1995/01
+11953.003,IL,Illinois,1996/01
+12011.509,IL,Illinois,1997/01
+12069.774,IL,Illinois,1998/01
+12128.37,IL,Illinois,1999/01
+12434.161,IL,Illinois,2000/01
+12488.445,IL,Illinois,2001/01
+12525.556,IL,Illinois,2002/01
+12556.006,IL,Illinois,2003/01
+12589.773,IL,Illinois,2004/01
+12609.903,IL,Illinois,2005/01
+12643.955,IL,Illinois,2006/01
+12695.866,IL,Illinois,2007/01
+12747.038,IL,Illinois,2008/01
+12796.778,IL,Illinois,2009/01
+12840.545,IL,Illinois,2010/01
+12867.783,IL,Illinois,2011/01
+12883.029,IL,Illinois,2012/01
+12895.778,IL,Illinois,2013/01
+12885.092,IL,Illinois,2014/01
+12859.585,IL,Illinois,2015/01
+12821.709,IL,Illinois,2016/01
+12779.893,IL,Illinois,2017/01
+12724.685,IL,Illinois,2018/01
+12667.017,IL,Illinois,2019/01
+12799.088,IL,Illinois,2020/01
+12700.641,IL,Illinois,2021/01
+12621.821,IL,Illinois,2022/01
+12642.259,IL,Illinois,2023/01
+12710.158,IL,Illinois,2024/01
