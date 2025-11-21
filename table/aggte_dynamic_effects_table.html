@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 20px auto;
+        font-size: 14px;
+    }
+    th {
+        background-color: #f8f9fa;
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
+    td {
+        border-bottom: 1px solid #ddd;
+        padding: 8px;
+        text-align: right;
+    }
+    td:first-child {
+        text-align: center;
+    }
+    tbody tr:last-child td {
+        border-bottom: 2px solid #000;
+    }
+</style>
+</head>
+<body>
+<table class="dataframe">
+  <thead>
+    <tr>
+      <th>Event time</th>
+      <th colspan="3" halign="left">CSDID (No Covariates)</th>
+      <th colspan="3" halign="left">CSDID (With Covariates)</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Estimate</th>
+      <th>Std. Error</th>
+      <th>[95% Simult. Conf. Band]</th>
+      <th>Estimate</th>
+      <th>Std. Error</th>
+      <th>[95% Simult. Conf. Band]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>-7</td>
+      <td>2.980</td>
+      <td>0.308</td>
+      <td>[2.3761, 3.5831]</td>
+      <td>2.461</td>
+      <td>0.264</td>
+      <td>[1.9431, 2.9780]</td>
+    </tr>
+    <tr>
+      <td>-6</td>
+      <td>0.602</td>
+      <td>0.387</td>
+      <td>[-0.1571, 1.3612]</td>
+      <td>0.862</td>
+      <td>0.334</td>
+      <td>[0.2071, 1.5167]</td>
+    </tr>
+    <tr>
+      <td>-5</td>
+      <td>2.276</td>
+      <td>0.302</td>
+      <td>[1.6838, 2.8672]</td>
+      <td>1.915</td>
+      <td>0.503</td>
+      <td>[0.9299, 2.9006]</td>
+    </tr>
+    <tr>
+      <td>-4</td>
+      <td>0.092</td>
+      <td>0.616</td>
+      <td>[-1.1152, 1.2988]</td>
+      <td>0.712</td>
+      <td>0.794</td>
+      <td>[-0.8432, 2.2676]</td>
+    </tr>
+    <tr>
+      <td>-3</td>
+      <td>-0.980</td>
+      <td>0.921</td>
+      <td>[-2.7843, 0.8252]</td>
+      <td>-0.482</td>
+      <td>0.814</td>
+      <td>[-2.0769, 1.1124]</td>
+    </tr>
+    <tr>
+      <td>-2</td>
+      <td>-1.020</td>
+      <td>0.960</td>
+      <td>[-2.9020, 0.8611]</td>
+      <td>-0.401</td>
+      <td>0.594</td>
+      <td>[-1.5648, 0.7634]</td>
+    </tr>
+    <tr>
+      <td>-1</td>
+      <td>6.714</td>
+      <td>0.816</td>
+      <td>[5.1159, 8.3127]</td>
+      <td>7.067</td>
+      <td>1.008</td>
+      <td>[5.0909, 9.0433]</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>100.561</td>
+      <td>1.129</td>
+      <td>[98.3485, 102.7740] *</td>
+      <td>99.530</td>
+      <td>0.960</td>
+      <td>[97.6472, 101.4121] *</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>17.286</td>
+      <td>1.714</td>
+      <td>[13.9255, 20.6459]</td>
+      <td>16.690</td>
+      <td>1.637</td>
+      <td>[13.4802, 19.8988]</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2.122</td>
+      <td>1.194</td>
+      <td>[-0.2185, 4.4634]</td>
+      <td>1.478</td>
+      <td>1.267</td>
+      <td>[-1.0051, 3.9612]</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3.796</td>
+      <td>0.924</td>
+      <td>[1.9847, 5.6071]</td>
+      <td>1.675</td>
+      <td>0.114</td>
+      <td>[1.4517, 1.8990]</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

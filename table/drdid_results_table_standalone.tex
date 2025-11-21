@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{booktabs}
+\begin{document}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrrl}
+\toprule
+ & drdid ATT & Std. Error & t-value & Pr(>|t|) & [95% Conf. Interval] \\
+\midrule
+DC & 179.380000 & 0.686376 & 261.343640 & 0.000000 & [178.0347, 180.7253] \\
+IL & 24.480000 & 3.148745 & 7.774527 & 0.000000 & [18.3085, 30.6515] \\
+DC (with crime rate) & 178.328657 & 0.407258 & 437.876345 & 0.000000 & [177.5304, 179.1269] \\
+IL (with crime rate) & 23.906547 & 2.470247 & 9.677794 & 0.000000 & [19.0649, 28.7482] \\
+\bottomrule
+\end{tabular}
+\caption{Doubly Robust DiD Results}
+\end{table}
+
+\end{document}
+
+

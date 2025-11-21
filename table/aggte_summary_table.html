@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 20px auto;
+        font-size: 14px;
+    }
+    th {
+        background-color: #f8f9fa;
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
+    td {
+        border-bottom: 1px solid #ddd;
+        padding: 8px;
+        text-align: right;
+    }
+    td:first-child {
+        text-align: left;
+    }
+    tbody tr:last-child td {
+        border-bottom: 2px solid #000;
+    }
+</style>
+</head>
+<body>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Model</th>
+      <th>ATT</th>
+      <th>Std. Error</th>
+      <th>[95% Conf. Interval]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CSDID (No Covariates)</td>
+      <td>30.941</td>
+      <td>1.324</td>
+      <td>[28.3462, 33.5365] *</td>
+    </tr>
+    <tr>
+      <td>CSDID (With Covariates)</td>
+      <td>29.843</td>
+      <td>0.974</td>
+      <td>[27.9338, 31.7524] *</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
