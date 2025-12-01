@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Query a National Park Service Site</title>
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+  <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+  <script src="https://js.arcgis.com/4.5/"></script>
+
+  <script>
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/layers/FeatureLayer",
+      "esri/layers/GraphicsLayer",
+      "esri/Graphic",
+      "dojo/domReady!"
+    ], function(Map, MapView, FeatureLayer, GraphicsLayer, Graphic) {
+
+      //Graphic layer to display results.
+      var resultsLayer = new GraphicsLayer();
+    
+      //Map 
+      var map = new Map({
+        basemap: "streets",
+        layers: [resultsLayer]
+      });
+
+      //The MapView that displays the map.
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        zoom: 5,
+        center: [-112.9007, 45.0379] // longitude, latitude
+      });
+
+      //Feature layer to search
+      var featureLayer = new FeatureLayer({
+          url: "https://services.arcgis.com/V6ZHFr6zdgNZuVG0/ArcGIS/rest/services/national_park_service/FeatureServer/0"
+      });
+   
+      //Polygon geometry to search with
+      
+      var polygon = {
+        type: "",
+        spatialReference:{wkid: },
+        rings: [
+
+        ]
+      };
+
+      //Fill symbol for the polygon geometry
+      var fillSymbol = {
+        type: "simple-fill", // autocasts as new SimpleFillSymbol()
+        color: [227, 139, 79, 0.8],
+        outline: { // autocasts as new SimpleLineSymbol()
+          color: [255, 255, 255],
+          width: 1
+        }
+      };
+
+      //Add the geometry and symbol to a new graphic
+      var polygonGraphic = new Graphic({
+        geometry: ,
+        symbol: fillSymbol
+      });
+
+      //Add the polygon graphic to the graphics layer.
+      view.graphics.add(polygonGraphic);
+
+      //Create a Query from the feature layer
+      var query = featureLayer.createQuery();
+      query.geometry = polygonGraphic.geometry;
+      query.spatalRelationship = "contains";  
+
+      //Query features on the feature layer using the Query.
+      featureLayer.queryFeatures(query).then(function(results){
+      //Pass the results of the query to the displayResults function.    
+
+      })
+      .otherwise(function(error){
+          console.log(typeof error);
+          console.log(JSON.stringify(error));  
+      });
+
+      //function to display the results of the Query.
+      function displayResults(results){
+          var features = results.features.map(function(graphic){
+              graphic.symbol = {
+                  type: "simple-marker",
+                  style: "diamond",
+                  size: 26.5,
+                  color: "red"
+              };
+              return graphic;
+          });
+          resultsLayer.addMany(features);
+          } 
+      map.add(featureLayer);
+    });
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+</body>
+</html>

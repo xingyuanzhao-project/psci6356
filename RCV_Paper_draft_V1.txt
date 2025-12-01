@@ -1,0 +1,191 @@
+Student: Ethan A. Hughes and Kasey H. Yin
+PSCI 6356 The Rise and Fall of Democracy
+Professor: Dr. Pinkney
+November 2025
+Democratic Participation across Urban and Rural Contexts in the United States: Evidence from Ranked-Choice Voting Reforms
+Research Draft
+Abstract
+Ranked-Choice Voting (RCV) has become a key piece of electoral reform for both state and local governments across the United States in recent years. RCV is viewed as a tool to enhance political representation, decrease polarization, and keep people politically engaged. This gives us a chance to empirically test these theoretical claims regarding voter participation, particularly in general elections. Specifically, we study the causal effect of RCV on voter turnout and analyze its heterogeneous impacts across urban and rural contexts. This will involve two main questions:
+
+First, does RCV increase or decrease voter turnout in general elections? Second, are these effects heterogeneous across urban and rural settings? Third, is there a learning curve? To address these questions, we employ a Difference-in-Differences (DID) design utilizing municipality-level voting data from Maine and a matched control group (using machine learning to match) to estimate the impact of RCV implementation on voter participation.
+
+Applying strict U.S. Census definitions of urban versus rural, we further examine whether RCV generates heterogeneous effects across urban and rural populations. Contrary to the theoretical expectation that RCV would immediately enhance democratic engagement, our results reveal a scientifically significant initial decline in voter turnout following implementation in 2020. Meanwhile, the explanatory power of main model exceeds 70%. Surprisingly, this negative impact was significantly more pronounced in urban municipalities compared to rural ones. This challenges traditional resource theories and instead supports a choice overload hypothesis, where the higher candidate density in urban elections imposes steeper cognitive costs. Crucially, however, our dynamic analysis identifies a distinct learning curve: this suppressive effect attenuated significantly in the 2024 election cycle, suggesting that voters gradually adapt to the new ballot structure over time.
+I Research Question
+Main Question: To what extent does Ranked-Choice Voting (RCV) affect voter turnout, and is this impact moderated by the urban or rural nature of the municipality?
+Sub-question 1: Does RCV lead to an increase or decrease in the aggregate turnout rate?
+Sub-question 2: Is the impact of RCV on turnout significantly different in urban areas compared to rural areas?
+Sub-question 3: If RCV leads to a decrease in turnout, is there also a learning curve?
+
+
+II Literature Review
+1. Introduction of Ranked-choice voting (RCV)
+Ranked-choice voting (RCV) is not a new concept, but it is new for the United States. It was first conceived of in the 1850s in Europe for multi-winner elections and later adapted for single winners. It was adopted in multiple parts of Australia’s elections as well as Ireland, and parts of Europe . And in 1915 RCV was first adopted in the United States in Ashtabula, Ohio, and in the following years would spread to many more cities, as well as the general elections of Alaska and Maine . 
+
+RCV is one of the alternatives to plurality voting, where plurality voting involves the majority vote winning the election, and RCV starts with the voters’ rankings of the candidates from best to worst and removes them one at a time based on who was ranked the lowest overall, until only the number of candidates you need remains . This study is meant to show that RCV has a marked effect on turnout according to several studies and our own regression and difference in difference analysis . In the following sections we will discuss how scholars have studied the effect of RCV on voter participation.
+
+In an earlier work from Aldrich, he studies the effect of rational decision making models on voter turnout, and comes to the conclusion that due to the myriad of factors that can affect whether someone decides to vote on the day, it’s not as simple as explaining it with collective action . From this we can deduce that ranked choice voting while it might influence voting decisions, it’s only likely to have a marginal effect. 
+
+In a work from Joseph Coll, they find that older individuals are no less likely to participate in ranking under RCV despite finding it more difficult that any of the other groups involved . This lends credence to the idea even for those that find RCV to be a difficult change from the plurality voting system, it won’t alter their participation in the voting. In this same vein, looking at the more modern article from Dowling. They find evidence of increased voter participation based on higher levels of voter outreach success , hopefully our study can build on insights in this area. And in an article from Courtney Juelich, ranked-choice-voting has shown evidence of increased youth voter participation, which makes some sense in youth voters are more likely to be invested in longshot candidates who would benefit from the RCV system , and the fact that older voters do not show much change could also be important when looking into the effects of voter participation in rural vs urban centers, where urban areas are more likely to include younger individuals .
+
+Looking at the article from John Curtice, we would gather that when RCV is held at a more local level like Scotland is within the UK compared to a national level like Ireland, and especially when the voting is still new, people are more likely to use less of the ballot and engage less with ranked choice voting or single transferable vote (STV) also known as proportional ranked choice voting .
+
+2. RCV and the measurement of democratic participation
+Drawing from modern democratic theory, Dahl in his book  explicitly listed “effective participation” among his five criteria for the democratic process and included “free and fair elections” as one of the institutional guarantees. Similarly, Schmitter and Karl  argue that competition (achieved through free and fair elections) and participation form the foundation of modern democracy. Since RCV is essentially still a form of competitive election and its voter turnout is clear and measurable, this turnout can serve as an effective empirical indicator for measuring the level of democratic participation. Furthermore, Pateman emphasizes that citizen involvement and political equality are important to democracy . These literatures support the need for further discussion about RCV and its impact on democratic participation.
+
+Building on these foundational goals, proponents of Ranked-Choice Voting (RCV) argue that this specific institutional reform can enhance democratic participation. For example, Michael Tomasky explicitly suggested that RCV could be considered for congressional elections to reduce polarization (and thus prevent the political collapse of the U.S. and foster democracy). Theoretically, RCV is expected to increase turnout by eliminating the wasted vote dilemma inherent in plurality systems, thus incentivizing sincere voting and encouraging broader participation in competitive elections. By allowing voters to express preferences for multiple candidates, RCV aims to lower the stakes of strategic calculation, theoretically making the act of voting more expressive and meaningful. 
+
+In particular, Dowling et al  using individual level data in local election in non-election years (2021), find significant and substantially higher probabilities of turnout in places that use RCV, and find evidence that campaigns implementing RCV have greater incidences of direct voter contact than in similar places that do not use RCV. However, this article only uses data from a single non-election year. Existing RCV literature has not yet covered quantitative research on more representative general elections. 
+
+3. Mechanisms and gaps in RCV turnout research
+To empirically evaluate whether RCV fulfills this democratic promise, we must operationalize the concept of participation into a measurable indicator. Scholars like Munck & Verkuilen  and Coppedge et al.  have contributed to the measurement and operationalization of democracy, following them, we treat voter turnout as the primary indicator for democratic engagement.
+
+Although voter turnout has been established as an effective indicator, the question of how RCV affects turnout and the mechanism are still not covered by the existing literature. Since this research, which is broken down into two sub-questions, aims to partially address the promotion of democracy by RCV through the answer to a specific research question. 
+
+Contrasting with the mobilization perspective, a competing body of literature grounded in rational choice theory suggests that RCV may inadvertently suppress turnout by increasing the cost of voting. Mcdaniel  argues that RCV imposes significant initial cognitive costs: voters must gather information on multiple candidates and rank them, a task far more demanding than simply selecting a single name. This informational burden implies that the mechanism affecting turnout is not solely about democratic enthusiasm, but about the trade-off between the desire to participate and the complexity of the ballot.
+
+The salience of these cognitive costs, however, may be contingent upon the broader electoral environment. Existing studies highlight a crucial distinction between high-information general elections and low-information local contests. Kimball and Anthony  posit that the high baseline mobilization and saturation of political ads in general elections may mask the distinct effects of ballot design. Conversely, local elections, which often suffer from persistently low baseline turnout and limited media coverage, provide a clearer setting to observe the marginal impact of institutional changes . Therefore, analyzing municipal-level data offers a more precise test of whether the complexity of RCV acts as a barrier to participation.
+
+III Theory
+1. Democratic participation
+Dahl and Schmitter & Karl  define modern democracy through effective participation and free and fair elections. Dahl includes “Effective participation” as one of the five criteria for a democratic process, and he listed “Free and fair elections” as one of the eight institutional guarantees. Schmitter & Karl view competition (achieved through free and fair elections) and participation as the foundation of modern democracy. Pateman  emphasizes citizen involvement and political equality as essential elements of democratic quality. This view helps to explain how Ranked-Choice Voting (RCV) increases democratic participation.
+
+All these existing works can support treating turnout as a valid indicator of democratic participation. RCV as an electoral reform is still a form of competitive election, and it also has clear and measurable turnout, therefore, RCV turnout can serve as a valid indicator of democratic participation. So, the conceptual basis for using turnout as the dependent variable is strong in this research, and the dependent variable should show that higher or more inclusive voter turnout reflects more democratic participation. 
+
+In evidence from the five-thirty-eight, they show that affective polarization is increasing faster in countries with only two parties . And in evidence from fair observers, they have shown that the two-party system has led to increased levels of corruption . Not to mention in an article from Pew Research, they show that there is growing frustration with the two party system, showing that the support for more political parties is growing among both Democrats and Republicans . To put these three articles into the context of the larger paper, in an article by the UK Democratic Audit using data from global corruption assessments, it is shown that perceived corruption decreases voter turnout. And in another article from Rogowski, it is shown that ideological conflict like the kind seen in the pew research also decreases voter turnout . And in a separate article by Eelco Harteveld, it has been shown that affective polarization increases turnout . From this we can gather that an increased perceived effectiveness of third party candidates could have a both positive and negative effect on voter turnout, which explains the counterintuitive results where some scientists have managed to find a positive relationship with voter turnout, but we have not . However, not all is lost, in an article from George Ward we can see that lower voter turnout can be due to increased happiness if we take reverse causality into account . In the Book by David Broder as referenced by the article by Jack Dennis, they say that voter turnout in elections will show a decline in public support for the party system  . So, we should be able to presume a link between the increase in voter turnout and increased support for the party system under ranked choice voting initiatives.
+
+To measure the true effect of the RCV on democratic participation by using voter turnout as the dependent variable, this research applies the cross-jurisdictional data. Specifically, this research needs to gather several pieces of cross-jurisdictional data from different states and cities and put them together for comparative analysis. 
+
+Munck & Verkuilen and Coppedge et al.  give us measurement and operationalization of democracy, they emphasize that the participation of democracy must be divided into measurable dimensions to further research. It seems reasonable to consider voter turnout as an effective indicator of the participation of democracy. Meanwhile, their method of using the V-Dem framework proves that even the data from different jurisdictions can be reliable under the condition of the same measurement dimensions. Their work provides a theoretical basis and tools for measurement and operationalization. Therefore, the cross-jurisdictional data employed in this research is valid and reliable for comparative analysis of democratic participation. 
+
+Additionally, support for a third political party has remained consistently high, in fact in the past 10 years more than 50% of people have said that a third-party is needed in the United States . This likely includes 51% of people who currently identify as independent in the US . As well as the 1.2% of the presidential vote which went to the libertarian party in 2020 and the 0.2% of the vote which went to the green party in the same year. Not to mention parties like the Forward Party, Socialism and Liberation Party, and Justice for All parties which have in their own times had significant footprints . Some people say that these parties have spoiled the elections for their Democrat and Republican colleagues in the years when they have been especially popular like 2000. All of this is to say that it’s not just a public detest of the two-party system but is also a desire for a third-party large enough to mix things up. Independents are 1.5x more likely not to vote than vote, a likelihood which is flipped when it comes to those who are party-affiliated . This is to say that RCV has a significant change of increasing political participation through turnout.
+
+2. The general election context
+This study seeks to establish strong causal inference regarding the effects of RCV by shifting the analytical focus from municipal-level pilot programs to statewide implementation. While existing literature  has predominantly tested RCV in the context of off-cycle local elections in 2021 (for example: mayoral races), these settings often suffer from low baseline turnout. And general elections and local elections represent distinct political environments.  To maximize the robustness of our causal evidence, we analyze data from general election cycles in Maine, the first state to adopt RCV for federal and state-level offices.
+
+This focus leads to our first sub-question: Does RCV stimulate or suppress voter turnout in the context of high-stakes general elections?
+
+If RCV is found to suppress turnout even in this high-engagement environment, it would provide powerful evidence of the system’s cognitive costs. We posit that the complexity of ranking candidates may counteract the mobilization effects typically seen in general elections.
+
+As the cognitive burden of ranking multiple candidates imposes higher information costs on voters. So, we developed our H1 as:
+H1: Implementation of RCV will lead to a decrease in voter turnout in general elections, 
+
+Local elections show consistently low and less representative turnout rates when compared to general elections, less than 50% the turnout of general elections . The voters who do come to local elections are motivated and thereby more likely to go through the effort of understanding new voting methods like RCV. There are a variety of possible motivations that could be pushing local voters, but there are no studies built specifically to identify these as separate from general elections . However, it is clear that local issues can’t be the whole story .
+
+And since the general elections are exposed to a high noise political environment, while the local elections are exposed to a low noise political environment. We suppose that the impact of changes to the RCV itself on voter participation in decision-making is most clearly visible in local elections, and the effects of RCV in general elections may be counteracted. By using comparative analysis, local elections may serve as the primary observation area for the RCV effect on voter turnout.
+
+However, we posit that this suppressive effect is not permanent. Drawing on voter learning theory, we argue that the cognitive costs associated with new electoral rules are highest at the point of initial implementation. As voters may gain more experience with the mechanics of ranking candidates over subsequent election cycles, the information burden diminishes. 
+
+A learning curve is exhibited where participation rates recover in subsequent election cycles as voters adapt to the new system. As such, we developed our H2 as:
+In general elections, the negative effect of RCV on voter turnout will attenuate over time.
+
+3. Rural versus urban
+This section analyzes the heterogeneous effects of RCV on voter turnout.
+
+To fully respond to the existing related academic literature, particularly Patman  emphasis on political equality, this research tries to go further, not only measuring the overall effects of the preferred alternative voting system but tries to analyze which groups benefit from this RCV reform. While traditional resource theories might suggest urban environments are better equipped to overcome cognitive barriers, we argue that the higher density of candidates in urban elections may instead create choice overload, thereby exacerbate the cognitive cost and suppress turnout more severely in urban centers compared to rural areas.
+
+Driven by the higher cognitive complexity of urban ballots, we developed our H3 as: 
+RCV will lead to a greater decline in voter turnout in urban areas compared to rural areas.
+
+Additionally, from research by Banerjee and Petersen, we find that urban areas are catalyzed for social learning, and as such are more likely to learn the nuances of RCV faster than rural areas . Similar information can be found in research by Maarseveen involving children in the Netherlands who in urban areas consistently invested more time into education than those in rural environments, though this might be more of a stretch considering children’s focus on education is based more on the time in their lives, whereas most voting age adults learning about RCV have already passed this time by . Therefore, if RCV temporarily reduces voter turnout, particularly with a more pronounced decline in urban areas, the potential learning effects in these urban areas warrant further investigation.
+
+
+IV Hypotheses
+H1: Implementation of RCV will lead to a decrease in voter turnout in general elections.
+
+H2: In general elections, the negative effect of RCV on voter turnout will attenuate over time.
+
+H3: RCV will lead to a greater decline in voter turnout in urban areas compared to rural areas.
+
+
+V Research Design
+1. Data Source and Sample Selection 
+Our research uses a causal inference design for a quantitative analysis using voting data from existing government sources for Maine as well as multiple existing city data sources. The timeline for these sources of data vary tremendously as the first city in the US to implement RCV did so in 1915, but Maine and Alaska have only used RCV statewide for the last 4 years , as a result some of what can be gleaned from our results may be limited, especially with limited options for random sampling.  (Why did we only choose the state of Maine, and not include Alaska in this discussion? See the explanation in the appendix). To test the causal impact of RCV on voter turnout, we constructed a panel dataset which includes comprehensive municipality-level spanning four general election cycles: 2012, 2016, 2020, and 2024. 
+
+We selected Maine as the treatment group, as it is the first state in the U.S. to implement RCV for federal general elections (starting in 2020). We built original datasets for this research ourselves. Our original datasets are from a set of raw data. And the row data was collected from the Maine Department of the Secretary of State, and after essential data engineering processes, our dataset for Maine covers 488 municipalities. 
+
+To account for temporal trends in voter participation, we use machine learning techniques to select Wisconsin as a comparable control group and keep the same unit of analysis (Municipalities*Year) as Maine. 
+Also the unit of analysis for the main model is the “Municipality * Year (2012, 2016, 2020, 2024).” And we have more than 2,000 observations.
+
+2. Variable definitions
+The dependent variable is the voter turnout rate. And the independent variable is a dummy variable indicating the presence of the RCV treatment. The implementation timeline is defined as:
+
+
+To test H2, we adopt the newest strict U.S. Census Bureau definition for urban clusters (urban: the number of people more than 5000,). Since our dataset relies on voter registration files, we applied a calibrated threshold:
+Urban: Municipalities with more than 4,000 registered voters (approximating the census standard of >5,000 total population).
+Rural: Municipalities with equal less than 4,000 registered voters.
+
+3. Difference-in-Differences (DID) estimation strategy
+We employ a Difference-in-Differences (DID) estimation approach to isolate the causal effect of RCV. The baseline model is specified as follows:
+
+
+4. Heterogeneity test model
+For the heterogeneity model to test the heterogeneity of urban versus rural in Maine, we also have:
+
+
+4. Control group for main model: selected by machine learning 
+We adopted the nearest neighbor matching algorithm based on minimum mean absolute difference.
+
+The algorithm traverses all potential control states and calculates the mean absolute difference between the pre-intervention outcome value for each state and the outcome value for the treatment state. We select the state with the smallest minimum means absolute difference which indicates the highest similarity in pre-intervention trends as the primary control group. Figure 1 shows a snippet of python code inscribing a method for finding the control group.
+
+
+[Figure 1]
+
+[Figure 2]
+Figure 2 shows a graph comparing Maine and Wisconsin turnout treated with Maine RCV. Values where turnout is 0% are used to show missing data, these are not used when calculating suitability. 
+VI Results
+1. Parallel test for DID: Approved
+
+[Figure 3]
+Figure 3 shows the DID assumption analysis for Maine and Wisconsin.
+According to the results of the parallel trend test model, Maine and the selected control group satisfy the parallel trend test hypothesis.
+
+2. Maine DID results: P < 0.001***, & R2 > 70%
+After controlling for fixed effects of municipality and the year, the DID results show that the implementation of RCV resulted in an average decrease of approximately 5.9 percentage points in voter turnout compared to the control group where RCV was not implemented. The regression results demonstrate a highly robust and statistically significant negative effect when P < 0.001, and R2 > 70%.
+
+Table 1 shows the main DID results. The results also ruled out explanations such as certain cities inherently having low voter turnout or nationwide voter turnout being generally low during those years, making the causal inference highly credible. 
+
+The hypothesis 1 holds true.
+
+As can be seen in these figures the gap in voter turnout in Maine vs Wisconsin increases to negative effect by a significant 5% after the RCV implementation, which goes against not just our hypothesis, but that of Dowling, whose data both includes Maine as well as many large urban municipalities, which begs the question as to how our differences come about?  Is it the city or the countryside that causes this gap? So, we did the second test for urban versus rural.
+ 
+3. Urban versus rural: P < 0.01**, & R2 ≈66.57%
+
+[Figure 4]
+Figure 4 shows the DID analysis for Urban and Rural Municipalities within Maine.
+Of course, it was anything but simple, we found that urban areas actually had a small drop in turnout of around 1.25%, which leads us to believe the urban turnout situation is somewhat more complicated. That being said, the gap appears to have remained close to constant between the years of 2016 and 2024, which could mean this is a simple problem of not enough data for a proper result, then again, the number of municipalities involved is certainly giving us a significant result. 
+
+Table 2 shows the heterogeneity test results for the urban vs rural analysis. As can be seen the result is within the standard range for a significant result. There are still more effects we may need to control for however, and our analysis will need revisiting.
+
+Therefore, hypothesis 3 holds true.
+
+4. A relatively clear learning curve appears:
+We observed a relatively clear learning curve in our Maine case study, both urban and rural areas.
+
+[Figure 5]
+Since there is a clear learning curve, we expect the negative impact on turnout to be transitory rather than structural consequence.
+
+Therefore, hypothesis 2 holds true.
+
+VII Conclusion
+RCV as an electoral reform, has so far been implemented at the general election level in only two states. Our article has talked both Maine and Alaska, (Please see appendix for the Alaskan case), and primarily focuses on Maine’s RCV reform. 
+
+We designed our own original database from the public row data from open government record and conducted DID tests primarily using data from this original database. Our results are reliable and scientific. However, our results demonstrate the negative effects of RCV. It effectively lowered voter turnout in the general election; the decline was more pronounced in urban areas than in rural areas; we also observed a learning curve as voter turnout progressed. 
+
+Reform is never an easy thing; Supporters of democracy may need to be more patient for electoral reform, so we will continue to monitor the implementation of RCV in future elections. We do not rule out the possibility that this conclusion of “RCV reduce general election turnout” may change. But at least for now, we have reached a clear conclusion regarding the application of RCV in general elections.
+
+In conclusion, despite what you may have heard on the topic of ranked choice voting, it does not significantly increase voter turnout, or at least not universally. RCV has many positive effects when compared with plurality voting, but stumbles when it comes to voter turnout at the state level. Rural areas have a surprisingly marginally higher turnout from RCV after implementation, though this analysis will need to be revisited, and this means social learning has a minimal effect on ranked choice voting. Also, the findings of learning curve may suggest positive direction of the RCV reform, further follow up for the longer term RCV reform effect may be expected.
+
+
+VIII Future Research
+Further research can follow up for the longer term RCV reform effect.
+
+What can be learned about the motivations which separate voters who go to local elections as opposed to those who only go to general elections. 
+
+And the impact of RCV on voters of different age groups also may deserve attention. If nothing else, RCV is likely to encourage young voters who are otherwise less likely to reach out to local elections. The one potential fault is that older voters, which make up around 5/6 of the voters at local elections, are less likely to engage with more modern forms of voting as they might require learning new concepts of voting, but the same can be said of less motivated voters who only go to the general elections.
+
+
+Appendix:
+Why only choose Maine, not include Alaska in discussion? 
+Its RCV has only been applied in one election cycle, raising questions about the representativeness of the data.
+Since Alaska’s voter turnout has fallen below the national average after implementing RCV, it previously exceeded the national average., and Maine, at least appears to be growing. (As Alaska’s reform will only take effect in the 2024 general election, multiple protests have reportedly occurred.) 
+Therefore, it is more valuable for us to further distinguish the impact of RCV on the rise in Maine's voter turnout in this research.

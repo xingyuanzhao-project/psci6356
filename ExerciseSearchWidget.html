@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Search Widget -- Locator</title>
+
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+  <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+  <script src="https://js.arcgis.com/4.5/"></script>
+
+  <script>
+    //Load Search, Locator, FeatureLayer, and SimpleFillSymbol into the web app.
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/widgets/Search",
+      "esri/tasks/Locator",
+      "esri/layers/FeatureLayer",
+      "dojo/i18n!esri/nls/common",
+      "dojo/domReady!"
+    ], function(
+      Map,
+      MapView,
+      Search,
+      Locator,
+      FeatureLayer,
+      i18n) {
+
+      //Create the Map
+      var map = new Map({
+        basemap: "streets"
+      });
+
+      //Create the MapView
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [-111.8910, 40.7608], // lon, lat
+        scale: 10000000
+      });
+
+      //Create the Search class
+      var searchWidget = new Search({
+        view: , //View to assign the widget to
+        allPlaceholder: "Location",
+        suggestionsEnabled: ,
+        //Sources for the Search
+        sources: [{
+            //Locator
+            locator: new Locator({ url: "" }),
+            singleLineFieldName: "SingleLine",
+            outFields: [""], //Specify the fields to return from the search
+            //Source name that appears in the Search widget for the locator
+            name: "", //Name to appear in the search widget
+            localSearchOptions: {
+              minScale: 300000,
+              distance: 50000
+            },
+            placeholder: i18n.placeholder
+          },{
+            //FeatureLayer
+            featureLayer: new FeatureLayer({
+              url: " ",
+              popupTemplate:{
+                title: "", //Title to appear in pop-up
+                overwriteActions: true
+              }
+            }),
+            searchFields: [""], //Fields to search
+            suggestionTemplate: "{Station_Name}",
+            exactMatch: false, 
+            outFields: ["*"],
+            //Source name that appears in the Search widget for the Feature Layer
+            name: "Alternative Fuel Stations",
+            zoomScale: 500000,
+            //Symbolizing the result.
+            resultSymbol:{
+              type: "",//Type of symbol to display the result
+              color: [],//Color to apply to the symbol
+              style: "solid",
+              outline:{
+                color: "",//Outline color to apply to the symbol
+                width: 1
+              }
+            }, 
+          }]
+      });
+
+       // Add the search widget to the top right corner of the view
+       view.ui.add(searchWidget, {
+        position: ""
+      });
+      
+    });
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+</body>
+</html>

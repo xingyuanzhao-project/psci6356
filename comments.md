@@ -1,0 +1,9 @@
+1. Your paper follows a comprehensive academic format with all essential components: clear research questions, extensive literature review, theoretical framework, explicit hypotheses, rigorous methodology, systematic results section, and thoughtful discussion of future research directions.
+
+2. Visual examination of parallel trends is certainly a standard approach. That said, you might also want to consider using event study models or similar frameworks to formally demonstrate parallel trends. Some researchers also employ methods to rule out non-parallel possibilities. You can find helpful discussions here: (https://mixtape.scunning.com/09-difference_in_differences#providing-evidence-for-parallel-trends-through-event-studies-and-parallel-leads) and here: (https://arxiv.org/html/2503.13323v3#Thminnercustomass2)
+
+3. It's worth noting that recent DiD literature has shown potential biases in two-way fixed effect (TWFE) based event studies and dynamic DiD models (https://bcallaway11.github.io/did/articles/TWFE.html). While TWFE can still be useful for visually checking trends, it may not be sufficiently robust for making inferences. A go-to approach I often use is the `csdid` method, which also provides dynamic causal effects in a similar format.
+
+4. Your comparison case selection approach is very interesting! Since you're already using advanced methods to construct counterfactual units, you might also want to explore Synthetic Control methods that synthesize control units. These can be paired with DiD in what's called Synthetic DiD. I'm not suggesting you switch methods, but they can be useful for similar designs in the future. 
+
+5. DiD analysis typically emphasizes ATT estimates as the key measure of treatment effects, with less emphasis on R² values.

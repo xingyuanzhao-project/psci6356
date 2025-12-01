@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+  <title>Buffer</title>
+  
+  <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+  <script src="https://js.arcgis.com/4.5/"></script>
+
+  <script>
+    
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/layers/FeatureLayer",
+      "esri/layers/GraphicsLayer",
+      "esri/Graphic",
+      "esri/tasks/GeometryService",
+      "esri/tasks/support/BufferParameters",
+      "dojo/domReady!"
+    ], function(Map, 
+            MapView, 
+            FeatureLayer,
+            GraphicsLayer,
+            Graphic,
+            GeometryService,
+            BufferParameters) {
+
+    
+    var map = new Map({
+        basemap: "streets",
+      });
+
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        zoom: 5,
+        center: [-112.9007, 45.0379] 
+      });
+
+    //geometry service used to perform the buffer
+    var gsvc = new GeometryService("https://utility.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer");
+    
+    //Feature layer to select features from to perform buffer
+    var featureLayer = new FeatureLayer({
+          url: "https://services.arcgis.com/V6ZHFr6zdgNZuVG0/ArcGIS/rest/services/national_park_service/FeatureServer/0"
+      });
+
+    //Add the feature layer to the map
+    map.add(featureLayer);
+
+    //Create a graphics layer to display the results
+    var resultsLayer = new GraphicsLayer();
+    
+    map.add(resultsLayer);
+
+    view.on("click", doBuffer);
+
+    //Implement code to perform a buffer
+
+    function doBuffer(evt) {
+          
+      });
+      
+      gsvc.buffer(params).then(showBuffer);
+    }
+
+    var query;
+
+    //The showBuffer function displays the buffer polygon
+      function showBuffer(results) {
+          var symbol = {
+            type: "simple-fill", // autocasts as new SimpleFillSymbol()
+            color: [0, 0, 255, 0.65],
+              outline: { // autocasts as new SimpleLineSymbol()
+                color: [0, 0, 255],
+                width: 2
+              }
+          };
+
+          const graphics = results.map(function(geometry){
+
+            myQuery(geometry);
+
+            return new Graphic({
+              geometry: geometry,
+              symbol: symbol
+            });
+          });
+
+          //Display the selected features as graphics on the map
+          view.graphics.addMany();
+
+          featureLayer.queryFeatures(query).then(function(results){
+              displayResults(results);
+          })
+          .otherwise(function(error){
+              console.log(typeof error);
+              console.log(JSON.stringify(error));     
+          });
+    };
+
+    //Query features based on the buffers geometry.
+
+    function myQuery(geometryb){
+      query = featureLayer.createQuery();
+      query.geometry = ; //The geometry to query with
+      query.spatialRelationship = ; //The spatial relationship defining how to select features
+    }
+
+    //Modify the symbology to display the selected features, and add the results to the results layer.
+
+    function displayResults(results){
+          var features = results.features.map(function(graphic){
+              graphic.symbol = {
+                  type: "simple-marker",
+                  style: "diamond",
+                  size: 26.5,
+                  color: "red"
+              };
+              return graphic;
+          });
+         
+         //Add results to the results graphics layer.
+          
+          }     
+});
+
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv" style="width:600px; height:400px; border:1px solid #000;"></div>
+</body>
+
+</html>
