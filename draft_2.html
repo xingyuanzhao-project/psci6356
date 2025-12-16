@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.56">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Xingyuan Zhao">
+
+<title>Media Bias and Democratic Backsliding: Evidence from U.S. Media Bias and Presidential Interventions</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="draft_2_files/libs/clipboard/clipboard.min.js"></script>
+<script src="draft_2_files/libs/quarto-html/quarto.js"></script>
+<script src="draft_2_files/libs/quarto-html/popper.min.js"></script>
+<script src="draft_2_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="draft_2_files/libs/quarto-html/anchor.min.js"></script>
+<link href="draft_2_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="draft_2_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="draft_2_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="draft_2_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="draft_2_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="draft_2_files/libs/quarto-diagram/mermaid.min.js"></script>
+<script src="draft_2_files/libs/quarto-diagram/mermaid-init.js"></script>
+<link href="draft_2_files/libs/quarto-diagram/mermaid.css" rel="stylesheet">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">ABSTRACT</a></li>
+  <li><a href="#motivation-and-research-problem" id="toc-motivation-and-research-problem" class="nav-link" data-scroll-target="#motivation-and-research-problem">MOTIVATION AND RESEARCH PROBLEM</a></li>
+  <li><a href="#literature-review" id="toc-literature-review" class="nav-link" data-scroll-target="#literature-review">LITERATURE REVIEW</a>
+  <ul class="collapse">
+  <li><a href="#media-bias-and-partisan-coverage" id="toc-media-bias-and-partisan-coverage" class="nav-link" data-scroll-target="#media-bias-and-partisan-coverage">Media Bias and Partisan Coverage</a></li>
+  <li><a href="#democratic-backsliding-and-performance" id="toc-democratic-backsliding-and-performance" class="nav-link" data-scroll-target="#democratic-backsliding-and-performance">Democratic Backsliding and Performance</a></li>
+  </ul></li>
+  <li><a href="#main-argument" id="toc-main-argument" class="nav-link" data-scroll-target="#main-argument">MAIN ARGUMENT</a></li>
+  <li><a href="#hypotheses" id="toc-hypotheses" class="nav-link" data-scroll-target="#hypotheses">HYPOTHESES</a></li>
+  <li><a href="#data-sources" id="toc-data-sources" class="nav-link" data-scroll-target="#data-sources">DATA SOURCES</a></li>
+  <li><a href="#research-design" id="toc-research-design" class="nav-link" data-scroll-target="#research-design">RESEARCH DESIGN</a></li>
+  <li><a href="#empirical-strategy" id="toc-empirical-strategy" class="nav-link" data-scroll-target="#empirical-strategy">EMPIRICAL STRATEGY</a>
+  <ul class="collapse">
+  <li><a href="#data-generation" id="toc-data-generation" class="nav-link" data-scroll-target="#data-generation">Data Generation</a></li>
+  <li><a href="#statistical-analysis" id="toc-statistical-analysis" class="nav-link" data-scroll-target="#statistical-analysis">Statistical Analysis</a></li>
+  <li><a href="#descriptive-analysis" id="toc-descriptive-analysis" class="nav-link" data-scroll-target="#descriptive-analysis">Descriptive Analysis</a></li>
+  </ul></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a>
+  <ul class="collapse">
+  <li><a href="#parallel-trends-assessment" id="toc-parallel-trends-assessment" class="nav-link" data-scroll-target="#parallel-trends-assessment">Parallel Trends Assessment</a></li>
+  <li><a href="#limitations-of-the-twfe-estimator" id="toc-limitations-of-the-twfe-estimator" class="nav-link" data-scroll-target="#limitations-of-the-twfe-estimator">Limitations of the TWFE Estimator</a></li>
+  <li><a href="#doubly-robust-difference-in-differences-estimation-1" id="toc-doubly-robust-difference-in-differences-estimation-1" class="nav-link" data-scroll-target="#doubly-robust-difference-in-differences-estimation-1">Doubly Robust Difference-in-Differences Estimation</a></li>
+  <li><a href="#csdid-group-time-average-treatment-effects" id="toc-csdid-group-time-average-treatment-effects" class="nav-link" data-scroll-target="#csdid-group-time-average-treatment-effects">CSDID Group-Time Average Treatment Effects</a></li>
+  </ul></li>
+  <li><a href="#robustness-check" id="toc-robustness-check" class="nav-link" data-scroll-target="#robustness-check">Robustness Check</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  
+  
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="draft_2.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Media Bias and Democratic Backsliding: Evidence from U.S. Media Bias and Presidential Interventions</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Xingyuan Zhao </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">ABSTRACT</h2>
+<p>How do political leaders enable democratic backsliding? Before answering this grand puzzle, it is worthy to investigate a crucial component within this mechanism: Do political leaders’ public messaging significantly bias media coverage? This paper investigates the effect of elite messaging on social media platforms on partisan media coverage. Using evidence from U.S. crime reporting and presidential social media interventions, I estimate the causal effect of President Trump’s Truth Social posts about crime on regional news coverage intensity. The analysis employs a staggered difference-in-differences design, exploiting the timing of presidential interventions targeting Washington D.C. and Illinois and comparing changes in crime news article counts against 49 control states. Results show that presidential rhetoric significantly increased partisan media coverage of crime in targeted regions, with D.C. experiencing 179 additional articles per month and Illinois 24 additional articles, despite no corresponding change in actual crime rates. I argue that political leaders can actively shape media narratives that diverge from objective conditions. This study contributes to understanding how elite rhetoric creates distorted information environments that may enable democratic backsliding.</p>
+<p>Keywords: democratic backsliding, elite rhetoric, media bias, populism, crime coverage</p>
+</section>
+<section id="motivation-and-research-problem" class="level2">
+<h2 class="anchored" data-anchor-id="motivation-and-research-problem">MOTIVATION AND RESEARCH PROBLEM</h2>
+<p>Recent events in the United States have revealed a concerning pattern in the relationship between political leadership, media coverage, and public perception. President Trump has repeatedly called out democratic leaning cities for high crime rates and deployed the National Guard to combat crime in these areas <span class="citation" data-cites="executiveorders2025 whitehouse2025fact">(<a href="#ref-executiveorders2025" role="doc-biblioref">Executive Orders 2025</a>; <a href="#ref-whitehouse2025fact" role="doc-biblioref">The White House 2025</a>)</span>. These interventions have been accompanied by extensive media coverage, particularly from partisan outlets, emphasizing crime problems in the said cities. Republican social media and right-wing legacy media have consistently amplified narratives about rising crime in urban, Democratic-controlled areas.</p>
+<p>However, a major discrepancy emerges when examining actual crime data. According to the FBI Crime Data Explorer <span class="citation" data-cites="fbi2025cde">(<a href="#ref-fbi2025cde" role="doc-biblioref">Federal Bureau of Investigation 2025</a>)</span>, the actual crime rates in many of these cities tell a substantially different story than the narrative promoted by political leaders and echoed in partisan media coverage. This gap between reality and media representation raises fundamental questions about media independence, the role of political elites in shaping information environments, and the consequences for democratic governance.</p>
+<p>This research addresses this question: Do political leaders’ public messaging significantly bias media coverage?</p>
+<div id="fig-1" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/crime_distribution_ma3.png" class="img-fluid figure-img"></p>
+<figcaption>Crime Count Distribution Over Time (3-Month Moving Average)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/crime_relative_intensity_distribution_ma3.png" class="img-fluid figure-img"></p>
+<figcaption>Relative Crime Intensity Distribution Over Time (3-Month Moving Average)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/crime_normalized_ma3.png" class="img-fluid figure-img"></p>
+<figcaption>Crime Normalized Distribution Over Time (3-Month Moving Average)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/crime_rate_normalized_ma3.png" class="img-fluid figure-img"></p>
+<figcaption>Crime Rate Normalized Distribution Over Time (3-Month Moving Average)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Crime trends across different metrics
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="literature-review" class="level2">
+<h2 class="anchored" data-anchor-id="literature-review">LITERATURE REVIEW</h2>
+<p>The discrepancy between actual crime rates and media narratives reveals a fundamental gap in our understanding of democratic backsliding. While existing literature establishes that media bias exists and that better performance provides more stable regimes, evidence that poor actual performance causes democratic backsliding remains limited. This research addresses this gap by showing that it is not actual performance but perceived performance that matters. Partisan media bias enlarges the gap between perceived and actual performance, creating support for drastic changes that favor democratic backsliding. The research clarifies the mechanism through which elite rhetoric shapes information environments, going beyond simple documentation of media bias to show how political leaders actively create and amplify distorted narratives that undermine democratic stability.</p>
+<section id="media-bias-and-partisan-coverage" class="level3">
+<h3 class="anchored" data-anchor-id="media-bias-and-partisan-coverage">Media Bias and Partisan Coverage</h3>
+<p>There is strong academic consensus that media bias exists in contemporary news coverage. Research has documented partisan bias in news media coverage of political leaders and events <span class="citation" data-cites="niven1999partisan niven2001bias">(<a href="#ref-niven1999partisan" role="doc-biblioref">Niven 1999</a>, <a href="#ref-niven2001bias" role="doc-biblioref">2001</a>)</span>. Studies examine how partisan use and perceptions shape news consumption, with research analyzing patterns in cable news programming <span class="citation" data-cites="coe2008hostile">(<a href="#ref-coe2008hostile" role="doc-biblioref">Coe et al. 2008</a>)</span>. The phenomenon of ideological selectivity in media use has been documented, showing evidence of how audiences engage with politically aligned media sources <span class="citation" data-cites="iyengar2009red">(<a href="#ref-iyengar2009red" role="doc-biblioref">Iyengar and Hahn 2009</a>)</span>.</p>
+<p>Research has also examined media bias in specific coverage domains. Studies analyze news media’s relationship with stereotyping in crime news coverage, examining linguistic patterns in reporting <span class="citation" data-cites="gorham2006news">(<a href="#ref-gorham2006news" role="doc-biblioref">Gorham 2006</a>)</span>. More recent research extends analysis to partisan differences in coverage of specific events, including mass shootings in the United States <span class="citation" data-cites="shah2021death">(<a href="#ref-shah2021death" role="doc-biblioref">Shah 2021</a>)</span>. Additionally, scholarship examines how news media partisanship shapes coverage of policy issues and technologies, finding that partisan orientation influences framing and emphasis in reporting <span class="citation" data-cites="shaikh2024recognize">(<a href="#ref-shaikh2024recognize" role="doc-biblioref">Shaikh and Moran 2024</a>)</span>.</p>
+<p>While early research argued that objective news topics were not affected by partisan bias <span class="citation" data-cites="niven1999partisan niven2001bias">(<a href="#ref-niven1999partisan" role="doc-biblioref">Niven 1999</a>, <a href="#ref-niven2001bias" role="doc-biblioref">2001</a>)</span>, subsequent work demonstrated that partisan selective exposure extends even to “soft” subjects such as crime <span class="citation" data-cites="iyengar2009red">(<a href="#ref-iyengar2009red" role="doc-biblioref">Iyengar and Hahn 2009</a>)</span>. However, recent developments present a further evolution in this dynamic. Political elites now directly contest objective data through social media platforms, creating alternative narratives that contradict official statistics. Recent presidential communications about crime explicitly diverge from FBI data, with the White House claiming crime is “out of control” despite official statistics showing otherwise <span class="citation" data-cites="whitehouse2025fact">(<a href="#ref-whitehouse2025fact" role="doc-biblioref">The White House 2025</a>)</span>. This represents a new phase: political leaders are not merely benefiting from existing media bias or selective exposure patterns, but may be actively generating competing factual claims about objective crime data that partisan media outlets follow suit.</p>
+</section>
+<section id="democratic-backsliding-and-performance" class="level3">
+<h3 class="anchored" data-anchor-id="democratic-backsliding-and-performance">Democratic Backsliding and Performance</h3>
+<p>The evidence on how socioeconomic performance affects democratic stability is mixed. Better socioeconomic performance indeed provides more stable regimes <span class="citation" data-cites="carothers2024misunderstanding">(<a href="#ref-carothers2024misunderstanding" role="doc-biblioref">Carothers and Hartnett 2024</a>)</span>. But evidence that lack of such performance causes democratic backsliding remains limited. In some cases, governance failures drove voters toward backsliding leaders. Brazil’s Lava Jato corruption scandal alienated citizens from mainstream parties and turned them to Bolsonaro <span class="citation" data-cites="hunter2019bolsonaro">(<a href="#ref-hunter2019bolsonaro" role="doc-biblioref">Hunter and Power 2019</a>)</span>. El Salvador’s violent crime crisis led citizens to embrace Bukele <span class="citation" data-cites="economist2019elsalvador">(<a href="#ref-economist2019elsalvador" role="doc-biblioref">Economist 2019</a>)</span>. It is worth noting that the perception of performance such as corruption also contributed to backsliding in India in 2014 and Mexico in 2018 <span class="citation" data-cites="sridharan2014india sancheztalanquer2021populist">(<a href="#ref-sridharan2014india" role="doc-biblioref">Sridharan 2014</a>; <a href="#ref-sancheztalanquer2021populist" role="doc-biblioref">Sánchez-Talanquer and Greene 2021</a>)</span>. On the other hand, <span class="citation" data-cites="achen2016democracy">Achen and Bartels (<a href="#ref-achen2016democracy" role="doc-biblioref">2016</a>)</span> show that voters’ perceptions of governmental performance may be only loosely tied to objective facts. Examining twelve cases across diverse regions, <span class="citation" data-cites="carothers2024misunderstanding">Carothers and Hartnett (<a href="#ref-carothers2024misunderstanding" role="doc-biblioref">2024</a>)</span> find that in eight of twelve cases inequality was trending downward before backsliding began; poverty levels decreased in nine of twelve cases, substantially in India and Poland; and in several cases—Bangladesh, India, the Philippines, Poland, and Turkey—growth was relatively high by regional and global standards. Governance failures such as corruption and crime played an important role in five cases—Brazil, India, Mexico, El Salvador, and the Philippines. Only three cases—Brazil, Hungary, and Tunisia—experienced major economic downturns before backsliding. While actual performance shows mixed results in causing backsliding, the perception of performance becomes a factor worth examining.</p>
+<p>The literature on democratic backsliding has also established that backsliding leaders win elections when voters embrace promises of disruptive changes. In the pivotal elections that brought backsliding leaders to power, voters were embracing the promise of significant, even disruptive change in economic, social, or political domains <span class="citation" data-cites="carothers2024misunderstanding">(<a href="#ref-carothers2024misunderstanding" role="doc-biblioref">Carothers and Hartnett 2024</a>)</span>. These voters were not throwing their support behind political figures who openly advocated ending democracy; many appeared to be trying to save democracy by giving it a reform-oriented reset <span class="citation" data-cites="carothers2024misunderstanding">(<a href="#ref-carothers2024misunderstanding" role="doc-biblioref">Carothers and Hartnett 2024</a>)</span>. This suggests the potentiality that fabricating crises and exaggerating performance gaps can be a powerful tool for backsliding leaders to win elections by promising drastic changes.</p>
+</section>
+</section>
+<section id="main-argument" class="level2">
+<h2 class="anchored" data-anchor-id="main-argument">MAIN ARGUMENT</h2>
+<p>Building on the existing literature, the following mechanism emerges: media bias shapes how citizens perceive political conditions, and when perceived performance diverges from actual conditions, voters become receptive to leaders promising reform, creating conditions for democratic backsliding.</p>
+<p>In this mechanism, I argue that political leaders strategically generate biased narratives to shape media coverage. The resulting partisan media bias systematically distorts reality in coverage, reducing perceived performance relative to actual performance. This enlarges the gap between actual and perceived government performance, creating more support for disruptive changes and hence enabling democratic backsliding.</p>
+<p>Partisan media respond to elite cues because they share audiences with ideologically aligned leaders. When a leader speaks, their supporters expect aligned media to cover it. Outlets that ignore such messaging lose viewers to competitors who amplify it. Both sides benefit: leaders gain narrative reach, media gain engaging content.</p>
+<p>Crime coverage is specifically susceptible to this dynamic because of what has changed in the media environment. Political leaders can now directly contest official data through social media, bypassing traditional gatekeepers. Crime is particularly vulnerable because it is emotionally salient, statistically complex enough to selectively interpret, and event-driven in ways that allow highlighting individual incidents regardless of aggregate trends.</p>
+<p>Building on the theory, this paper tests the first link in this mechanism: whether elite messaging increases biased media coverage.</p>
+</section>
+<section id="hypotheses" class="level2">
+<h2 class="anchored" data-anchor-id="hypotheses">HYPOTHESES</h2>
+<p>Building on this argument, I develop a hypothesis that tests the mechanism through which political leaders undermine democratic stability. This hypothesis examines the elite intervention mechanism: whether political leaders can actively shape information environments through strategic communications.</p>
+<p><em>Hypothesis: Political leaders’ strategic communications increase the gap between actual and perceived performance.</em></p>
+<p>This hypothesis captures elite agency in creating biased narratives. If political leaders can successfully manipulate public perception through strategic communications that partisan media amplify, we should observe a widening gap between objective performance indicators and media coverage intensity following elite interventions. This represents a direct test of whether backsliding leaders actively construct the conditions for democratic erosion rather than merely exploiting existing grievances.</p>
+</section>
+<section id="data-sources" class="level2">
+<h2 class="anchored" data-anchor-id="data-sources">DATA SOURCES</h2>
+<p>This research utilized multiple data sources and generated new variables. Crime rate data came from the FBI Crime Data Explorer <span class="citation" data-cites="fbi2025cde">(<a href="#ref-fbi2025cde" role="doc-biblioref">Federal Bureau of Investigation 2025</a>)</span>, which provides crime statistics across U.S. cities and states and allows tracking of temporal trends in various crime categories.</p>
+<p>Media coverage data was collected through third-party news aggregation APIs <span class="citation" data-cites="thenewsapi2025 newsdataio2025">(<a href="#ref-thenewsapi2025" role="doc-biblioref">TheNewsAPI 2025</a>; <a href="#ref-newsdataio2025" role="doc-biblioref">NewsData.io 2025</a>)</span>, enabling systematic collection of news coverage about crime from CNN and Fox News domains and allowing comparison between outlets with different partisan orientations. This allows an API integration to be built in the future to collect news coverage about crime from more media outlets, rather than fixing the data sources to only CNN and Fox News.</p>
+<p>News article classification and location annotation were performed using Llama 3.1 8B Instruct <span class="citation" data-cites="llama3">(<a href="#ref-llama3" role="doc-biblioref">AI@Meta 2024</a>)</span> deployed locally via Ollama <span class="citation" data-cites="ollama2024">(<a href="#ref-ollama2024" role="doc-biblioref">Ollama 2024</a>)</span>. This model was selected for several reasons: (1) it is open-source and locally deployable, eliminating API costs and ensuring data privacy; (2) the 8B parameter size provides sufficient capability for binary classification and entity extraction tasks while remaining computationally efficient; (3) the instruction-tuned variant excels at following structured prompts and producing JSON-formatted outputs; and (4) the labeling task only requires generating a small number of output tokens, so the Q4_K_M quantization preserves sufficient accuracy while reducing memory requirements.</p>
+<p>Presidential communications were collected from Truth Social <span class="citation" data-cites="truthsocial2025">(<a href="#ref-truthsocial2025" role="doc-biblioref">Trump Media &amp; Technology Group 2025</a>)</span>, enabling precise measurement of elite intervention timing and content.</p>
+</section>
+<section id="research-design" class="level2">
+<h2 class="anchored" data-anchor-id="research-design">RESEARCH DESIGN</h2>
+<p>The experiment examined whether political leaders increase media bias by creating biased narratives. The unit of analysis was state-time observations, allowing for systematic comparison across different contexts and periods. The dependent variable was the gap between actual and perceived performance, operationalized as the difference between actual crime rates from FBI data and the intensity of media coverage of crime in the same location and time period.</p>
+<p>The key intervention was President Trump’s Truth Social posts about crime in specific regions, namely Illinois and District of Columbia, which served as interventions that could be precisely timed and measured. The analysis controlled for baseline crime rates, state voting records, and temporal and regional fixed effects. The expected outcome was that political leaders’ strategic communications increase the gap between actual and perceived violent crimes, particularly when those narratives align with partisan media outlets’ ideological orientation and when the state is controlled by the opposing party.</p>
+<p>Given that the treatment, Trump’s Truth Social posts about crime in specific regions, occurred at different times for Illinois and District of Columbia, this analysis employed the <span class="citation" data-cites="callaway2021difference">Callaway and Sant’Anna (<a href="#ref-callaway2021difference" role="doc-biblioref">2021</a>)</span> difference-in-differences estimator (csdid) rather than the traditional two-way fixed effects model. This methodological choice addressed the documented bias in conventional difference-in-differences estimators when treatment timing varies across units, ensuring more robust causal inference in this staggered adoption design.</p>
+<p>The difference-in-differences approach is appropriate because the research question concerns the causal effect of a discrete intervention on an outcome. The identification strategy relies on the parallel trends assumption: absent presidential intervention, treated and untreated states would have followed similar trajectories in crime news coverage. The DRDID estimator addresses the selection problem arising from non-random treatment assignment—the president targeted Democratic-controlled areas, so treated states systematically differ from control states. DRDID combines propensity score weighting with outcome regression, providing consistent estimates even if one model is misspecified. The CSDID estimator handles staggered treatment timing by computing group-time specific effects using only never-treated units as controls, avoiding the bias that arises when already-treated units serve as implicit controls for later-treated units.</p>
+<p>This design fits the empirical setting because Trump’s Truth Social posts constitute a natural experiment with identifiable intervention timing for DC and IL. The 49 states that were not targeted serve as a credible control group. The staggered timing—DC in August 2025, IL in September 2025—provides within-design replication and requires an estimator that properly handles treatment effect heterogeneity across cohorts.</p>
+<p>However, this identification strategy requires accurate state-level media coverage data that links each news article to a specific geographic location. Existing news datasets lack such localized annotation. Manual coding of thousands of articles is infeasible. Traditional keyword-based filtering produces high false-positive rates by capturing articles that mention crime without substantively covering crime in a specific state. To address these data limitations, this study employs automated classification.</p>
+</section>
+<section id="empirical-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="empirical-strategy">EMPIRICAL STRATEGY</h2>
+<section id="data-generation" class="level3">
+<h3 class="anchored" data-anchor-id="data-generation">Data Generation</h3>
+<section id="motivation" class="level4">
+<h4 class="anchored" data-anchor-id="motivation">Motivation</h4>
+<p>The choice to employ Large Language Models (LLMs) for data generation is driven by the limitations of existing methodologies and the specific advantages LLMs offer. Existing datasets often lack the granular, real-time, and localized specificity required to analyze crime reporting nuances across different states. Manual annotation is prohibitively expensive and time-consuming, while traditional keyword-based filtering frequently results in high false-positive rates by capturing irrelevant contexts.</p>
+<p>From an LLM perspective, these models are necessary because of their unique ability to parse semantic context. Unlike simple keyword matching, an LLM can distinguish between a news report that is substantively <em>about</em> a crime in a specific location and a general policy discussion that merely mentions crime-related terms. This semantic capability is essential for accurately mapping news coverage to specific regional crime data.</p>
+</section>
+<section id="prompts-engineering" class="level4">
+<h4 class="anchored" data-anchor-id="prompts-engineering">Prompts Engineering</h4>
+<p>The data generation process utilized a single news report that comprises title, description, and keywords as the unit of processing. The model was instructed to return the output strictly in a JSON format. This structured return format (<a href="#sec-appendix-a" class="quarto-xref">Section&nbsp;14</a>) was chosen to mitigate hallucination by enabling the model to reject irrelevant texts before attempting location extraction and providing explicit options to return “None” for ambiguous cases by employing a two-stage prompting strategy.</p>
+</section>
+<section id="challenges-and-solutions" class="level4">
+<h4 class="anchored" data-anchor-id="challenges-and-solutions">Challenges and Solutions</h4>
+<p>A significant challenge in using LLMs is the potential for hallucination or fabrication, where the model might generate incorrect locations or details. To mitigate this, the process processed only one unit (report) at a time. This isolation prevented context bleeding, where the model might inadvertently carry over location information from a previous report to the current one in one conversation.</p>
+<p>Furthermore, the two-stage prompt design and specific output fields act as critical safeguards. By first asking for a relevance check, the model is given a chance to “back off” and reject irrelevant texts before attempting location extraction. This reduces the likelihood of the model hallucinating a location for a non-relevant text just to satisfy a prompt. Additionally, the option to return “None” for the location field provides a valid exit path, further discouraging the fabrication of location data when the text is ambiguous or lacks specific geographic information.</p>
+</section>
+</section>
+<section id="statistical-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="statistical-analysis">Statistical Analysis</h3>
+<p>The test used difference-in-differences designs that specified the dummy variables for the first treatment group and relative time from the intervention. This approach allows for causal inference of how the elite rhetoric intervention affects the outcome variable of two treated units that are treated at different times.</p>
+<p>This analysis employed the Doubly-Robust Difference-in-Differences (DRDID) estimator because the treatment and control groups were not balanced. The treated units (DC and IL) received presidential interventions precisely because they are Democratic-controlled areas that Trump targeted in his rhetoric. This systematic selection meant treated states differed from control states in observable characteristics. DRDID adjusts for these differences by combining propensity score weighting and outcome regression, providing robustness against model misspecification.</p>
+<p>Furthermore, this analysis used the <span class="citation" data-cites="callaway2021difference">Callaway and Sant’Anna (<a href="#ref-callaway2021difference" role="doc-biblioref">2021</a>)</span> difference-in-differences estimator (CSDID) because treatment timing varied across unit groups. DC was treated in August 2025 while IL was treated in September 2025. CSDID estimates group-time specific average treatment effects and aggregates them appropriately, avoiding the bias that arises in traditional two-way fixed effects models when treatment timing is staggered.</p>
+<section id="doubly-robust-difference-in-differences-estimation" class="level4">
+<h4 class="anchored" data-anchor-id="doubly-robust-difference-in-differences-estimation">Doubly-Robust Difference-in-Differences Estimation</h4>
+<p>The DRDID estimator estimates the Average Treatment Effect on the Treated (ATT) as:</p>
+<p><span class="math display">\[
+ATT_{DR} = \mathbb{E}\left[\left(\frac{G}{\mathbb{E}[G]} - \frac{\frac{p(X)(1-G)}{1-p(X)}}{\mathbb{E}\left[\frac{p(X)(1-G)}{1-p(X)}\right]}\right)(Y_1 - Y_0 - m(0,X))\right]
+\]</span></p>
+<p>In this formulation, <span class="math inline">\(G\)</span> denotes the treatment indicator, taking value 1 for states that received presidential intervention (DC and IL) and 0 for control states. The term <span class="math inline">\(Y_1 - Y_0\)</span> represents the change in monthly crime news article count between the post-treatment period and the pre-treatment period. The propensity score <span class="math inline">\(p(X)\)</span> captures the probability of receiving treatment conditional on observable covariates, while the outcome model <span class="math inline">\(m(0,X)\)</span> estimates the expected change in the outcome for control units conditional on their characteristics. The weighting structure rebalances treated and control observations to achieve covariate balance, while the outcome model adjustment removes residual bias.</p>
+<p>The propensity score is estimated via logistic regression:</p>
+<p><span class="math display">\[
+p(X) = P(G=1|X) = \frac{\exp(\gamma_0 + \gamma X)}{1 + \exp(\gamma_0 + \gamma X)}
+\]</span></p>
+<p>where <span class="math inline">\(\gamma_0\)</span> is the intercept and <span class="math inline">\(\gamma\)</span> represents the coefficient vector on covariates <span class="math inline">\(X\)</span>. In the covariate-adjusted specification, <span class="math inline">\(X\)</span> includes the state-level crime rate per 100,000 population, which accounts for baseline differences in actual crime levels between treated and control states.</p>
+<p>The outcome model follows the improved local projection specification:</p>
+<p><span class="math display">\[
+m(0,t,X) = \mathbb{E}[\Delta Y_{it} | D=0, X_i] = \alpha_0 + \beta X
+\]</span></p>
+<p>where <span class="math inline">\(\Delta Y_{it} = Y_{it} - Y_{i,t-1}\)</span> represents the change in monthly article count from the pre-treatment to the post-treatment period. This differenced specification estimates the expected outcome trajectory for control units, which serves as the counterfactual for what treated units would have experienced absent treatment.</p>
+<p>In the empirical application, the outcome variable <span class="math inline">\(Y\)</span> was the monthly count of crime-related news articles attributed to each state, constructed from CNN and Fox News coverage classified by the LLM pipeline. The treatment indicator <span class="math inline">\(G\)</span> equaled 1 for DC (treated in August 2025) and IL (treated in September 2025), and 0 for the remaining 49 states that served as the control group.</p>
+</section>
+<section id="callaway-and-santanna-difference-in-differences-estimation" class="level4">
+<h4 class="anchored" data-anchor-id="callaway-and-santanna-difference-in-differences-estimation">Callaway and Sant’Anna Difference-in-Differences Estimation</h4>
+<p>The CSDID estimator computes group-time specific average treatment effects (ATT(g,t)) before aggregation.</p>
+<p>The group-time average treatment effect <span class="math inline">\(ATT(g,t)\)</span> for cohort <span class="math inline">\(g\)</span> at time <span class="math inline">\(t\)</span> is defined as:</p>
+<p><span class="math display">\[
+ATT(g,t) = \mathbb{E}[Y_t - Y_{g-1} | G_g = 1] - \mathbb{E}[Y_t - Y_{g-1} | C = 1]
+\]</span></p>
+<p>At here, <span class="math inline">\(g\)</span> indexes the treatment cohort by the time period when treatment first occurs: <span class="math inline">\(g = 202508\)</span> for DC and <span class="math inline">\(g = 202509\)</span> for IL. The term <span class="math inline">\(Y_t\)</span> denotes the outcome (monthly article count) at time <span class="math inline">\(t\)</span>, while <span class="math inline">\(Y_{g-1}\)</span> represents the outcome in the period immediately preceding treatment onset for cohort <span class="math inline">\(g\)</span>. The indicator <span class="math inline">\(G_g = 1\)</span> selects units belonging to treatment cohort <span class="math inline">\(g\)</span>, and <span class="math inline">\(C = 1\)</span> selects never-treated control units—the 49 states that did not receive presidential intervention during the study period. The estimator thus compares the change in outcomes for treated units relative to the change for never-treated controls, computed separately for each cohort-time combination.</p>
+<p>To summarize treatment effects across cohorts and time periods, the dynamic aggregation scheme computes event-study parameters:</p>
+<p><span class="math display">\[
+ATT_{dynamic}(e) = \sum_{g} \frac{P(G=g)}{\sum_{g} P(G=g)} \cdot ATT(g, g+e)
+\]</span></p>
+<p>where <span class="math inline">\(e\)</span> denotes event time—the number of periods relative to treatment onset. Negative values of <span class="math inline">\(e\)</span> correspond to pre-treatment periods, <span class="math inline">\(e = 0\)</span> to the treatment period itself, and positive values to post-treatment periods. The weights <span class="math inline">\(P(G=g) / \sum_g P(G=g)\)</span> represent the proportion of treated units in each cohort, ensuring that larger cohorts receive proportionally greater weight in the aggregated estimate. This dynamic specification enables visualization of treatment effect trajectories and provides a direct test of the parallel trends assumption through examination of pre-treatment event-study coefficients.</p>
+<p>In the empirical implementation, the outcome <span class="math inline">\(Y\)</span> was the valid news frequency at the state-month level. The time periods spanned from January 2025 to October 2025 (<span class="math inline">\(t \in \{202501, ..., 202510\}\)</span>). The covariate-adjusted specification included the crime rate per 100,000 population to account for baseline differences in actual crime levels. All group-time ATT estimates used the DRDID estimator described above, and the dynamic event study aggregation examined relative time periods from <span class="math inline">\(e = -7\)</span> to <span class="math inline">\(e = +2\)</span>, capturing the trajectory of media coverage before and after presidential intervention.</p>
+</section>
+</section>
+<section id="descriptive-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="descriptive-analysis">Descriptive Analysis</h3>
+<div id="fig-2" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/cnn_monthly_article_count.png" class="img-fluid figure-img"></p>
+<figcaption>CNN Monthly Crime News Article Count (2021-2024)</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/foxnews_monthly_article_count.png" class="img-fluid figure-img"></p>
+<figcaption>Fox News Monthly Crime News Article Count (2021-2024)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2
+</figcaption>
+</figure>
+</div>
+<p>The trend presented in Figure 2 reveals a notable divergence in crime coverage between partisan media outlets during the period of 2021-2025. While CNN’s monthly crime news article count shows a relatively stable or declining trend in recent months, Fox News demonstrates a substantial surge in crime-related coverage during the same period. This divergent pattern is particularly pronounced following President Trump’s social media interventions regarding crime in Democratic-controlled areas. The stark contrast between these two partisan outlets’ coverage intensity, despite tracking the same underlying crime phenomena, provides initial support for the hypothesis that partisan media bias systematically distorts crime coverage.</p>
+<p>This descriptive analysis suggests that the relationship between elite rhetoric, partisan media coverage, and the gap between actual and perceived crime rates merits rigorous empirical testing through the proposed <span class="citation" data-cites="callaway2021difference">Callaway and Sant’Anna (<a href="#ref-callaway2021difference" role="doc-biblioref">2021</a>)</span> difference-in-differences (csdid) design.</p>
+</section>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<section id="parallel-trends-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="parallel-trends-assessment">Parallel Trends Assessment</h3>
+<p>Before proceeding with causal inference, the parallel trends assumption must be examined. The two-way fixed effects (TWFE) event study provides an initial diagnostic for this assumption by estimating treatment effects at each relative time period.</p>
+<div id="fig-3" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="plot/twfe_eventstudy.png" class="img-fluid figure-img" style="width:80.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: TWFE Event Study: Pre-treatment Parallel Trends Assessment
+</figcaption>
+</figure>
+</div>
+<p>The event study reveals that pre-treatment coefficients (periods <span class="math inline">\(e &lt; 0\)</span>) cluster around zero with confidence intervals that generally include zero, suggesting that treated and control units followed similar trajectories prior to presidential intervention. This pattern provides visual support for the parallel trends assumption that should treatment did not happen, DC and IL would have exhibited crime news coverage trends comparable to the control states. The post-treatment coefficients show substantial positive effects, indicating that presidential rhetoric increased crime news coverage in targeted states relative to untreated states.</p>
+</section>
+<section id="limitations-of-the-twfe-estimator" class="level3">
+<h3 class="anchored" data-anchor-id="limitations-of-the-twfe-estimator">Limitations of the TWFE Estimator</h3>
+<p>While the event study may provide useful diagnostic evidence, its two-way fixed effects estimator is insufficient for valid causal inference in this staggered adoption design. <span class="citation" data-cites="callaway2021difference">Callaway and Sant’Anna (<a href="#ref-callaway2021difference" role="doc-biblioref">2021</a>)</span> demonstrate that conventional TWFE estimators produce biased estimates when treatment timing varies across units. Three sources of bias apply directly to this analysis.</p>
+<p>First, TWFE implicitly uses already-treated units as controls for later-treated units. In this design, DC (treated August 2025) serves as an implicit control for IL (treated September 2025) after DC’s treatment, creating a “forbidden comparison” that contaminates the estimated treatment effect.</p>
+<p>Second, when treatment effects vary over time, as expected when media coverage responds dynamically to presidential rhetoric, the TWFE estimator esstentially assigns weights to different group-time effects. This may lead to some time periods’ treatment effects receive negative weights, causing the aggregate estimate to be a weighted average that may not recover any interpretable causal parameter.</p>
+<p>Third, the TWFE estimator assumes homogeneous treatment effects across cohorts and over time. If the effect of presidential intervention differs between DC and IL, or if the treatment effect grows or decays over the post-treatment period, TWFE conflates these heterogeneous effects into a single biased coefficient.</p>
+<p>These limitations motivate the use of the Doubly Robust Difference-in-Differences estimator <span class="citation" data-cites="santanna2020doubly">(<a href="#ref-santanna2020doubly" role="doc-biblioref">Sant’Anna and Zhao 2020</a>)</span> and the <span class="citation" data-cites="callaway2021difference">Callaway and Sant’Anna (<a href="#ref-callaway2021difference" role="doc-biblioref">2021</a>)</span> difference-in-differences estimator (CSDID), which computes group-time specific average treatment effects using only never-treated units as controls and aggregates them with appropriate weights.</p>
+</section>
+<section id="doubly-robust-difference-in-differences-estimation-1" class="level3">
+<h3 class="anchored" data-anchor-id="doubly-robust-difference-in-differences-estimation-1">Doubly Robust Difference-in-Differences Estimation</h3>
+<p>Table 1 presents the DRDID estimates for the Average Treatment Effect on the Treated (ATT) for both DC and IL, with and without covariate adjustment for baseline crime rates.</p>
+<div id="tbl-drdid" class="quarto-float quarto-figure quarto-figure-center anchored" data-tbl-colwidths="[25,12,12,12,12,22]">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-drdid-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Doubly Robust Difference-in-Differences Results
+</figcaption>
+<div aria-describedby="tbl-drdid-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 22%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Model</th>
+<th>ATT</th>
+<th>Std. Error</th>
+<th>t-value</th>
+<th>Pr(&gt;|t|)</th>
+<th>95% Conf. Interval</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>DC (No Covariates)</td>
+<td>179.38</td>
+<td>0.69</td>
+<td>261.34</td>
+<td>0.000</td>
+<td>[178.03, 180.73] *</td>
+</tr>
+<tr class="even">
+<td>IL (No Covariates)</td>
+<td>24.48</td>
+<td>3.15</td>
+<td>7.77</td>
+<td>0.000</td>
+<td>[18.31, 30.65] *</td>
+</tr>
+<tr class="odd">
+<td>DC (With Covariates)</td>
+<td>178.33</td>
+<td>0.41</td>
+<td>437.88</td>
+<td>0.000</td>
+<td>[177.53, 179.13] *</td>
+</tr>
+<tr class="even">
+<td>IL (With Covariates)</td>
+<td>23.91</td>
+<td>2.47</td>
+<td>9.68</td>
+<td>0.000</td>
+<td>[19.06, 28.75] *</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>The DRDID estimates show statistically significant treatment effects for both treated states. DC experienced an increase of approximately 179 additional crime news articles per month following the presidential intervention in August 2025. IL showed a smaller but still significant increase of approximately 24 additional articles per month after the September 2025 intervention. All estimates are significant at the p &lt; 0.001 level.</p>
+<p>The covariate-adjusted specifications, which control for baseline crime rates per 100,000 population, yield similar point estimates. DC’s ATT decreases from 179.38 to 178.33, while IL’s ATT decreases from 24.48 to 23.91. This stability across specifications indicates that the treatment effect estimates are robust to observable differences in actual crime levels between treated and control states. The reduction in standard errors under covariate adjustment reflects improved precision from accounting for baseline heterogeneity.</p>
+<p>The magnitude difference between DC and IL is notable. DC’s treatment effect is approximately 7.5 times larger than IL’s, despite both receiving presidential interventions. This disparity may reflect DC’s unique political status as the nation’s capital, its smaller geographic scope, or differences in the intensity of presidential rhetoric directed at each location.</p>
+</section>
+<section id="csdid-group-time-average-treatment-effects" class="level3">
+<h3 class="anchored" data-anchor-id="csdid-group-time-average-treatment-effects">CSDID Group-Time Average Treatment Effects</h3>
+<p>The Callaway and Sant’Anna estimator computes group-time specific average treatment effects, ATT(g,t), for each treatment cohort <span class="math inline">\(g\)</span> at each time period <span class="math inline">\(t\)</span>. In this staggered adoption design, Group 202508 represents DC (treated in August 2025) and Group 202509 represents IL (treated in September 2025). Figure 4 presents the ATT(g,t) estimates for both cohorts across the study period.</p>
+<div id="fig-4" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/csdid_attgt_nocov.png" class="img-fluid figure-img"></p>
+<figcaption>CSDID ATT(g,t): No Covariates</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/csdid_attgt_cov.png" class="img-fluid figure-img"></p>
+<figcaption>CSDID ATT(g,t): With Covariates</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: CSDID Group-Time Average Treatment Effects
+</figcaption>
+</figure>
+</div>
+<p>For Group 202508 (DC), the pre-treatment estimates cluster tightly around zero, supporting the parallel trends assumption. The treatment effect spikes to approximately 175 additional articles in August 2025, then declines in subsequent months. For Group 202509 (IL), the post-treatment effect in September 2025 reaches approximately 22 additional articles.</p>
+<p>However, a potential concern emerges in the IL estimates. The ATT(g,t) for Group 202509 shows positive effects in August 2025 (approximately 13 articles) and July 2025 (approximately 8 articles), periods before IL’s own treatment in September 2025. Two factors may explain this pattern.</p>
+<p>First, the monthly aggregation of data does not align precisely with treatment timing. Trump’s social media posts targeting DC and IL occurred within weeks of each other, not separated by a full 30-day interval. When aggregated to monthly observations, the treatment effect for IL may partially appear in earlier calendar months due to this temporal mismatch.</p>
+<p>Second, anticipation and spillover effects may be present. When the president called out DC for high crime, partisan media outlets may have preemptively increased coverage of crime in other Democratic-controlled areas, including IL. This spillover would generate positive ATT(g,t) estimates for IL before its formal treatment date.</p>
+</section>
+</section>
+<section id="robustness-check" class="level2">
+<h2 class="anchored" data-anchor-id="robustness-check">Robustness Check</h2>
+<p>The parallel trends assumption is fundamentally untestable because it concerns counterfactual outcomes. The HonestDiD framework <span class="citation" data-cites="rambachan2023more">(<a href="#ref-rambachan2023more" role="doc-biblioref">Rambachan and Roth 2023</a>)</span> addresses this limitation by computing confidence intervals that remain valid under controlled violations of parallel trends. Rather than assuming parallel trends hold exactly, HonestDiD asks: how large can the violation be before the treatment effect becomes statistically indistinguishable from zero?</p>
+<div id="fig-5" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/honestdid_csdid_nocov.png" class="img-fluid figure-img"></p>
+<figcaption>HonestDiD Sensitivity: No Covariates</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="plot/honestdid_csdid_cov.png" class="img-fluid figure-img"></p>
+<figcaption>HonestDiD Sensitivity: With Covariates</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: HonestDiD Sensitivity Analysis
+</figcaption>
+</figure>
+</div>
+<p>The x-axis, <span class="math inline">\(\bar{M}\)</span>, represents the maximum allowed deviation from parallel trends, expressed as a multiple of the estimated pre-treatment trend differences. At <span class="math inline">\(\bar{M} = 0\)</span>, the analysis assumes parallel trends hold exactly, yielding the original CSDID estimate (blue point). As <span class="math inline">\(\bar{M}\)</span> increases, the analysis allows for progressively larger violations of parallel trends, and the confidence intervals (red) widen accordingly.</p>
+<p>The results show that the treatment effect estimate remains statistically significant (confidence interval excludes zero) up to approximately <span class="math inline">\(\bar{M} = 2\)</span>. This indicates that even if the parallel trends violation is twice as large as the observed pre-treatment trend differences, the conclusion that presidential rhetoric increased crime news coverage would still hold. Only at <span class="math inline">\(\bar{M} = 5\)</span> and beyond does the confidence interval approach zero. Both the covariate-adjusted and unadjusted specifications produce similar sensitivity patterns, suggesting the findings are robust to moderate violations of the parallel trends assumption.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>This study provides evidence that presidential rhetoric increases regional crime news coverage from partisan media outlets. The DRDID estimates show DC experienced an increase of 179.38 additional crime news articles per month following the August 2025 intervention, while IL experienced an increase of 24.48 additional articles per month after the September 2025 intervention. Both estimates are statistically significant at p &lt; 0.001 and remain stable under covariate adjustment.</p>
+<p>The CSDID group-time estimates confirm these findings. DC’s treatment effect at August 2025 is 179.65 additional articles (SE = 0.67), and IL’s treatment effect at September 2025 is 21.47 additional articles (SE = 1.11). The magnitude difference between DC and IL may reflect DC’s unique political salience as the nation’s capital. Notably, IL shows significant positive effects before its own treatment: 7.78 additional articles in July 2025 and 13.65 in August 2025. This pre-treatment effect suggests spillover from DC’s intervention, where partisan media increased coverage of other Democratic-controlled areas after the president called out DC.</p>
+<p>The HonestDiD sensitivity analysis indicates that results remain robust to parallel trends violations up to <span class="math inline">\(\bar{M} = 2\)</span>, meaning the treatment effect remains significant even if pre-treatment trend differences were twice as large as observed. These findings support Hypothesis 1: presidential strategic communications increase the gap between actual and perceived performance through increased partisan media coverage.</p>
+</section>
+<section id="discussion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<p>Several limitations constrain the scope and generalizability of these findings.</p>
+<p>First, data collection is limited to CNN and Fox News. The treatment effect observed is concentrated in Fox News coverage, and this study does not test whether similar patterns occur on CNN or other media outlets. The news API calls are not free, and budget constraints prevented comprehensive data collection across more sources.</p>
+<p>Second, CNN news articles were not included in the analysis due to API cost constraints. The treatment effect findings are based on Fox News coverage only, so results reflect partisan media response rather than a comparison across outlets.</p>
+<p>Third, LLM-based annotation pipelines face challenges including hallucination, context bleeding across reports, and forced location extraction for ambiguous texts. This study addressed these issues through single-unit processing to prevent context bleeding, two-stage prompting to allow the model to reject irrelevant texts before location extraction, and explicit “None” options to avoid forced fabrication of locations.</p>
+<p>Fourth, only two states received treatment (DC and IL), limiting the statistical power of the CSDID estimator and the generalizability of findings to other contexts. The small number of treated units increases sensitivity to idiosyncratic factors specific to these two locations.</p>
+<p>Future work should expand data collection to include more media outlets across the partisan spectrum and extend the treatment sample to additional states targeted by presidential rhetoric. This would strengthen causal identification and test the generalizability of the observed effects.</p>
+<p>Methodologically, future research could employ additional LLM pipelines to classify the degree of support or criticism in coverage of presidential rhetoric, rather than simply counting article frequency. Fine-tuned models trained on media bias datasets could measure the bias level of individual news reports, enabling analysis of whether presidential intervention affects not only coverage volume but also coverage tone.</p>
+<p>This study also assumes that presidential rhetoric causes media coverage. Future research should investigate reverse causality: whether existing media bias gives political leaders’ chance to leverage it to increase their own support, and whether democratic backsliding itself generates both increased media bias and more aggressive presidential rhetoric. Disentangling these causal pathways requires additional identification strategies and longitudinal data.</p>
+<p>Finally, a future step is to extend this study to cross-national data to test whether media bias that distorts reality enables democratic backsliding globally. If systematic distortions misrepresent actual performance, they should correlate with democratic backsliding across countries and over time. Such an extension would provide a generalizable framework for understanding how information manipulation enables democratic backsliding beyond the United States.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-achen2016democracy" class="csl-entry" role="listitem">
+Achen, Christopher H, and Larry M Bartels. 2016. <em>Democracy for Realists: Why Elections Do Not Produce Responsive Government</em>. Princeton: Princeton University Press.
+</div>
+<div id="ref-llama3" class="csl-entry" role="listitem">
+AI@Meta. 2024. <span>“The Llama 3 Herd of Models.”</span> <em>arXiv Preprint arXiv:2407.21783</em>. <a href="https://arxiv.org/abs/2407.21783">https://arxiv.org/abs/2407.21783</a>.
+</div>
+<div id="ref-callaway2021difference" class="csl-entry" role="listitem">
+Callaway, Brantly, and Pedro HC Sant’Anna. 2021. <span>“Difference-in-Differences with Multiple Time Periods.”</span> <em>Journal of Econometrics</em> 225 (2): 200–230.
+</div>
+<div id="ref-carothers2024misunderstanding" class="csl-entry" role="listitem">
+Carothers, Thomas, and Brendan Hartnett. 2024. <span>“Misunderstanding Democratic Backsliding.”</span> <em>Journal of Democracy</em>. <a href="https://www.journalofdemocracy.org/articles/misunderstanding-democratic-backsliding/">https://www.journalofdemocracy.org/articles/misunderstanding-democratic-backsliding/</a>.
+</div>
+<div id="ref-coe2008hostile" class="csl-entry" role="listitem">
+Coe, Kevin, David Tewksbury, Bradley J Bond, Kristin L Drogos, Robert W Porter, Ashley Yahn, and Yuanyuan Zhang. 2008. <span>“Hostile News: Partisan Use and Perceptions of Cable News Programming.”</span> <em>Journal of Communication</em> 58 (2): 201–19.
+</div>
+<div id="ref-economist2019elsalvador" class="csl-entry" role="listitem">
+Economist. 2019. <span>“El Salvador’s New President Takes on the Country’s Gangs.”</span> <em>The Economist</em>.
+</div>
+<div id="ref-executiveorders2025" class="csl-entry" role="listitem">
+Executive Orders. 2025. <span>“Declaring a Crime Emergency in the District of Columbia.”</span> The White House. <a href="https://www.whitehouse.gov/presidential-actions/2025/08/declaring-a-crime-emergency-in-the-district-of-columbia/">https://www.whitehouse.gov/presidential-actions/2025/08/declaring-a-crime-emergency-in-the-district-of-columbia/</a>.
+</div>
+<div id="ref-fbi2025cde" class="csl-entry" role="listitem">
+Federal Bureau of Investigation. 2025. <span>“Crime Data Explorer (CDE).”</span> <a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend">https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend</a>.
+</div>
+<div id="ref-gorham2006news" class="csl-entry" role="listitem">
+Gorham, Bradley W. 2006. <span>“News Media’s Relationship with Stereotyping: The Linguistic Intergroup Bias in Response to Crime News.”</span> <em>Journal of Communication</em> 56 (2): 289–308.
+</div>
+<div id="ref-hunter2019bolsonaro" class="csl-entry" role="listitem">
+Hunter, Wendy, and Timothy J Power. 2019. <span>“Bolsonaro and Brazil’s Illiberal Backlash.”</span> <em>Journal of Democracy</em> 30 (1): 68–82.
+</div>
+<div id="ref-iyengar2009red" class="csl-entry" role="listitem">
+Iyengar, Shanto, and Kyu S Hahn. 2009. <span>“Red Media, Blue Media: Evidence of Ideological Selectivity in Media Use.”</span> <em>Journal of Communication</em> 59 (1): 19–39.
+</div>
+<div id="ref-newsdataio2025" class="csl-entry" role="listitem">
+NewsData.io. 2025. <span>“NewsData.io: News API for Real-Time and Historical News Data.”</span> <a href="https://newsdata.io/">https://newsdata.io/</a>.
+</div>
+<div id="ref-niven1999partisan" class="csl-entry" role="listitem">
+Niven, David. 1999. <span>“Partisan Bias in the Media? A New Test.”</span> <em>Social Science Quarterly</em> 80 (4): 847–57.
+</div>
+<div id="ref-niven2001bias" class="csl-entry" role="listitem">
+———. 2001. <span>“Bias in the News: Partisanship and Negativity in Media Coverage of Presidents George Bush and Bill Clinton.”</span> <em>Harvard International Journal of Press/Politics</em> 6 (3): 31–46.
+</div>
+<div id="ref-ollama2024" class="csl-entry" role="listitem">
+Ollama. 2024. <span>“Ollama: Run Large Language Models Locally.”</span> <a href="https://ollama.org/">https://ollama.org/</a>.
+</div>
+<div id="ref-rambachan2023more" class="csl-entry" role="listitem">
+Rambachan, Ashesh, and Jonathan Roth. 2023. <span>“A More Credible Approach to Parallel Trends.”</span> <em>Review of Economic Studies</em> 90 (5): 2555–91.
+</div>
+<div id="ref-sancheztalanquer2021populist" class="csl-entry" role="listitem">
+Sánchez-Talanquer, Mariano, and Kenneth F Greene. 2021. <span>“Is This Latin America’s Populist Wave?”</span> <em>Journal of Democracy</em> 32 (4): 5–20.
+</div>
+<div id="ref-santanna2020doubly" class="csl-entry" role="listitem">
+Sant’Anna, Pedro HC, and Jun Zhao. 2020. <span>“Doubly Robust Difference-in-Differences Estimators.”</span> <em>Journal of Econometrics</em> 219 (1): 101–22.
+</div>
+<div id="ref-shah2021death" class="csl-entry" role="listitem">
+Shah, V. 2021. <span>“Death Across the News Spectrum: A Time Series Analysis of Partisan Coverage Following Mass Shootings in the United States Between 2012 and 2014.”</span> <a href="https://www.semanticscholar.org/paper/Death-Across-the-News-Spectrum%3A-A-Time-Series-of-in-Shah/bc337321059c0a265547708c0a8293552f3ffc58">https://www.semanticscholar.org/paper/Death-Across-the-News-Spectrum%3A-A-Time-Series-of-in-Shah/bc337321059c0a265547708c0a8293552f3ffc58</a>.
+</div>
+<div id="ref-shaikh2024recognize" class="csl-entry" role="listitem">
+Shaikh, Sonia Jawaid, and Rachel E Moran. 2024. <span>“Recognize the Bias? News Media Partisanship Shapes the Coverage of Facial Recognition Technology in the United States.”</span> <em>New Media &amp; Society</em> 26 (5): 2829–50.
+</div>
+<div id="ref-sridharan2014india" class="csl-entry" role="listitem">
+Sridharan, E. 2014. <span>“India’s Watershed Vote: Hindu Nationalism in Power?”</span> <em>Journal of Democracy</em> 25 (4): 34–45.
+</div>
+<div id="ref-whitehouse2025fact" class="csl-entry" role="listitem">
+The White House. 2025. <span>“FACT: Yes, d.c. Crime Is Out of Control.”</span> <a href="https://www.whitehouse.gov/articles/2025/08/fact-yes-d-c-crime-is-out-of-control/">https://www.whitehouse.gov/articles/2025/08/fact-yes-d-c-crime-is-out-of-control/</a>.
+</div>
+<div id="ref-thenewsapi2025" class="csl-entry" role="listitem">
+TheNewsAPI. 2025. <span>“TheNewsAPI: Free Live and Top Story JSON News API.”</span> <a href="https://www.thenewsapi.com/">https://www.thenewsapi.com/</a>.
+</div>
+<div id="ref-truthsocial2025" class="csl-entry" role="listitem">
+Trump Media &amp; Technology Group. 2025. <span>“Truth Social.”</span> <a href="https://truthsocial.com/">https://truthsocial.com/</a>.
+</div>
+</div>
+</section>
+
+
+
+<div id="quarto-appendix" class="default"><section id="sec-appendix-a" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Appendix A: LLM Architecture Design</h2><div class="quarto-appendix-contents">
+
+<div class="cell" data-fig-width="22" data-fig-height="6" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TB
+    A1[News Source 1]
+    A2[News Source 2]
+    A3[News Source 3]
+    A4[...]
+    A5[News Source N]
+    
+    B[Aggregate Raw Reports]
+    
+    C[Full News Report Dataset&lt;br/&gt;2021-2025]
+    
+    subgraph D["LLM Pipeline"]
+        direction LR
+        E1[Model 1: Relevance Classification]
+        E2[Model 2: Location Annotation]
+        E1 --&gt; E2
+    end
+    
+    F[Post-Processing]
+    
+    G[Regional Crime News Dataset&lt;br/&gt;with State-Level Annotations]
+    
+    A1 &amp; A2 &amp; A3 &amp; A4 &amp; A5 --&gt; B
+    B --&gt; C
+    C --&gt; D
+    D --&gt; F
+    F --&gt; G
+    
+    style D fill:#e1f5ff
+    style G fill:#e8f5e9
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div></section><section id="sec-appendix-b" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Appendix B: Prompts Example</h2><div class="quarto-appendix-contents">
+
+<p><strong>Model 1 - Relevance Classification:</strong></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>response_relevance <span class="op">=</span> ollama.chat(</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    model<span class="op">=</span>model_name,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    messages<span class="op">=</span>[{</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>        <span class="st">'role'</span>: <span class="st">'user'</span>,</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        <span class="st">'content'</span>: <span class="ss">f'Is this text about crime in a US location? </span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="er">                    Respond in JSON format: </span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>                    {{<span class="st">"relevance"</span>: true}} <span class="kw">or</span> {{<span class="st">"relevance"</span>: false}}</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>                    </span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>                    Text: {text}<span class="st">'</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="er">    }</span>],</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="bu">format</span><span class="op">=</span><span class="st">'json'</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>Model 2 - Location Annotation:</strong></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>response_location <span class="op">=</span> ollama.chat(</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    model<span class="op">=</span>model_name,</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    messages<span class="op">=</span>[{</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>        <span class="st">'role'</span>: <span class="st">'user'</span>,</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>        <span class="st">'content'</span>: <span class="ss">f'Identify the exact US STATE mentioned in this text. </span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="er">                    If no state is mentioned, respond with "None". </span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>                    If the region <span class="kw">is</span> subnational, respond <span class="cf">with</span> the </span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>                    two digit state code. </span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>                    Respond <span class="kw">in</span> JSON <span class="bu">format</span>: </span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>                    {{<span class="st">"location"</span>: <span class="st">"two digit state code"</span>}}</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>                    </span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>                    Text: {text}<span class="st">'</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="er">    }</span>],</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    <span class="bu">format</span><span class="op">=</span><span class="st">'json'</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div></section></div></main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
